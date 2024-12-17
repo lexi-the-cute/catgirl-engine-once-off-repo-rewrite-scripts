@@ -1,0 +1,5 @@
+-35b9e74c9246e91c61eb7223d63302e4c633ed99 android/app/jni/SDL
+-45da2b22b53541330d6b6eb7c9a1aecabdf4cc7a android/app/jni/SDL_image
+-da7b1c6df21d00e867c6ccaa5825fb8f9aedd4b2 android/app/jni/SDL_ttf
+-c4fe77c3f072fab930267f95510562e7aeb03302 android/app/jni/freetype
+-19e1b698c59e56b6e3530220866be0cd0754d1bd android/app/jni/harfbuzz

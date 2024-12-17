@@ -1,0 +1,1182 @@
+Sun Apr 16 02:19:19 2023 -0400	Initial Commit
+Sun Apr 16 02:30:20 2023 -0400	Adding File Watcher Limit
+Sun Apr 16 14:07:16 2023 -0400	Managed To Run As Android App, Will Cleanup Code Later
+Sun Apr 16 22:09:51 2023 -0400	Started Work Cleaning Up Repo
+Sun Apr 16 22:12:21 2023 -0400	Submodule
+Sun Apr 16 22:15:07 2023 -0400	File Watch Exclusions
+Sun Apr 16 22:19:41 2023 -0400	Remove Newlines
+Sun Apr 16 22:22:25 2023 -0400	CMake Source Directory
+Sun Apr 16 22:56:46 2023 -0400	Sample Local Properties
+Sun Apr 16 23:23:36 2023 -0400	Saving Progress on Deduplicating Code
+Sun Apr 16 23:24:19 2023 -0400	Commenting Out Dead Code
+Mon Apr 17 01:38:41 2023 -0400	Saving Current Work For Later
+Mon Apr 17 01:47:31 2023 -0400	Saving New Links For Now
+Mon Apr 17 18:20:56 2023 -0400	Updating .gitignore
+Mon Apr 17 18:22:35 2023 -0400	Fixing Typo
+Mon Apr 17 18:41:52 2023 -0400	Saving Config
+Mon Apr 17 19:02:58 2023 -0400	Messing With Building Android From Cargo
+Tue Apr 18 01:42:21 2023 -0400	Saving Current Work
+Tue Apr 18 01:52:19 2023 -0400	Saving Current Work
+Tue Apr 18 01:53:04 2023 -0400	Saving Current Work
+Tue Apr 18 03:39:50 2023 -0400	Saving Android Build Instructions
+Tue Apr 18 04:15:18 2023 -0400	Saving Update To ReadMe Instructions
+Tue Apr 18 04:53:17 2023 -0400	Fixing Previous Change
+Tue Apr 18 11:46:17 2023 -0400	Cleaning Up ReadMe
+Tue Apr 18 12:17:43 2023 -0400	Setting To 60 FPS
+Tue Apr 18 12:36:51 2023 -0400	Added Assets
+Tue Apr 18 12:47:20 2023 -0400	Saving Current Work
+Tue Apr 18 14:45:11 2023 -0400	Saving TTF and Image Work So Far
+Wed Apr 19 00:12:02 2023 -0400	Working on Compiling For Android
+Wed Apr 19 00:14:58 2023 -0400	Renaming As Sample
+Wed Apr 19 00:21:13 2023 -0400	Revert Commit
+Wed Apr 19 02:25:37 2023 -0400	Updated .gitignore
+Wed Apr 19 03:05:06 2023 -0400	Attempting To Build Against SDL2_image
+Thu Apr 20 00:01:02 2023 -0400	Cleaned Up Multiple Android Building Errors. Only Texture Loading Is Left
+Thu Apr 20 00:06:39 2023 -0400	Added Some Notes
+Thu Apr 20 00:41:33 2023 -0400	Updating Package Name
+Thu Apr 20 04:38:04 2023 -0400	Saving Current Work For Loading Assets
+Thu Apr 20 06:02:07 2023 -0400	Made It Possible For Android To Load Textures
+Thu Apr 20 19:22:34 2023 -0400	Rewrote All Logging Code
+Thu Apr 20 21:33:39 2023 -0400	Logging
+Thu Apr 20 23:59:53 2023 -0400	Thread Management
+Fri Apr 21 00:10:23 2023 -0400	Notes
+Fri Apr 21 00:45:47 2023 -0400	Symlink
+Fri Apr 21 02:36:04 2023 -0400	Added Ability To Extract ResourcePack From APK
+Fri Apr 21 19:01:22 2023 -0400	Messing With Player and Entity Creation
+Fri Apr 21 22:47:15 2023 -0400	Saving Inheritance Replacement Experiment
+Sat Apr 22 02:10:37 2023 -0400	Experiments
+Sat Apr 22 13:31:43 2023 -0400	Github Actions
+Sat Apr 22 13:35:34 2023 -0400	Github Actions Fix
+Sat Apr 22 13:44:50 2023 -0400	Testing Github Actions Changes
+Sat Apr 22 13:46:36 2023 -0400	Added Run Key
+Sat Apr 22 14:37:00 2023 -0400	Android Build Process
+Sat Apr 22 14:39:58 2023 -0400	Fixed Typo
+Sat Apr 22 14:40:39 2023 -0400	Fixed Typo
+Sat Apr 22 14:42:49 2023 -0400	Testing Android 2
+Sat Apr 22 14:58:25 2023 -0400	Adding Recursive Submodule Cloning
+Sat Apr 22 15:05:00 2023 -0400	Attempting To Auto-Accept Android SDK Licenses
+Sat Apr 22 15:15:22 2023 -0400	Adding Ability To Create config.toml
+Sat Apr 22 15:20:54 2023 -0400	Android Licenses
+Sat Apr 22 15:25:19 2023 -0400	Adding yes to Accept Android Licenses
+Sat Apr 22 15:37:10 2023 -0400	Fixed armv7-linux-androideabi Typo
+Sat Apr 22 15:53:42 2023 -0400	Setup Update Alternatives
+Sat Apr 22 16:04:32 2023 -0400	Edited JAVA_HOME
+Sat Apr 22 22:45:19 2023 -0400	Added Artifact Uploading
+Sat Apr 22 22:45:37 2023 -0400	Removing Test Files
+Sat Apr 22 22:54:29 2023 -0400	Fixing Zipping and Gradle
+Sun Apr 23 01:43:36 2023 -0400	Added Newer Build Outputs Including Release Signing
+Sun Apr 23 02:17:13 2023 -0400	Added Environment Fix and Updated ReadMe
+Sun Apr 23 02:34:19 2023 -0400	Fixing Build File
+Sun Apr 23 02:59:38 2023 -0400	Environment
+Sun Apr 23 03:03:51 2023 -0400	Secret Environment
+Sun Apr 23 03:09:45 2023 -0400	Environment Vars
+Sun Apr 23 03:16:05 2023 -0400	Found Out ${{ vars.ANDROID_RELEASE_KEY_PATH }} and $ANDROID_RELEASE_KEY_PATH Are The Same Key
+Sun Apr 23 03:43:50 2023 -0400	Testing RUNNER_TEMP
+Sun Apr 23 03:51:33 2023 -0400	Readding Environment Var
+Sun Apr 23 03:52:31 2023 -0400	Fixed Typo
+Sun Apr 23 04:24:44 2023 -0400	Fixed Typo With Artifact
+Sun Apr 23 04:51:47 2023 -0400	Minifying breaks SDLActivity
+Sun Apr 23 05:20:48 2023 -0400	Fixing Broken Java App
+Sun Apr 23 13:13:36 2023 -0400	Messing With Proguard
+Sun Apr 23 13:30:13 2023 -0400	Fixing Typo With Bundle
+Sun Apr 23 22:49:39 2023 -0400	Commenting Out Dead Code
+Sun Apr 23 23:20:42 2023 -0400	Working on Cross Compilation Support
+Sun Apr 23 23:44:48 2023 -0400	Fixing Paths
+Sun Apr 23 23:57:17 2023 -0400	Fixing Paths 2: Electric Boogaloo
+Mon Apr 24 01:40:21 2023 -0400	Saving Current Work in Musl Compilation
+Mon Apr 24 01:49:02 2023 -0400	Adding Recursive Submodule Cloning
+Mon Apr 24 01:52:07 2023 -0400	Adding New Package
+Mon Apr 24 01:57:24 2023 -0400	Fixing Library Paths
+Mon Apr 24 02:13:15 2023 -0400	Trying Downgrading
+Mon Apr 24 02:21:57 2023 -0400	...
+Mon Apr 24 02:31:54 2023 -0400	Disabled Musl Workflow
+Mon Apr 24 03:35:04 2023 -0400	Linux Export SDL
+Mon Apr 24 03:36:35 2023 -0400	Remove Old Simple
+Mon Apr 24 03:45:47 2023 -0400	Added Creation of Build Directories
+Mon Apr 24 03:53:07 2023 -0400	Fixed Path
+Mon Apr 24 04:01:30 2023 -0400	Relative Paths Not Allowed
+Mon Apr 24 04:58:02 2023 -0400	Working on Making Engine As Portable As Possible
+Mon Apr 24 05:06:58 2023 -0400	Renamed Executable
+Mon Apr 24 22:48:34 2023 -0400	Removing Harfbuzz
+Tue Apr 25 00:14:39 2023 -0400	Testing Deb Creation
+Tue Apr 25 00:27:06 2023 -0400	Removing Missing Package
+Tue Apr 25 00:37:24 2023 -0400	Fixing Broken Build Scripts
+Tue Apr 25 00:56:08 2023 -0400	Specifying Version Information
+Tue Apr 25 01:05:31 2023 -0400	Fixing Weird Bug With Running Autogen
+Tue Apr 25 01:16:41 2023 -0400	Debugging Freetype Compilation
+Tue Apr 25 01:29:38 2023 -0400	Modified Working Directory Setup
+Tue Apr 25 01:45:24 2023 -0400	Saving Current Work
+Tue Apr 25 02:23:21 2023 -0400	Setting Working Directory
+Tue Apr 25 02:25:26 2023 -0400	Fixing Typo With Harfbuzz Lib Copying
+Tue Apr 25 02:33:00 2023 -0400	Added Missing Dependency, ragel
+Tue Apr 25 02:48:36 2023 -0400	Changing RPath
+Tue Apr 25 02:51:37 2023 -0400	Fixing RPath
+Tue Apr 25 03:11:14 2023 -0400	Trying New RPath Origin
+Tue Apr 25 03:28:20 2023 -0400	Reversing Origin
+Tue Apr 25 17:57:19 2023 -0400	Renaming Artifacts
+Tue Apr 25 23:37:59 2023 -0400	Adding GLibC Compilation
+Tue Apr 25 23:39:30 2023 -0400	Copy
+Tue Apr 25 23:40:31 2023 -0400	Renaming Copied Artifacts
+Wed Apr 26 00:05:31 2023 -0400	Fixing Typo
+Wed Apr 26 00:13:21 2023 -0400	Added Renaming Directory As Working-Directory Does Not Take Variables
+Wed Apr 26 01:28:37 2023 -0400	Saving Current Work
+Wed Apr 26 01:29:17 2023 -0400	Checking Value of Auto
+Wed Apr 26 01:46:48 2023 -0400	Saving Current Work
+Wed Apr 26 01:51:09 2023 -0400	Attempting Gradle Build For Native Libs
+Wed Apr 26 02:28:49 2023 -0400	Testing Using Gradle NDK
+Wed Apr 26 02:55:42 2023 -0400	Updating Android Building
+Wed Apr 26 03:07:58 2023 -0400	Debugging Android
+Wed Apr 26 03:20:22 2023 -0400	Changing Pathing Strategy
+Wed Apr 26 03:44:45 2023 -0400	Rust Flags
+Wed Apr 26 03:57:19 2023 -0400	Try 2
+Wed Apr 26 04:15:18 2023 -0400	Adding SDL Packages Back
+Wed Apr 26 04:34:20 2023 -0400	Readding Rust Flags
+Wed Apr 26 08:40:15 2023 -0400	Changing Paths
+Wed Apr 26 08:56:52 2023 -0400	LS
+Wed Apr 26 09:07:57 2023 -0400	Changing Paths
+Wed Apr 26 11:15:59 2023 -0400	Added Listing All Files
+Wed Apr 26 16:51:17 2023 -0400	Downgrading Runner
+Wed Apr 26 17:01:16 2023 -0400	Downgrading Runner Again
+Wed Apr 26 18:01:06 2023 -0400	Realized I Changed Runner Version On Wrong Workflow
+Wed Apr 26 22:18:31 2023 -0400	Fixing Path For Android
+Wed Apr 26 23:56:23 2023 -0400	Fixing Android Versioning
+Thu Apr 27 00:04:33 2023 -0400	Testing Latest Version
+Thu Apr 27 00:54:58 2023 -0400	Going Back To Older Ubuntu
+Thu Apr 27 02:03:46 2023 -0400	Messing With Versioning
+Thu Apr 27 03:00:06 2023 -0400	Trying Ubuntu 18.04
+Thu Apr 27 04:35:22 2023 -0400	Trying Self Built SDL on Debian
+Thu Apr 27 04:47:11 2023 -0400	Rebuild
+Thu Apr 27 16:05:43 2023 -0400	Testing Adding Deps
+Thu Apr 27 16:16:31 2023 -0400	Fixing Path Typo
+Thu Apr 27 16:37:49 2023 -0400	Testing Without TTF
+Thu Apr 27 16:42:52 2023 -0400	Trying to trackdown cause of segfault
+Thu Apr 27 17:04:10 2023 -0400	Testing Segfault
+Thu Apr 27 17:26:55 2023 -0400	Reverting Changes
+Thu Apr 27 21:11:31 2023 -0400	Trying Musl Again
+Thu Apr 27 21:17:27 2023 -0400	Changing CMake Name
+Thu Apr 27 21:21:39 2023 -0400	Trying Multilib
+Thu Apr 27 21:26:29 2023 -0400	Changing Package Name
+Thu Apr 27 22:59:00 2023 -0400	Saving Current Work
+Fri Apr 28 00:50:09 2023 -0400	Testing
+Sat Apr 29 01:49:51 2023 -0400	Testing
+Sat Apr 29 01:59:31 2023 -0400	Testing Reverse
+Sat Apr 29 02:13:44 2023 -0400	Adding --lib
+Sat Apr 29 02:34:07 2023 -0400	Modifying Tests
+Sat Apr 29 02:37:36 2023 -0400	Modifying Tests
+Sat Apr 29 03:15:27 2023 -0400	Removed Android Version of Tests As Always Will Be Exec format error without special multi-arch support
+Sat Apr 29 15:12:41 2023 -0400	Trying New Musl Cross Compiler
+Sat Apr 29 15:13:38 2023 -0400	Disabling Old Cross Compiler
+Sun Apr 30 00:46:46 2023 -0400	Musl Cross
+Sun Apr 30 01:13:45 2023 -0400	Symlinks
+Sun Apr 30 01:42:42 2023 -0400	Trying Manually Building SDL
+Sun Apr 30 01:58:47 2023 -0400	Trying Premade Toolchain
+Sun Apr 30 02:07:05 2023 -0400	Trying New Path
+Sun Apr 30 02:12:15 2023 -0400	Root Paths
+Sun Apr 30 02:16:05 2023 -0400	Debugging Missing GCC
+Sun Apr 30 02:19:48 2023 -0400	Debugging Paths
+Sun Apr 30 02:24:11 2023 -0400	Testing Something
+Sun Apr 30 02:32:47 2023 -0400	Trying My Build Again
+Sun Apr 30 02:42:34 2023 -0400	Bypassing Compiler Check As Cross Compiling
+Sun Apr 30 04:15:00 2023 -0400	Updating Build
+Sun Apr 30 22:14:11 2023 -0400	Trying Build As Zip
+Sun Apr 30 22:18:03 2023 -0400	Set Executable Bit
+Sun Apr 30 22:36:49 2023 -0400	Manual Includes
+Sun Apr 30 23:28:45 2023 -0400	Testing
+Sun Apr 30 23:33:33 2023 -0400	Testing libc6-dev-amd64-cross
+Sun Apr 30 23:39:05 2023 -0400	Trying Again
+Sun Apr 30 23:42:40 2023 -0400	Read Documentation More Closely
+Sun Apr 30 23:44:46 2023 -0400	Hmmmm
+Sun Apr 30 23:48:12 2023 -0400	Testing File List
+Sun Apr 30 23:50:50 2023 -0400	/
+Mon May 1 00:05:30 2023 -0400	Hmmmm
+Mon May 1 00:08:58 2023 -0400	Why Not Finding?
+Mon May 1 00:29:23 2023 -0400	Trying Setting Separately
+Mon May 1 00:37:00 2023 -0400	Try 2
+Mon May 1 00:41:55 2023 -0400	Editing Toolchain File
+Mon May 1 00:49:03 2023 -0400	...
+Mon May 1 00:50:50 2023 -0400	Reverting Changes
+Mon May 1 00:59:39 2023 -0400	...
+Mon May 1 01:03:23 2023 -0400	BOTH
+Mon May 1 02:29:56 2023 -0400	Trying Placing Toolchain In 2 Places
+Mon May 1 03:14:05 2023 -0400	Trying Symlinking
+Mon May 1 04:25:10 2023 -0400	Trying Workaround
+Mon May 1 04:36:08 2023 -0400	Simplifying Workaround
+Mon May 1 04:46:16 2023 -0400	Disabled TTF For Debugging
+Mon May 1 04:50:00 2023 -0400	Workspace
+Mon May 1 04:50:15 2023 -0400	Removed TTF
+Mon May 1 04:58:42 2023 -0400	Changing Sed Delimiter
+Mon May 1 05:02:23 2023 -0400	Disabled TTF For Debugging
+Mon May 1 05:15:51 2023 -0400	Modifying Link Paths
+Mon May 1 05:30:47 2023 -0400	Trying Lib Path
+Mon May 1 05:56:58 2023 -0400	Fixing Path Typo
+Mon May 1 06:08:53 2023 -0400	Saving Current Work
+Mon May 1 16:16:51 2023 -0400	Saving Current Work
+Tue May 2 04:47:22 2023 -0400	Saving Current Work
+Tue May 2 17:48:02 2023 -0400	Adding ZLib License
+Tue May 2 17:50:09 2023 -0400	Adding More To Search Ignore
+Tue May 2 22:54:47 2023 -0400	Saving Current Work
+Tue May 2 23:03:51 2023 -0400	Provided List for Funding
+Tue May 2 23:50:10 2023 -0400	Update FUNDING.yml
+Wed May 3 02:55:44 2023 -0400	Preparing For F-Droid Building
+Wed May 3 03:31:49 2023 -0400	Fixing NDK Building For F-Droid
+Wed May 3 03:52:32 2023 -0400	Reverting To RUSTFLAGS in Build Scripts
+Wed May 3 18:03:53 2023 -0400	Re-adding TTF
+Wed May 3 19:28:10 2023 -0400	Adding Freetype
+Thu May 4 07:17:52 2023 -0400	Added Disabling Submodule Detection
+Mon May 8 01:42:19 2023 -0400	Trying without GCC
+Mon May 8 02:52:05 2023 -0400	Experiment
+Mon May 8 02:59:30 2023 -0400	Disabling TTF For Experiment
+Mon May 8 03:10:13 2023 -0400	Hmmmm
+Mon May 8 03:19:03 2023 -0400	Shared
+Mon May 8 03:37:12 2023 -0400	Removing PIC
+Mon May 8 04:13:50 2023 -0400	Adding PIC on CMAKE
+Mon May 8 04:21:01 2023 -0400	Adding Shared
+Mon May 8 04:59:19 2023 -0400	Update config.toml.sample
+Mon May 8 07:17:46 2023 -0400	Changing Upload Path
+Mon May 8 07:40:15 2023 -0400	Temporary Adding Libs To Zip
+Mon May 8 15:25:38 2023 -0400	Debugging Building
+Mon May 8 17:27:55 2023 -0400	Moving to APT Musl
+Mon May 8 17:32:44 2023 -0400	Creating Tools Directory
+Mon May 8 17:35:54 2023 -0400	Continue On Error
+Mon May 8 17:38:28 2023 -0400	Fixing Path
+Mon May 8 17:47:50 2023 -0400	Temp Disabling Tests
+Mon May 8 18:00:35 2023 -0400	Disabling Enforced PIE on a hunch
+Mon May 8 18:28:47 2023 -0400	Saving Current Work
+Mon May 8 19:30:25 2023 -0400	Adding Link
+Mon May 8 20:47:45 2023 -0400	Hmmmm
+Mon May 8 21:34:53 2023 -0400	Saving Current Work
+Mon May 8 22:11:41 2023 -0400	Static
+Mon May 8 23:57:38 2023 -0400	TTF
+Tue May 9 00:01:53 2023 -0400	Fix Typo
+Tue May 9 00:32:43 2023 -0400	Testing Freetype
+Tue May 9 01:11:59 2023 -0400	Runpath
+Tue May 9 01:36:58 2023 -0400	Patchelf
+Tue May 9 01:57:34 2023 -0400	Fix Typo
+Tue May 9 03:18:36 2023 -0400	Updating SDL Java
+Tue May 9 22:31:05 2023 -0400	Updating ReadMe
+Tue May 9 23:21:10 2023 -0400	Adding GNU Build
+Tue May 9 23:22:37 2023 -0400	Lowered Runner Version
+Tue May 9 23:36:06 2023 -0400	Added libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
+Wed May 10 03:10:24 2023 -0400	Backports
+Wed May 10 03:15:36 2023 -0400	lunar Backports
+Wed May 10 03:27:49 2023 -0400	Shenanigans
+Wed May 10 03:28:20 2023 -0400	Shenanigans 2
+Wed May 10 03:37:58 2023 -0400	Trying Jammy
+Wed May 10 03:46:19 2023 -0400	Just building it myself
+Wed May 10 03:49:47 2023 -0400	libxext-dev
+Wed May 10 03:52:42 2023 -0400	BOTH
+Wed May 10 04:00:37 2023 -0400	Freetype
+Wed May 10 04:04:19 2023 -0400	Freetype
+Wed May 10 04:09:06 2023 -0400	Lib PNG
+Wed May 10 04:17:16 2023 -0400	Testing Hunch
+Wed May 10 04:33:40 2023 -0400	CFLAGS
+Wed May 10 04:42:40 2023 -0400	Hmmmm
+Wed May 10 04:58:14 2023 -0400	Rename
+Wed May 10 05:03:38 2023 -0400	Shenanigans
+Wed May 10 22:40:48 2023 -0400	Manually Setting Version
+Wed May 10 22:52:56 2023 -0400	Fixing Broken Local Compile
+Wed May 10 23:03:00 2023 -0400	Re-enabled Testing
+Thu May 11 08:10:16 2023 -0400	aarch64-unknown-linux-gnu
+Thu May 11 08:18:27 2023 -0400	aarch64-linux-gnu
+Thu May 11 09:04:16 2023 -0400	Raspberry Pi OS
+Thu May 11 09:25:23 2023 -0400	Fixed Lib Copying Process
+Thu May 11 09:53:09 2023 -0400	Fixing Naming
+Thu May 11 10:28:32 2023 -0400	Fixing Naming
+Fri May 12 01:11:12 2023 -0400	Trying CMake Way
+Fri May 12 01:14:05 2023 -0400	Fixing Typo
+Fri May 12 01:15:57 2023 -0400	clang++-fat.sh?
+Fri May 12 01:17:42 2023 -0400	Full Path
+Fri May 12 01:22:21 2023 -0400	Symlink
+Fri May 12 01:23:52 2023 -0400	/tmp/build-scripts
+Fri May 12 01:38:53 2023 -0400	continue-on-error: true
+Fri May 12 01:58:33 2023 -0400	?
+Fri May 12 02:10:55 2023 -0400	Removed A Couple Of Things
+Fri May 12 22:53:28 2023 -0400	Experiment
+Fri May 12 23:29:07 2023 -0400	Trying XCodeBuild
+Fri May 12 23:35:11 2023 -0400	Try 2
+Fri May 12 23:45:07 2023 -0400	Bumped Up MACOSX_DEPLOYMENT_TARGET To Minimum Supported Version
+Fri May 12 23:52:19 2023 -0400	Adding Install
+Sat May 13 00:00:21 2023 -0400	OTHER_CFLAGS
+Sat May 13 00:12:49 2023 -0400	Cleanup
+Sat May 13 00:28:47 2023 -0400	Framework Searching
+Sat May 13 00:46:36 2023 -0400	Framework Setting
+Sat May 13 00:52:19 2023 -0400	Framework Setting
+Sat May 13 01:00:11 2023 -0400	Finding Dylibs
+Sat May 13 01:10:41 2023 -0400	List Directories
+Sat May 13 01:32:28 2023 -0400	Missing dylib
+Sat May 13 01:58:28 2023 -0400	Shared Library
+Sat May 13 02:16:47 2023 -0400	Shared Library and Static Library
+Sat May 13 02:40:29 2023 -0400	Libs
+Sat May 13 02:50:10 2023 -0400	Saving Current Work
+Sat May 13 03:05:04 2023 -0400	Adding Libs Folder
+Sat May 13 03:21:53 2023 -0400	Adding Library Path
+Sat May 13 03:26:34 2023 -0400	SDK_ROOT
+Sat May 13 03:26:53 2023 -0400	Removing Global
+Sat May 13 03:45:57 2023 -0400	Upload Libs
+Sat May 13 04:08:10 2023 -0400	Adding Path
+Sat May 13 04:27:33 2023 -0400	New Path
+Sat May 13 05:09:18 2023 -0400	CoreFoundation
+Sat May 13 05:30:00 2023 -0400	Rust Flags
+Sat May 13 05:41:27 2023 -0400	Fix Paths
+Sat May 13 05:45:40 2023 -0400	Re-enabled Other Builds
+Sat May 13 21:12:59 2023 -0400	Testing
+Sat May 13 21:40:36 2023 -0400	Testing 2
+Sat May 13 21:59:21 2023 -0400	Fixed Typo
+Sat May 13 22:24:23 2023 -0400	...
+Sat May 13 22:47:51 2023 -0400	Framework Setting
+Sun May 14 01:26:34 2023 -0400	rustc --explain E0602
+Sun May 14 01:38:07 2023 -0400	Trying clang++
+Sun May 14 02:01:10 2023 -0400	Shared Library and Static Library
+Sun May 14 02:10:47 2023 -0400	Explicitly linking CoreAudio
+Sun May 14 02:23:05 2023 -0400	Explicitly linking CoreAudio with linker
+Sun May 14 02:24:10 2023 -0400	Separate By Comma
+Sun May 14 02:36:51 2023 -0400	Linker Arg
+Sun May 14 02:47:43 2023 -0400	Linker Arg Comma
+Sun May 14 03:26:31 2023 -0400	Framework Setting Try
+Sun May 14 03:43:25 2023 -0400	Debug Frameworks
+Sun May 14 10:09:41 2023 -0400	Adding Debug Info
+Mon May 15 02:12:42 2023 -0400	?
+Mon May 15 12:16:35 2023 -0400	?
+Mon May 15 12:30:09 2023 -0400	Why not finding?
+Mon May 15 13:35:08 2023 -0400	PATH
+Mon May 15 13:51:33 2023 -0400	I swear if this is what the issue is...
+Mon May 15 14:07:01 2023 -0400	CoreFoundation
+Mon May 15 14:24:06 2023 -0400	CoreGraphics
+Mon May 15 14:43:13 2023 -0400	More Frameworks
+Mon May 15 19:40:44 2023 -0400	Trying Suggestion
+Mon May 15 20:40:17 2023 -0400	Saving Current Work
+Mon May 15 20:59:18 2023 -0400	Saving Current Work
+Mon May 15 21:17:42 2023 -0400	Release
+Mon May 15 21:33:56 2023 -0400	hdituil
+Tue May 16 09:54:27 2023 -0400	Parallel
+Tue May 16 10:01:08 2023 -0400	Typo
+Tue May 16 10:36:14 2023 -0400	Rust Parallel Manual
+Tue May 16 11:28:30 2023 -0400	Starting Support For Caching
+Tue May 16 11:41:47 2023 -0400	Fixing Typo
+Tue May 16 12:51:48 2023 -0400	Caching
+Tue May 16 13:06:59 2023 -0400	Overwrite Symlinks
+Tue May 16 13:42:42 2023 -0400	Changing Configuration Build Directory
+Tue May 16 13:58:54 2023 -0400	Fixing Old Paths
+Tue May 16 14:25:27 2023 -0400	Adding Bindings To Android
+Tue May 16 14:50:47 2023 -0400	Testing All
+Tue May 16 15:00:28 2023 -0400	Bindings
+Tue May 16 15:01:32 2023 -0400	Disabling Musl Build
+Tue May 16 15:35:07 2023 -0400	Fixing Darwin
+Tue May 16 15:57:11 2023 -0400	Testing
+Tue May 16 21:23:20 2023 -0400	Darwin
+Tue May 16 22:37:06 2023 -0400	Fixing Darwin 2
+Tue May 16 22:45:42 2023 -0400	Fixing Typos
+Tue May 16 23:03:59 2023 -0400	Messing With Caching
+Wed May 17 01:12:29 2023 -0400	Adding Extras
+Wed May 17 02:00:37 2023 -0400	Removing Extras
+Wed May 17 02:55:54 2023 -0400	Changing Hypens To Underscores For Pyx
+Wed May 17 10:16:42 2023 -0400	Adding Retry Step Due To Number Of Times APT Step Has Failed Due To Server Being Unavailable
+Wed May 17 10:38:14 2023 -0400	Fixed Yaml
+Wed May 17 10:43:25 2023 -0400	Try 2
+Wed May 17 13:42:30 2023 -0400	Added Minimum Versions
+Wed May 17 13:46:32 2023 -0400	Added Minimum Versions Part 2
+Wed May 17 14:19:41 2023 -0400	Fixing Darwin
+Wed May 17 14:49:15 2023 -0400	?
+Wed May 17 15:07:37 2023 -0400	?
+Wed May 17 17:29:53 2023 -0400	Saving Current Work
+Wed May 17 17:58:22 2023 -0400	Saving Current Work
+Wed May 17 18:45:16 2023 -0400	Saving Current Work Opus
+Wed May 17 20:50:53 2023 -0400	Working on Simplifying Build Scripts
+Wed May 17 22:22:57 2023 -0400	Adding Temporary Build Blocks
+Wed May 17 23:50:36 2023 -0400	Wasm
+Thu May 18 02:34:03 2023 -0400	Saving Current Work
+Thu May 18 10:51:35 2023 -0400	Adding Links
+Fri May 19 02:27:25 2023 -0400	Started Work on Supporting Windows. Continuing Debugging WebAssembly
+Fri May 19 02:52:32 2023 -0400	Added Missing Package
+Fri May 19 14:48:07 2023 -0400	Added Examples
+Fri May 19 22:39:33 2023 -0400	Added Helper Cleaning Script
+Sat May 20 02:31:00 2023 -0400	Fixing Some SDL Compilation Issues
+Sat May 20 02:53:54 2023 -0400	Trying Something
+Sat May 20 03:59:10 2023 -0400	Trying Something
+Sat May 20 04:48:41 2023 -0400	Saving Current Work
+Sat May 20 13:46:06 2023 -0400	Trying Something
+Sat May 20 13:59:16 2023 -0400	Disabling WavPack and FLAC
+Sat May 20 14:02:54 2023 -0400	Disabling Mixer
+Sun May 21 23:57:09 2023 -0400	CMake Source Directory
+Mon May 22 00:33:36 2023 -0400	Updated Submodules
+Mon May 22 00:55:36 2023 -0400	Rebasing Newer Upstream Commits
+Mon May 22 01:01:39 2023 -0400	Updated Submodules
+Mon May 22 01:12:44 2023 -0400	Added a couple of fixes
+Mon May 22 01:23:21 2023 -0400	Adding Build Cache Cleanup
+Mon May 22 01:26:15 2023 -0400	Downgrading Harfbuzz to Release
+Mon May 22 02:15:56 2023 -0400	Fixing Typo
+Mon May 22 02:30:39 2023 -0400	Fixed a few bugs
+Mon May 22 03:16:46 2023 -0400	Reset SDL_ttf
+Mon May 22 03:34:45 2023 -0400	Trying Something For WebAssembly
+Mon May 22 03:42:09 2023 -0400	Fixing Clean Script
+Mon May 22 03:50:38 2023 -0400	Adding Ignoring Error On Non-Essential Script
+Mon May 22 04:27:52 2023 -0400	Removing emcmake from Ninja command
+Mon May 22 15:38:30 2023 -0400	Messing With Selectively Enabling Features
+Mon May 22 16:13:25 2023 -0400	Working on WebAssembly Build Script
+Mon May 22 16:22:50 2023 -0400	Fixing Paths
+Mon May 22 16:52:42 2023 -0400	JS
+Mon May 22 18:16:38 2023 -0400	Saving Current Work
+Tue May 23 00:19:23 2023 -0400	Handling Emscripten in build.rs
+Tue May 23 00:52:56 2023 -0400	Fixed a bug with folder creation
+Tue May 23 01:12:02 2023 -0400	Updating Demo Server
+Tue May 23 03:11:22 2023 -0400	Saving Current Work
+Tue May 23 23:06:06 2023 -0400	Using target_family instead
+Wed May 24 03:07:24 2023 -0400	Experimenting With Creating .app Folder
+Thu May 25 03:48:54 2023 -0400	Browser Console Logging
+Thu May 25 16:18:03 2023 -0400	Fixing Build Scripts
+Thu May 25 22:27:46 2023 -0400	Frameworks
+Thu May 25 22:28:15 2023 -0400	Frameworks
+Thu May 25 23:30:10 2023 -0400	OSX
+Thu May 25 23:58:44 2023 -0400	Fixing OSX
+Fri May 26 00:17:32 2023 -0400	Fixing OSX...
+Fri May 26 00:39:40 2023 -0400	Trying Disabling Cache
+Fri May 26 01:01:43 2023 -0400	Deleted Cache
+Fri May 26 01:11:45 2023 -0400	Disabled Features
+Fri May 26 01:38:06 2023 -0400	Saving Current Work
+Fri May 26 01:46:19 2023 -0400	Testing Derefencing
+Fri May 26 02:02:52 2023 -0400	Trying Something Else
+Fri May 26 03:09:26 2023 -0400	Saving Current Work
+Fri May 26 03:17:03 2023 -0400	Tracking Down Lib
+Fri May 26 03:24:01 2023 -0400	Tracking Down Lib
+Fri May 26 03:31:30 2023 -0400	Tracking Down Lib
+Fri May 26 03:46:50 2023 -0400	Follow Symlinks
+Fri May 26 03:53:42 2023 -0400	Tracking Down Lib
+Fri May 26 14:08:25 2023 -0400	Debugging Libs
+Fri May 26 14:31:12 2023 -0400	Fixing OSX...
+Fri May 26 14:52:49 2023 -0400	Adding Framework Installation
+Fri May 26 14:59:40 2023 -0400	Try 2
+Fri May 26 15:08:13 2023 -0400	Try 3
+Fri May 26 15:09:56 2023 -0400	Removing HOME Setting
+Fri May 26 15:19:46 2023 -0400	Setting Framework Home Instead
+Fri May 26 15:33:43 2023 -0400	Removing av
+Fri May 26 17:44:50 2023 -0400	Debugging Libs
+Fri May 26 18:10:39 2023 -0400	Fixing Testing OSX
+Fri May 26 18:19:00 2023 -0400	Sudo
+Fri May 26 18:31:01 2023 -0400	Testing
+Fri May 26 18:55:30 2023 -0400	Fixing Issues OSX DMG Generation
+Fri May 26 21:25:22 2023 -0400	Reminded That Git Does Not Store Empty Directories
+Fri May 26 22:27:01 2023 -0400	Dereference Symlinks For Frameworks
+Fri May 26 23:42:18 2023 -0400	Try 2
+Fri May 26 23:51:53 2023 -0400	Try 3
+Sat May 27 00:59:04 2023 -0400	Saving Current Work
+Sat May 27 01:15:27 2023 -0400	Atomics
+Sat May 27 01:17:36 2023 -0400	Removing Error Message
+Sat May 27 08:31:15 2023 -0400	Attempting To Communicate With Web Worker
+Sat May 27 08:57:59 2023 -0400	Experiment
+Sat May 27 23:16:55 2023 -0400	Start Handling More Callbacks
+Sun May 28 00:57:30 2023 -0400	Create CODE_OF_CONDUCT.md
+Sun May 28 01:15:44 2023 -0400	Added favicon.ico
+Sun May 28 01:28:20 2023 -0400	Changed Console Logging to Console Debugging Statements
+Mon May 29 01:55:58 2023 -0400	Saving Current Work
+Mon May 29 01:57:46 2023 -0400	Removing FOSS unfriendly message after some discussion. Final details will be resolved Tuesday
+Mon May 29 04:26:22 2023 -0400	Fixed Logging
+Tue May 30 03:04:25 2023 -0400	Saving Current Work
+Tue May 30 05:06:21 2023 -0400	Saving Current Work
+Wed May 31 05:20:43 2023 -0400	Removed Warning In Attempt To Solve Crashing Issue
+Wed May 31 05:45:40 2023 -0400	Saving Current Work
+Wed May 31 07:12:44 2023 -0400	Mutable Atomics
+Wed May 31 10:33:23 2023 -0400	Saving Current Work
+Wed May 31 10:46:14 2023 -0400	Saving Current Work
+Wed May 31 23:25:28 2023 -0400	Saving Current Work
+Wed May 31 23:35:00 2023 -0400	Saving Current Work
+Thu Jun 1 02:32:25 2023 -0400	Debugging Threads
+Thu Jun 1 13:51:47 2023 -0400	Added Ability To Toggle Server/Client
+Thu Jun 1 17:08:16 2023 -0400	Looping Message
+Thu Jun 1 17:39:15 2023 -0400	Fixed Looping Bug
+Fri Jun 2 00:34:08 2023 -0400	Cleaning Up Bindings
+Fri Jun 2 00:57:45 2023 -0400	Bindings Header
+Fri Jun 2 03:21:12 2023 -0400	Working on Bindings and She-Bangs On Scripts
+Fri Jun 2 03:29:04 2023 -0400	Removing Autorun
+Fri Jun 2 05:16:20 2023 -0400	Saving Current Work
+Sat Jun 3 04:21:34 2023 -0400	Reconfiguring Cargo.toml
+Sat Jun 3 04:28:09 2023 -0400	Updated Dependencies
+Sat Jun 3 11:28:46 2023 -0400	Lowering GLibC Requirement on Raspberry Pi Builds
+Sat Jun 3 21:02:28 2023 -0400	Adding Server Variant
+Sat Jun 3 21:23:26 2023 -0400	Removed Musl Support
+Sat Jun 3 22:08:52 2023 -0400	Removing Rust Target Cache To Stop Cache Bugs
+Sun Jun 4 01:29:18 2023 -0400	Fixing Bug
+Thu Jun 8 03:02:56 2023 -0400	Got WebGL Context Working
+Thu Jun 8 06:20:14 2023 -0400	Saving Current Work
+Thu Jun 8 19:22:48 2023 -0400	Hide unwind Message
+Thu Jun 8 19:51:03 2023 -0400	Organizing Loops
+Thu Jun 8 23:12:40 2023 -0400	Separated Emscripten Support from Browser Support
+Thu Jun 8 23:17:38 2023 -0400	Separated Emscripten Support from Browser Support
+Thu Jun 8 23:29:40 2023 -0400	Added Versioning
+Fri Jun 9 01:09:01 2023 -0400	Added Docs Link
+Fri Jun 9 01:40:53 2023 -0400	Started Work on Publishing
+Fri Jun 9 01:43:35 2023 -0400	Updated Environment --publish
+Fri Jun 9 01:46:38 2023 -0400	Fixing Token --publish
+Fri Jun 9 22:39:09 2023 -0400	Working on Publishing --publish
+Fri Jun 9 22:40:30 2023 -0400	Vars --publish
+Fri Jun 9 22:55:57 2023 -0400	Clone --publish
+Fri Jun 9 23:43:53 2023 -0400	Testing Create Release --publish
+Fri Jun 9 23:47:29 2023 -0400	Testing Create Release --publish
+Sat Jun 10 01:02:54 2023 -0400	Fixed Function Name
+Sat Jun 10 02:31:37 2023 -0400	Testing Itch.io Publishing --publish
+Sat Jun 10 03:04:33 2023 -0400	Testing Publishing --publish
+Sat Jun 10 03:14:37 2023 -0400	Try again, better pathing --publish
+Sat Jun 10 03:19:37 2023 -0400	Try again, Github script --publish
+Sat Jun 10 03:20:57 2023 -0400	Try again, better pathing --publish
+Sat Jun 10 03:40:44 2023 -0400	Try again, escaping again and env var --publish
+Sat Jun 10 04:04:12 2023 -0400	... --publish
+Sat Jun 10 04:14:42 2023 -0400	... --publish
+Sat Jun 10 04:32:03 2023 -0400	Learned More About Downloading Artifacts --publish
+Sat Jun 10 04:53:32 2023 -0400	Fixing Android Portion --publish
+Sat Jun 10 05:05:50 2023 -0400	Fixing Android Portion --publish
+Sat Jun 10 05:21:32 2023 -0400	Debugging Script --publish
+Sat Jun 10 05:33:14 2023 -0400	Experiment --publish
+Sat Jun 10 13:33:51 2023 -0400	Experiment --publish
+Sat Jun 10 13:55:27 2023 -0400	Experiment --publish
+Sat Jun 10 18:03:14 2023 -0400	Experiment --publish
+Sat Jun 10 18:35:10 2023 -0400	... --publish
+Sat Jun 10 19:54:55 2023 -0400	... --publish
+Sat Jun 10 20:30:13 2023 -0400	... --publish
+Sat Jun 10 22:11:35 2023 -0400	... --publish
+Sun Jun 11 00:04:56 2023 -0400	Google Play Upload --publish
+Sun Jun 11 00:09:46 2023 -0400	Automating Creation of Metadata
+Sun Jun 11 00:11:16 2023 -0400	Editing Gitignores --publish
+Sun Jun 11 00:20:09 2023 -0400	Add Bundler --publish
+Sun Jun 11 00:37:04 2023 -0400	Edit Bundler --publish
+Sun Jun 11 01:03:27 2023 -0400	Edit Bundler --publish
+Sun Jun 11 01:23:31 2023 -0400	Edit Path --publish
+Sun Jun 11 03:09:06 2023 -0400	Push to Github Releases --publish
+Sun Jun 11 03:38:09 2023 -0400	Some Fixes --publish
+Sun Jun 11 21:35:40 2023 -0400	Trying Bash Method --publish
+Sun Jun 11 21:47:35 2023 -0400	Trying Bash Method --publish
+Sun Jun 11 22:03:36 2023 -0400	Fixing Errors --publish
+Sun Jun 11 23:15:40 2023 -0400	Debug Missing Commands --publish
+Sun Jun 11 23:30:53 2023 -0400	Debug Missing Commands --publish
+Sun Jun 11 23:43:07 2023 -0400	Debug Missing Commands --publish
+Tue Jun 13 01:07:20 2023 -0400	Debug Missing Commands --publish
+Tue Jun 13 01:48:36 2023 -0400	Debug Missing Commands --publish
+Tue Jun 13 02:29:14 2023 -0400	Debug Missing Commands --publish
+Tue Jun 13 02:39:14 2023 -0400	Debug Missing Commands --publish
+Tue Jun 13 03:28:42 2023 -0400	This took way longer than it should have 🤦‍♀️ --publish
+Tue Jun 13 04:03:53 2023 -0400	Trying New Method --publish
+Tue Jun 13 04:44:00 2023 -0400	Fixing Paths --publish
+Thu Jun 15 03:05:00 2023 -0400	Javascript and Stuff Emscripten
+Thu Jun 15 05:16:17 2023 -0400	Documentation
+Sat Jun 17 01:53:39 2023 -0400	Saving Current Work For Bug Report
+Tue Jun 20 00:50:08 2023 -0400	Currently Saving Work
+Tue Jun 20 02:03:20 2023 -0400	Saving Current Work
+Wed Jun 21 21:30:39 2023 -0400	Readding CI Builds
+Wed Jun 21 23:02:17 2023 -0400	Libs
+Fri Jun 23 02:42:02 2023 -0400	Saving Current Work
+Fri Jun 23 02:42:20 2023 -0400	Saving Current Work
+Fri Jun 23 03:46:59 2023 -0400	Saving Current Work
+Fri Jun 23 21:49:31 2023 -0400	Changing From Default Engine
+Fri Jun 23 23:25:59 2023 -0400	Added Gradle Build Rust
+Fri Jun 23 23:33:28 2023 -0400	Try again
+Fri Jun 23 23:46:18 2023 -0400	Try again
+Sat Jun 24 00:02:12 2023 -0400	Workaround Bug
+Sat Jun 24 00:18:09 2023 -0400	Install Cargo-NDK
+Sat Jun 24 00:35:12 2023 -0400	Fixed Preparing Artifacts
+Sat Jun 24 02:50:41 2023 -0400	Started Work on WebAssembly Support Again
+Sun Jun 25 01:48:47 2023 -0400	Updated To Games-Activity 2.0.2
+Sun Jun 25 02:11:21 2023 -0400	Fixed Compilation Issue Due To Wrong Git Revision
+Sun Jun 25 03:04:59 2023 -0400	Fixed ce_start not being exported on Android
+Sun Jun 25 03:38:34 2023 -0400	Added Defines
+Sun Jun 25 04:24:26 2023 -0400	Started Work on WebAssembly Support Again
+Sun Jun 25 04:35:00 2023 -0400	Working on Wasm Example
+Sun Jun 25 04:52:36 2023 -0400	Added WBindGen WebAssembly Github Actions Script
+Sun Jun 25 05:15:41 2023 -0400	Fixed Stuff in WebAssembly Build Script
+Sun Jun 25 05:16:45 2023 -0400	Fixed Name
+Sun Jun 25 05:17:37 2023 -0400	Fixed Name
+Sun Jun 25 05:24:00 2023 -0400	Added Cleanup
+Sun Jun 25 21:03:53 2023 -0400	Applied Cargo FMT
+Sun Jun 25 22:41:07 2023 -0400	Updating Rev Version
+Sun Jun 25 23:44:40 2023 -0400	Preparing For Wasm32 with WBindGen
+Sun Jun 25 23:52:31 2023 -0400	Added Panic Hook For Web
+Mon Jun 26 00:54:50 2023 -0400	Messing With Threading
+Mon Jun 26 00:56:00 2023 -0400	Cargo FMT
+Mon Jun 26 23:51:16 2023 -0400	Saving Current Work
+Mon Jun 26 23:55:28 2023 -0400	Saving Current Work
+Mon Jun 26 23:57:48 2023 -0400	Saving Current Work
+Tue Jun 27 04:17:24 2023 -0400	Profiling
+Tue Jun 27 04:44:51 2023 -0400	Profiling for Android
+Tue Jun 27 04:48:02 2023 -0400	Downloading Rust Code Wasm
+Tue Jun 27 04:49:40 2023 -0400	Removed Code Size Profiling OSX
+Tue Jun 27 05:15:28 2023 -0400	Some Corrections
+Tue Jun 27 16:30:24 2023 -0400	Some Corrections For Wasm Generating
+Tue Jun 27 21:32:48 2023 -0400	Saving Current Work
+Tue Jun 27 21:34:53 2023 -0400	Saving Current Work
+Tue Jun 27 21:58:03 2023 -0400	wasm_threads member
+Tue Jun 27 23:27:31 2023 -0400	Started Work on Wasm Threads
+Tue Jun 27 23:49:28 2023 -0400	Locking Down Build Target
+Wed Jun 28 01:18:35 2023 -0400	Documentation
+Wed Jun 28 01:22:47 2023 -0400	Updating Version For Future Crate Publish
+Wed Jun 28 01:36:01 2023 -0400	Fixing CFG
+Thu Jun 29 04:45:36 2023 -0400	???
+Fri Jul 7 01:49:28 2023 -0400	Adding Codeberg Mirror
+Fri Jul 28 21:24:22 2023 -0400	Added New Mirror
+Fri Jul 28 21:46:48 2023 -0400	Updating Mirror Link
+Fri Jul 28 21:51:38 2023 -0400	Fixing Mirror Link
+Wed Jan 31 23:41:26 2024 -0500	Updated Gradle
+Thu Feb 1 00:25:47 2024 -0500	Got running on laptop
+Thu Feb 1 01:14:48 2024 -0500	Removed webassembly support
+Thu Feb 1 01:18:29 2024 -0500	Updating version
+Thu Feb 1 01:49:18 2024 -0500	Removing Client Thread
+Thu Feb 1 03:08:59 2024 -0500	some cleanup
+Thu Feb 1 04:10:56 2024 -0500	messages
+Thu Feb 1 23:31:22 2024 -0500	mirror
+Thu Feb 1 23:36:28 2024 -0500	mirror continue on error
+Fri Feb 2 00:35:47 2024 -0500	funding
+Sat Feb 3 02:39:52 2024 -0500	cleaning up and args
+Sat Feb 3 15:28:55 2024 -0500	comment
+Sat Feb 3 16:15:23 2024 -0500	serde json
+Mon Feb 5 03:39:49 2024 -0500	serde
+Mon Feb 5 04:41:14 2024 -0500	removed newlines
+Mon Feb 5 05:19:57 2024 -0500	deps
+Mon Feb 5 07:15:56 2024 -0500	prepping for gui
+Tue Feb 6 17:43:14 2024 -0500	Rendering, but broken on Android
+Wed Feb 7 00:17:43 2024 -0500	Upgraded to rwh_06
+Wed Feb 7 05:23:50 2024 -0500	working on fixing for Android
+Thu Feb 8 05:29:26 2024 -0500	args
+Thu Feb 8 05:29:58 2024 -0500	no newline
+Sat Feb 10 06:12:52 2024 -0500	tracing
+Sun Feb 11 03:20:16 2024 -0500	debugging android
+Sun Feb 11 05:28:58 2024 -0500	Saving current progress
+Sun Feb 11 23:31:25 2024 -0500	Saving current progress
+Sun Feb 11 23:43:27 2024 -0500	fixing versioning
+Mon Feb 12 03:42:20 2024 -0500	saving current progress
+Wed Feb 14 04:34:47 2024 -0500	finally! it works on android!
+Wed Feb 14 23:04:12 2024 -0500	Started splitting engine into 2 sections
+Wed Feb 14 23:08:08 2024 -0500	pub(crate)
+Wed Feb 14 23:10:51 2024 -0500	syntatical sugar
+Wed Feb 14 23:15:28 2024 -0500	moved iter to cool
+Wed Feb 14 23:49:37 2024 -0500	added note
+Wed Feb 14 23:57:53 2024 -0500	added more restrictive limits
+Thu Feb 15 02:47:26 2024 -0500	saving current progress
+Thu Feb 15 04:23:41 2024 -0500	Full Screen
+Thu Feb 15 04:40:18 2024 -0500	Setting middle limits
+Thu Feb 15 04:48:30 2024 -0500	userLandscape
+Thu Feb 15 04:51:39 2024 -0500	clean up
+Fri Feb 16 02:04:14 2024 -0500	working on wasm
+Fri Feb 16 02:15:50 2024 -0500	added comment
+Sun Feb 18 01:17:03 2024 -0500	split to separate packages. need to rewrite certain portions for the split system
+Sun Feb 18 01:43:29 2024 -0500	got android working again
+Sun Feb 18 03:05:17 2024 -0500	added temp logo
+Sun Feb 18 23:11:13 2024 -0500	upgraded gradle
+Sun Feb 18 23:12:35 2024 -0500	added comments
+Sun Feb 18 23:40:06 2024 -0500	saving comments
+Mon Feb 19 00:25:43 2024 -0500	disabled minification
+Mon Feb 19 00:37:12 2024 -0500	fixed android icon
+Mon Feb 19 01:32:30 2024 -0500	trying to move to wasm support
+Mon Feb 19 01:34:13 2024 -0500	remove unused import
+Mon Feb 19 02:08:25 2024 -0500	saving current progress
+Mon Feb 19 02:42:14 2024 -0500	leaving note to myself
+Mon Feb 19 02:45:16 2024 -0500	stop browser from looking for favicon.ico
+Mon Feb 19 23:48:37 2024 -0500	license checking
+Mon Feb 19 23:52:57 2024 -0500	sample
+Mon Feb 19 23:59:17 2024 -0500	test
+Tue Feb 20 00:00:17 2024 -0500	test
+Tue Feb 20 00:02:06 2024 -0500	test
+Tue Feb 20 00:04:38 2024 -0500	test
+Tue Feb 20 00:16:12 2024 -0500	pre-commit hook
+Tue Feb 20 00:26:24 2024 -0500	removed end of file fixer
+Tue Feb 20 00:39:53 2024 -0500	recommit
+Tue Feb 20 02:10:44 2024 -0500	started work on embedding copyright info into program
+Tue Feb 20 06:04:45 2024 -0500	saving current progress
+Tue Feb 20 15:05:18 2024 -0500	rename dependency
+Tue Feb 20 18:05:34 2024 -0500	saving current progress
+Tue Feb 20 18:15:34 2024 -0500	adding version provided by rust peeps on discord with permission ofc
+Tue Feb 20 18:20:29 2024 -0500	adding comments
+Wed Feb 21 00:06:24 2024 -0500	saving current progress
+Wed Feb 21 02:05:00 2024 -0500	tweaking vscode settings to optimize building
+Wed Feb 21 02:46:58 2024 -0500	removed text
+Wed Feb 21 12:41:25 2024 -0500	saving current progress
+Thu Feb 22 02:24:13 2024 -0500	changed wasm32 to wasm
+Thu Feb 22 03:07:56 2024 -0500	testing
+Thu Feb 22 04:27:30 2024 -0500	testing
+Thu Feb 22 05:33:08 2024 -0500	testing --publish
+Thu Feb 22 16:09:36 2024 -0500	fixing build script
+Thu Feb 22 16:09:56 2024 -0500	publish --publish
+Thu Feb 22 22:34:01 2024 -0500	cargo timings --publish
+Fri Feb 23 00:19:18 2024 -0500	cargo timings try 2 --publish
+Fri Feb 23 02:09:29 2024 -0500	trying to improve timings
+Fri Feb 23 03:23:10 2024 -0500	changing cache key type
+Fri Feb 23 04:28:16 2024 -0500	updated actions
+Fri Feb 23 05:05:03 2024 -0500	updated build scripts for profiling
+Fri Feb 23 05:14:29 2024 -0500	updated build scripts for dynamic core count
+Fri Feb 23 15:11:28 2024 -0500	testing build speed
+Fri Feb 23 16:08:22 2024 -0500	testing build speed 2
+Fri Feb 23 16:09:01 2024 -0500	testing build speed 3
+Fri Feb 23 16:30:33 2024 -0500	build depth 1. later set to 0 as per github issue feature request
+Fri Feb 23 17:12:47 2024 -0500	readded using default features of clap
+Fri Feb 23 23:30:41 2024 -0500	Added resource copyright license
+Sat Feb 24 00:18:05 2024 -0500	cleaning up comments
+Sat Feb 24 01:59:57 2024 -0500	disabled speedup for build to trade off for speedup to run --publish
+Sat Feb 24 02:28:35 2024 -0500	fixing links due to site rename --publish
+Sat Feb 24 04:32:47 2024 -0500	adjustments
+Mon Feb 26 01:23:29 2024 -0500	saving current progress
+Mon Feb 26 02:44:04 2024 -0500	saving current progress
+Tue Feb 27 01:49:00 2024 -0500	struct
+Wed Feb 28 00:31:00 2024 -0500	moving code
+Wed Feb 28 02:33:07 2024 -0500	refactoring code
+Wed Feb 28 03:41:13 2024 -0500	documenting code --publish
+Wed Feb 28 04:00:06 2024 -0500	started work on adding tests
+Wed Feb 28 04:04:04 2024 -0500	trying to publish crate
+Wed Feb 28 04:08:09 2024 -0500	trying to publish crate
+Wed Feb 28 04:08:38 2024 -0500	trying to publish crate
+Wed Feb 28 04:10:36 2024 -0500	trying to publish crate
+Wed Feb 28 04:29:35 2024 -0500	testing publish script
+Wed Feb 28 04:35:50 2024 -0500	adding publish script
+Wed Feb 28 04:53:39 2024 -0500	fixing publish script --publish
+Wed Feb 28 04:55:06 2024 -0500	fixing the fix for the publish script --publish
+Wed Feb 28 05:07:01 2024 -0500	fixing the publish script again --publish
+Wed Feb 28 05:11:37 2024 -0500	fixing echo statement name
+Wed Feb 28 05:53:38 2024 -0500	build.rs
+Fri Mar 1 00:43:35 2024 -0500	uncommented some debug and moved to trace
+Fri Mar 1 02:06:11 2024 -0500	improved documentation, visibility, and speed of uploading github artifacts
+Fri Mar 1 02:36:41 2024 -0500	fixing build scripts
+Fri Mar 1 03:25:58 2024 -0500	disable building docs and fix bindings
+Fri Mar 1 03:27:20 2024 -0500	testing --publish
+Fri Mar 1 22:21:28 2024 -0500	publish --publish
+Fri Mar 1 22:45:30 2024 -0500	publish --publish
+Fri Mar 1 23:41:42 2024 -0500	docs
+Sat Mar 2 00:17:56 2024 -0500	utils
+Sat Mar 2 00:22:25 2024 -0500	docs
+Sat Mar 2 00:46:07 2024 -0500	updated readme
+Sat Mar 2 00:50:03 2024 -0500	cbindgen
+Sat Mar 2 02:44:49 2024 -0500	fixed color space
+Sat Mar 2 03:04:39 2024 -0500	pub(crate)
+Sat Mar 2 03:42:43 2024 -0500	explicit return type
+Sun Mar 3 01:51:12 2024 -0500	wasm experiment
+Sun Mar 3 16:43:18 2024 -0500	removed loop statement
+Sun Mar 3 20:08:02 2024 -0500	improved dependency documenting
+Sun Mar 3 20:12:24 2024 -0500	added pub version of build_info
+Sun Mar 3 20:19:18 2024 -0500	spaces
+Sun Mar 3 20:43:28 2024 -0500	fixed tracing-subscriber
+Sun Mar 3 22:52:17 2024 -0500	improved logging
+Sun Mar 3 23:40:41 2024 -0500	set trace level wasm
+Sun Mar 3 23:59:38 2024 -0500	commented out broken wasm code and added warning
+Mon Mar 4 02:23:59 2024 -0500	Saving current progress
+Mon Mar 4 02:38:12 2024 -0500	canvas is linked, just no graphics yet
+Tue Mar 5 03:36:51 2024 -0500	fixed settings.json
+Tue Mar 5 19:11:22 2024 -0500	fixing python
+Tue Mar 5 20:41:46 2024 -0500	saving current progress
+Tue Mar 5 21:41:34 2024 -0500	saving current progress
+Wed Mar 6 00:36:24 2024 -0500	saving current progress
+Wed Mar 6 00:57:49 2024 -0500	python execution
+Wed Mar 6 01:57:53 2024 -0500	python execution progress
+Wed Mar 6 02:57:46 2024 -0500	python execution success
+Wed Mar 6 03:29:13 2024 -0500	miri
+Wed Mar 6 04:06:59 2024 -0500	pointers
+Wed Mar 6 04:29:30 2024 -0500	fixed safe api boundary and segmentation fault
+Wed Mar 6 05:21:52 2024 -0500	tests
+Wed Mar 6 15:02:05 2024 -0500	fix c_char and tests
+Wed Mar 6 17:58:29 2024 -0500	disabled miri test for all but linux until further work on non-linux unit testing is done
+Wed Mar 6 18:33:41 2024 -0500	cargo lock
+Wed Mar 6 21:19:39 2024 -0500	wasm build
+Wed Mar 6 21:36:04 2024 -0500	fix path
+Wed Mar 6 22:37:19 2024 -0500	comment
+Thu Mar 7 00:54:37 2024 -0500	--publish
+Thu Mar 7 01:22:36 2024 -0500	test actions --publish
+Fri Mar 8 02:47:22 2024 -0500	working wasm, but needs much work
+Fri Mar 8 04:29:50 2024 -0500	fixed wasm
+Fri Mar 8 05:21:48 2024 -0500	fixed ci names --publish
+Fri Mar 8 05:31:20 2024 -0500	fern notice
+Sat Mar 9 00:50:44 2024 -0500	Create jekyll-gh-pages.yml
+Fri Mar 8 23:46:55 2024 -0500	fern filters
+Sat Mar 9 02:04:54 2024 -0500	github pages test
+Sat Mar 9 02:21:14 2024 -0500	github pages test 2
+Sat Mar 9 02:26:33 2024 -0500	github pages test 3
+Sat Mar 9 02:38:30 2024 -0500	github pages test 4 part 1
+Sat Mar 9 02:43:31 2024 -0500	github pages test 4 part 2
+Sat Mar 9 02:53:31 2024 -0500	github pages test 5
+Sat Mar 9 03:17:52 2024 -0500	Create CNAME
+Sat Mar 9 03:28:33 2024 -0500	theme
+Sat Mar 9 03:31:17 2024 -0500	cause github really badly wants it in docs
+Sat Mar 9 03:45:40 2024 -0500	center canvas
+Sat Mar 9 04:20:46 2024 -0500	center canvas test
+Sat Mar 9 04:28:44 2024 -0500	center canvas
+Sat Mar 9 04:44:38 2024 -0500	adjusting margin
+Sat Mar 9 15:04:31 2024 -0500	wayland stuff
+Sat Mar 9 17:08:53 2024 -0500	wasm bindings
+Sat Mar 9 18:51:13 2024 -0500	wasm engine export
+Sat Mar 9 19:55:47 2024 -0500	bumping version --publish
+Sun Mar 10 05:47:20 2024 -0400	wasm and ffi stuff
+Sun Mar 10 06:33:19 2024 -0400	clippy strikes again
+Sun Mar 10 06:35:53 2024 -0400	clippy update
+Sun Mar 10 06:37:18 2024 -0400	test
+Sun Mar 10 21:44:58 2024 -0400	docs
+Mon Mar 11 03:23:36 2024 -0400	assets
+Mon Mar 11 03:30:22 2024 -0400	edit comment
+Mon Mar 11 04:52:40 2024 -0400	stuff --publish
+Mon Mar 11 23:41:40 2024 -0400	doc comments --publish
+Mon Mar 11 23:44:41 2024 -0400	pre-commit hook update
+Tue Mar 12 00:04:43 2024 -0400	no verify
+Tue Mar 12 00:26:33 2024 -0400	doing some automation improvement and checks --publish
+Tue Mar 12 00:41:26 2024 -0400	fix test
+Tue Mar 12 00:45:10 2024 -0400	notes
+Tue Mar 12 02:01:59 2024 -0400	test local
+Tue Mar 12 02:03:29 2024 -0400	publish test --publish
+Tue Mar 12 02:17:12 2024 -0400	publish test 3 --publish
+Tue Mar 12 02:28:32 2024 -0400	publish test 2 --publish
+Tue Mar 12 02:29:22 2024 -0400	publish test 2 --publish
+Tue Mar 12 02:53:41 2024 -0400	fixed description
+Tue Mar 12 19:41:20 2024 -0400	testing doc building --publish
+Wed Mar 13 10:24:07 2024 -0400	webhook
+Wed Mar 13 10:27:54 2024 -0400	webhook test --publish
+Wed Mar 13 10:45:38 2024 -0400	update comment
+Thu Mar 14 00:21:11 2024 -0400	testing doc building --publish
+Thu Mar 14 00:37:08 2024 -0400	testing doc building --publish
+Thu Mar 14 01:15:48 2024 -0400	no time-passes
+Thu Mar 14 01:50:27 2024 -0400	testing doc building --publish
+Thu Mar 14 03:33:39 2024 -0400	testing
+Thu Mar 14 03:35:05 2024 -0400	testing 2
+Sat Mar 16 23:58:29 2024 -0400	testing 4
+Sun Mar 17 00:07:17 2024 -0400	testing 4
+Sun Mar 17 00:24:54 2024 -0400	testing 5
+Sun Mar 17 00:29:36 2024 -0400	testing 6
+Sun Mar 17 00:58:46 2024 -0400	testing 7
+Sun Mar 17 01:10:22 2024 -0400	testing 8 --publish
+Sun Mar 17 01:31:28 2024 -0400	testing 9 --publish
+Sun Mar 17 01:59:21 2024 -0400	agghhhhhhhhhhhhhh
+Sun Mar 17 02:45:23 2024 -0400	testing fake BUILD_INFO --publish
+Sun Mar 17 03:29:26 2024 -0400	testing fake BUILD_INFO modified --publish
+Sun Mar 17 03:32:43 2024 -0400	testing fake BUILD_INFO modified --publish
+Sun Mar 17 04:01:34 2024 -0400	toml
+Sun Mar 17 23:45:37 2024 -0400	testing
+Mon Mar 18 00:15:30 2024 -0400	fixed android --publish
+Mon Mar 18 00:55:48 2024 -0400	testing pre-commit --publish
+Mon Mar 18 01:46:38 2024 -0400	adding todo notes
+Mon Mar 18 03:11:59 2024 -0400	clippy update
+Mon Mar 18 03:38:03 2024 -0400	clippy update
+Mon Mar 18 03:49:43 2024 -0400	bumped version --publish
+Mon Mar 18 03:50:02 2024 -0400	removing old config --publish
+Mon Mar 18 04:14:09 2024 -0400	fixing bindings
+Mon Mar 18 04:30:30 2024 -0400	fixed some doc comments
+Mon Mar 18 04:30:57 2024 -0400	bumped version --publish
+Mon Mar 18 05:15:18 2024 -0400	cargo lock
+Mon Mar 18 05:26:35 2024 -0400	clippy update --publish
+Tue Mar 19 02:54:52 2024 -0400	AppImage
+Tue Mar 19 03:23:05 2024 -0400	AppImage --publish
+Tue Mar 19 03:31:29 2024 -0400	AppImage try 3 --publish
+Tue Mar 19 03:47:15 2024 -0400	AppImage try 4 --publish
+Tue Mar 19 04:02:22 2024 -0400	AppImage try 5 --publish
+Tue Mar 19 04:25:48 2024 -0400	AppImage try 6 --publish
+Tue Mar 19 20:27:11 2024 -0400	enhancements
+Tue Mar 19 23:53:18 2024 -0400	cargo appimage stuff
+Wed Mar 20 03:42:32 2024 -0400	appimage stuff
+Wed Mar 20 23:34:18 2024 -0400	fixed android
+Wed Mar 20 23:48:13 2024 -0400	dispatch option
+Wed Mar 20 23:50:40 2024 -0400	dispatch option fix
+Thu Mar 21 04:04:52 2024 -0400	signing
+Fri Mar 22 01:38:13 2024 -0400	signing test
+Fri Mar 22 02:10:52 2024 -0400	autoupdate
+Fri Mar 22 02:29:31 2024 -0400	signing test 2
+Fri Mar 22 02:35:13 2024 -0400	signing test 3
+Fri Mar 22 02:54:59 2024 -0400	signing test 4
+Fri Mar 22 03:09:07 2024 -0400	readme
+Fri Mar 22 03:12:58 2024 -0400	readmes
+Fri Mar 22 03:29:14 2024 -0400	android
+Fri Mar 22 05:22:43 2024 -0400	zsync
+Fri Mar 22 05:24:10 2024 -0400	zsync --publish
+Fri Mar 22 06:37:30 2024 -0400	fix
+Fri Mar 22 06:49:09 2024 -0400	fix 2
+Sat Mar 23 00:20:15 2024 -0400	install-desktop-file
+Sat Mar 23 02:28:18 2024 -0400	desktop files
+Sat Mar 23 02:36:14 2024 -0400	clippy
+Sat Mar 23 04:19:41 2024 -0400	color --publish
+Sun Mar 24 00:31:50 2024 -0400	testing autoupdate appimage --publish
+Sun Mar 24 01:42:30 2024 -0400	experiment
+Sun Mar 24 01:47:31 2024 -0400	release experiment --publish
+Sun Mar 24 02:03:55 2024 -0400	release experiment --publish
+Tue Mar 26 18:44:43 2024 -0400	reverted to before fps counter and set to wait mode
+Tue Mar 26 18:52:38 2024 -0400	bumped version --publish
+Tue Mar 26 23:57:55 2024 -0400	experiment macros
+Wed Mar 27 05:33:10 2024 -0400	experiment macros
+Wed Mar 27 05:39:01 2024 -0400	experiment macros clippy
+Wed Mar 27 05:45:03 2024 -0400	bumped version --publish
+Wed Mar 27 23:49:07 2024 -0400	added code coverage to gitignore
+Thu Mar 28 01:42:59 2024 -0400	assets stuff
+Thu Mar 28 01:43:38 2024 -0400	assets stuff
+Thu Mar 28 01:44:06 2024 -0400	assets stuff gitignore
+Thu Mar 28 02:32:01 2024 -0400	bumped version --publish
+Thu Mar 28 02:40:46 2024 -0400	updated asset copying
+Thu Mar 28 05:46:30 2024 -0400	android
+Fri Mar 29 23:02:43 2024 -0400	android
+Sat Mar 30 01:12:28 2024 -0400	starting work on musl support
+Sat Mar 30 03:13:20 2024 -0400	apt cache
+Sat Mar 30 03:37:59 2024 -0400	apt cache fix
+Sun Mar 31 02:09:10 2024 -0400	run action
+Sun Mar 31 02:14:48 2024 -0400	run action fix
+Sun Mar 31 02:42:56 2024 -0400	run action fix attempt 2
+Sun Mar 31 03:08:27 2024 -0400	run action fix attempt 3
+Sun Mar 31 03:23:02 2024 -0400	run action fix attempt 4
+Sun Mar 31 04:02:40 2024 -0400	run action fix attempt 5
+Sun Mar 31 22:57:33 2024 -0400	run action fix attempt 6
+Tue Apr 2 00:41:52 2024 -0400	testing
+Tue Apr 2 02:24:23 2024 -0400	testing
+Tue Apr 2 04:12:19 2024 -0400	publish --publish
+Tue Apr 2 04:19:04 2024 -0400	publish fix
+Tue Apr 2 15:52:47 2024 -0400	bumping version --publish
+Tue Apr 2 16:32:24 2024 -0400	bumping version --publish
+Tue Apr 2 17:01:55 2024 -0400	bumping version --publish
+Tue Apr 2 17:49:51 2024 -0400	bumping version --publish
+Tue Apr 2 21:46:26 2024 -0400	bumping version --publish
+Tue Apr 2 22:41:55 2024 -0400	bumping version --publish
+Tue Apr 2 22:59:59 2024 -0400	bumping version --publish
+Tue Apr 2 23:09:13 2024 -0400	bumping version --publish
+Tue Apr 2 23:30:19 2024 -0400	bumping version --publish
+Tue Apr 2 23:31:12 2024 -0400	bumping version --publish
+Tue Apr 2 23:33:03 2024 -0400	bumping version --publish
+Tue Apr 2 23:34:00 2024 -0400	bumping version --publish
+Tue Apr 2 23:50:10 2024 -0400	testing --norun
+Tue Apr 2 23:50:29 2024 -0400	testing --norun
+Tue Apr 2 23:52:14 2024 -0400	testing --norun
+Tue Apr 2 23:59:22 2024 -0400	testing --norun
+Wed Apr 3 00:03:45 2024 -0400	testing --norun
+Wed Apr 3 00:12:10 2024 -0400	testing --norun
+Wed Apr 3 00:14:13 2024 -0400	testing --norun
+Wed Apr 3 05:29:17 2024 -0400	testing publish --publish
+Wed Apr 3 05:32:24 2024 -0400	updating test name
+Thu Apr 4 18:06:23 2024 -0400	do not strip
+Thu Apr 4 21:28:02 2024 -0400	added link to fdroid repo
+Thu Apr 4 23:01:07 2024 -0400	variablizing
+Sat Apr 6 02:17:10 2024 -0400	jni prep
+Sat Apr 6 02:17:55 2024 -0400	jni prep
+Mon Apr 8 00:04:07 2024 -0400	github lost all my releases. pushing a new one --publish
+Mon Apr 8 00:46:46 2024 -0400	testing --publish
+Mon Apr 8 02:37:53 2024 -0400	testing --publish
+Mon Apr 8 02:56:00 2024 -0400	android test
+Mon Apr 8 03:14:12 2024 -0400	update build script --norun
+Mon Apr 8 03:46:41 2024 -0400	update build script --norun
+Mon Apr 8 04:08:23 2024 -0400	update build script --norun
+Mon Apr 8 04:29:26 2024 -0400	update build script --norun
+Mon Apr 8 05:04:21 2024 -0400	update build script --norun
+Mon Apr 8 05:39:55 2024 -0400	testing arch --publish
+Mon Apr 8 18:05:18 2024 -0400	build script names
+Mon Apr 8 18:08:52 2024 -0400	build script names again
+Mon Apr 8 19:07:17 2024 -0400	junit fix
+Mon Apr 8 19:22:28 2024 -0400	remove report
+Mon Apr 8 19:29:26 2024 -0400	remove fastlane
+Tue Apr 9 03:39:50 2024 -0400	fix export function names
+Tue Apr 9 03:53:19 2024 -0400	fix export function names --publish
+Tue Apr 9 04:19:23 2024 -0400	back key
+Tue Apr 9 04:41:09 2024 -0400	back key exit check
+Tue Oct 29 10:52:44 2024 -0700	fixed some examples
+Wed Oct 30 10:44:20 2024 -0700	added proper fix for exiting game loop from ctrlc. will write proper documentation later
+Wed Oct 30 18:36:32 2024 -0700	Use other method of exit code handling
+Wed Oct 30 20:09:49 2024 -0700	Fix for wasm
+Wed Oct 30 20:16:29 2024 -0700	bump version
+Wed Oct 30 23:17:40 2024 -0700	replaced gpg keys
+Wed Oct 30 23:40:07 2024 -0700	testing key replace
+Thu Oct 31 00:35:51 2024 -0700	testing upload
+Fri Nov 1 00:11:56 2024 -0700	updated dependencies within existing range via `cargo update`
+Fri Nov 1 00:30:27 2024 -0700	updated some dependencies
+Fri Nov 1 01:14:50 2024 -0700	updated to latest versions and fixed most deprecations
+Fri Nov 1 01:22:30 2024 -0700	fixed hidden files
+Fri Nov 1 01:50:56 2024 -0700	reverted WGPU to earlier version and made notes about future fixes which need to be implemented when updating
+Fri Nov 1 02:08:37 2024 -0700	added todo note
+Fri Nov 1 10:31:57 2024 -0700	apparently version number was older. am bumping 2 minor versions and resetting patch to 0 to fix --publish
+Sat Nov 2 17:39:17 2024 -0700	saving current code for bug report part 2
+Sat Nov 2 20:09:25 2024 -0700	saving current code for documenting bug
+Sat Nov 2 22:04:21 2024 -0700	fixed for latest wgpu update --publish
+Sun Nov 3 16:03:59 2024 -0800	changed to webgpu detection utility function --publish
+Sun Nov 3 23:04:25 2024 -0800	started process of upgrading to 2024 edition early
+Sun Nov 3 23:05:10 2024 -0800	ran cargo fix --edition
+Mon Nov 4 00:30:52 2024 -0800	bumped up java version, bumped down rust version --publish
+Mon Nov 4 04:36:50 2024 -0800	brought event loop proxy to wasm
+Mon Nov 4 07:56:13 2024 -0800	some cleanup
+Mon Nov 4 11:23:03 2024 -0800	fixed most clippy complaints
+Mon Nov 4 11:53:09 2024 -0800	fixed android build --publish
+Mon Nov 4 21:53:27 2024 -0800	rewrote a couple of functions
+Mon Nov 4 22:03:05 2024 -0800	removed forgejo references as im not running an independent git server atm
+Tue Nov 5 10:42:59 2024 -0800	testing wasm and licensing
+Tue Nov 5 12:20:49 2024 -0800	fixed unwrap to not trigger pedantic clippy
+Tue Nov 5 19:12:49 2024 -0800	added more build info --publish
+Tue Nov 5 19:53:16 2024 -0800	renamed function to proper name --publish
+Wed Nov 6 02:11:12 2024 -0800	mods to wasm build --publish
+Wed Nov 6 02:50:27 2024 -0800	fixing build bugs --publish
+Wed Nov 6 03:47:11 2024 -0800	testing icons --publish
+Wed Nov 6 11:53:34 2024 -0800	added test formatted logging for wasm
+Wed Nov 6 15:59:31 2024 -0800	updated path to icon, so pushing new install scripts
+Wed Nov 6 16:10:45 2024 -0800	testing source url for aur package builds --publish
+Wed Nov 6 16:19:12 2024 -0800	testing cargo publish --publish
+Wed Nov 6 18:20:43 2024 -0800	fixing SRCINFO
+Thu Nov 7 06:11:01 2024 -0800	Fixing package versions aur
+Thu Nov 7 06:11:27 2024 -0800	Fixing package versions aur --publish
+Thu Nov 7 06:23:31 2024 -0800	fixing comment on build script
+Fri Nov 8 00:20:10 2024 -0800	wasm
+Fri Nov 8 01:20:37 2024 -0800	updating wasm build script
+Fri Nov 8 01:27:21 2024 -0800	fixing script path
+Fri Nov 8 01:36:13 2024 -0800	fixing scripts path
+Fri Nov 8 02:27:19 2024 -0800	testing new wasm generation rules --publish
+Fri Nov 8 02:47:08 2024 -0800	adding source generation to wasm debug environment
+Fri Nov 8 02:52:35 2024 -0800	testing build fix --publish
+Fri Nov 8 09:39:43 2024 -0800	testing build fix 2 --publish
+Fri Nov 8 10:28:36 2024 -0800	testing build fix 3 --publish
+Fri Nov 8 17:40:16 2024 -0800	changing script back
+Fri Nov 8 22:57:41 2024 -0800	updating code of conduct due to recent events on an unrelated project
+Sat Nov 9 03:23:01 2024 -0800	updating icon
+Sat Nov 9 10:14:16 2024 -0800	updating icon to use swatches
+Sun Nov 10 13:24:57 2024 -0800	reset
+Sun Nov 10 13:33:41 2024 -0800	reset fix
+Sun Nov 10 13:35:33 2024 -0800	reset fix 2
+Sun Nov 10 14:13:05 2024 -0800	pathfinding
+Sun Nov 10 14:14:39 2024 -0800	...
+Sun Nov 10 16:30:26 2024 -0800	added in check for wasm on tracing subscriber to issue error message
+Sun Nov 10 22:25:29 2024 -0800	testing server build --publish
+Sun Nov 10 22:26:32 2024 -0800	testing server build --publish
+Mon Nov 11 06:06:28 2024 -0800	fixing windows build
+Mon Nov 11 07:45:22 2024 -0800	fixing server release
+Mon Nov 11 09:51:54 2024 -0800	updating build scripts --publish
+Mon Nov 11 11:09:04 2024 -0800	updating build scripts --publish
+Mon Nov 11 11:24:32 2024 -0800	updating build scripts --norun
+Mon Nov 11 11:34:24 2024 -0800	updating build scripts --norun
+Mon Nov 11 11:40:32 2024 -0800	updating build scripts --publish
+Mon Nov 11 12:26:41 2024 -0800	updating build scripts --publish
+Mon Nov 11 13:07:42 2024 -0800	testing fixes - updating build scripts --publish
+Mon Nov 11 14:26:40 2024 -0800	updating repo url
+Mon Nov 11 14:34:07 2024 -0800	testing git excludes --publish
+Mon Nov 11 16:05:59 2024 -0800	testing git skip worktree  --publish
+Mon Nov 11 17:58:43 2024 -0800	testing build info logging --publish
+Mon Nov 11 22:42:23 2024 -0800	fixed so assets are now optionally embedded
+Tue Nov 12 00:32:35 2024 -0800	no more embeds by default --publish
+Tue Nov 12 12:11:19 2024 -0800	made logging subscription optional
+Tue Nov 12 12:34:27 2024 -0800	rearranged version printing
+Fri Nov 15 02:12:22 2024 -0800	patching wasm for safari --publish
+Fri Nov 15 03:16:22 2024 -0800	patching wasm for safari again --publish
+Sat Nov 16 03:27:15 2024 -0800	saving tests
+Sat Nov 16 12:53:11 2024 -0800	saving panic testing code --publish
+Sun Nov 17 08:36:27 2024 -0800	saving current work to partially undo
+Sun Nov 17 08:57:00 2024 -0800	saving panic testing code --publish
+Sun Nov 17 09:10:47 2024 -0800	saving panic testing code --publish
+Tue Nov 19 15:00:38 2024 -0800	started refactoring process
+Tue Nov 19 15:13:47 2024 -0800	pr template message
+Tue Nov 19 17:43:32 2024 -0800	fixed android and wasm
+Tue Nov 19 20:06:23 2024 -0800	cleaning up
+Tue Nov 19 20:15:36 2024 -0800	testing
+Tue Nov 19 20:22:10 2024 -0800	testing --publish
+Tue Nov 19 23:32:14 2024 -0800	saving current build code
+Wed Nov 20 01:08:00 2024 -0800	saving current build code
+Wed Nov 20 01:11:27 2024 -0800	clippy
+Wed Nov 20 10:19:09 2024 -0800	reproducible builds work
+Wed Nov 20 10:38:31 2024 -0800	saving current build
+Thu Nov 21 02:46:10 2024 -0800	reproducible builds work
+Thu Nov 21 03:01:14 2024 -0800	reproducible builds work
+Thu Nov 21 03:12:24 2024 -0800	precommit update
+Thu Nov 21 17:34:39 2024 -0800	produced modded appimagetool
+Fri Nov 22 03:36:38 2024 -0800	testing
+Sat Nov 23 01:33:10 2024 -0800	saving current modifications to licenses
+Sat Nov 23 11:18:22 2024 -0800	working towards simplifying and reproducibility
+Sat Nov 23 11:20:57 2024 -0800	moving back to stable
+Sat Nov 23 11:28:25 2024 -0800	removing unused code
+Sat Nov 23 11:28:53 2024 -0800	removing unused code
+Sat Nov 23 12:11:16 2024 -0800	prepping for 2024
+Sun Nov 24 17:02:01 2024 -0800	saving current work
+Mon Nov 25 09:47:06 2024 -0800	saving current work
+Mon Nov 25 10:50:22 2024 -0800	testing cargo packaging --publish
+Mon Nov 25 13:17:32 2024 -0800	fixing pkgver for prerelease markers
+Mon Nov 25 13:21:06 2024 -0800	fixing pkgver for prerelease markers
+Mon Nov 25 13:42:57 2024 -0800	testing aur packages
+Mon Nov 25 14:11:30 2024 -0800	removing reference to old png
+Mon Nov 25 14:49:04 2024 -0800	secrets
+Mon Nov 25 20:53:47 2024 -0800	proc macro build info setup
+Tue Nov 26 02:11:12 2024 -0800	saving current work
+Tue Nov 26 17:57:34 2024 -0800	testing musl server
+Tue Nov 26 20:18:21 2024 -0800	testing docs
+Tue Nov 26 20:31:10 2024 -0800	testing docs
+Tue Nov 26 20:33:25 2024 -0800	testing docs
+Tue Nov 26 22:34:27 2024 -0800	disabled docs generation
+Wed Nov 27 00:15:00 2024 -0800	git lfs
+Wed Nov 27 01:31:30 2024 -0800	git lfs
+Wed Nov 27 12:26:41 2024 -0800	save rename
+Wed Nov 27 18:00:05 2024 -0800	pedantic clippy
+Wed Nov 27 22:55:38 2024 -0800	macro fix
+Thu Nov 28 00:47:18 2024 -0800	re-export
+Thu Nov 28 01:44:04 2024 -0800	reduced visibility where possible
+Thu Nov 28 03:04:56 2024 -0800	cleaning up
+Thu Nov 28 03:09:08 2024 -0800	removing file
+Thu Nov 28 03:18:08 2024 -0800	visibility
+Thu Nov 28 03:23:36 2024 -0800	visibility
+Thu Nov 28 10:43:56 2024 -0800	fixing stuff
+Fri Nov 29 11:14:33 2024 -0800	parse2
+Fri Nov 29 22:59:05 2024 -0800	cleaning up
+Sat Nov 30 00:08:26 2024 -0800	update wasm-bindgen
+Sat Nov 30 01:12:30 2024 -0800	fixing warnings
+Sat Nov 30 11:41:25 2024 -0800	wasm-bindgen versioning
+Sat Nov 30 17:26:26 2024 -0800	wasm canvas extra detection
+Sat Nov 30 18:07:03 2024 -0800	wasm testing itch io --publish
+Sat Nov 30 20:12:40 2024 -0800	saving current work
+Sat Nov 30 20:18:56 2024 -0800	saving current work
+Sat Nov 30 22:11:25 2024 -0800	fixing artifact name
+Sun Dec 1 00:32:34 2024 -0800	saving progress for now
+Sun Dec 1 01:01:43 2024 -0800	wasm relative paths
+Sun Dec 1 01:26:30 2024 -0800	saving progress for now
+Sun Dec 1 04:02:43 2024 -0800	#[unsafe(no_mangle)]
+Sun Dec 1 16:52:42 2024 -0800	fixing mirroring
+Sun Dec 1 17:00:32 2024 -0800	lfs locking
+Sun Dec 1 21:57:48 2024 -0800	fixing shallow clone mirroring
+Sun Dec 1 23:58:42 2024 -0800	testing fallback --publish
+Mon Dec 2 00:15:59 2024 -0800	testing fallback again --publish
+Mon Dec 2 00:40:24 2024 -0800	fixing about line
+Mon Dec 2 01:21:15 2024 -0800	env
+Mon Dec 2 14:21:05 2024 -0800	working on platform implementation separation
+Mon Dec 2 17:10:00 2024 -0800	working on platform implementation separation
+Mon Dec 2 19:46:54 2024 -0800	docs stuff
+Mon Dec 2 21:11:07 2024 -0800	macros stuff
+Mon Dec 2 22:17:05 2024 -0800	removed as many clones as possible
+Mon Dec 2 23:00:13 2024 -0800	edit license list
+Tue Dec 3 02:33:00 2024 -0800	saving current work
+Tue Dec 3 14:02:07 2024 -0800	common crate
+Tue Dec 3 14:34:45 2024 -0800	saving current work
+Tue Dec 3 21:20:29 2024 -0800	serde
+Thu Dec 5 00:07:49 2024 -0800	updating butler url
+Thu Dec 5 09:49:53 2024 -0800	updating fallback butler url
+Thu Dec 5 10:07:14 2024 -0800	testing itch.io address change --publish
+Fri Dec 6 10:17:02 2024 -0800	Update Crowdin configuration file
+Sat Dec 7 17:22:48 2024 -0800	saving translation experimental code
+Sun Dec 8 01:50:05 2024 -0800	removing translation code
+Sun Dec 8 03:37:47 2024 -0800	saving current work on asset loading and locale management
+Sun Dec 8 20:08:41 2024 -0800	added note about generative ai ban
+Sun Dec 8 22:57:02 2024 -0800	cfg assets
+Mon Dec 9 09:24:16 2024 -0800	clippy
+Mon Dec 9 22:54:41 2024 -0800	adding proper pr template
+Tue Dec 10 12:37:19 2024 -0800	restricting access to secrets
+Tue Dec 10 13:54:49 2024 -0800	testing further restrictions
+Tue Dec 10 14:12:53 2024 -0800	fixing android release key path
+Tue Dec 10 15:33:43 2024 -0800	gems install github pages --norun
+Tue Dec 10 15:39:59 2024 -0800	added ability to override norun --norun
+Tue Dec 10 17:31:56 2024 -0800	fixed bundle apt package --norun
+Tue Dec 10 18:09:22 2024 -0800	saving current work on ruby gems jekyll building
+Tue Dec 10 18:21:55 2024 -0800	testing ruby remote build
+Tue Dec 10 19:55:49 2024 -0800	testing ruby build
+Tue Dec 10 19:58:26 2024 -0800	clean
+Tue Dec 10 20:01:03 2024 -0800	fixing lib
+Tue Dec 10 20:06:08 2024 -0800	fixing ci build --norun
+Tue Dec 10 20:24:21 2024 -0800	faraday
+Tue Dec 10 20:28:20 2024 -0800	favicon
+Tue Dec 10 20:33:29 2024 -0800	html 5 check
+Tue Dec 10 20:36:07 2024 -0800	html validator link
+Tue Dec 10 20:41:10 2024 -0800	fixing build
+Tue Dec 10 20:52:35 2024 -0800	attempting to fix jekyll build
+Tue Dec 10 21:20:21 2024 -0800	attempting to fix jekyll build again
+Tue Dec 10 23:14:43 2024 -0800	build scripts
+Tue Dec 10 23:18:12 2024 -0800	added reinstall flag
+Tue Dec 10 23:21:40 2024 -0800	fixed search and replace toolchain
+Tue Dec 10 23:30:22 2024 -0800	switched from curl to wget
+Tue Dec 10 23:32:09 2024 -0800	added butler to PATH
+Tue Dec 10 23:49:46 2024 -0800	switched from wget to curl
+Tue Dec 10 23:55:51 2024 -0800	added redirect flag
+Wed Dec 11 00:02:52 2024 -0800	fixed extraction
+Wed Dec 11 00:21:01 2024 -0800	add future compatibility reporting
+Wed Dec 11 00:24:07 2024 -0800	autofix
+Wed Dec 11 00:28:46 2024 -0800	fixing build all script
+Wed Dec 11 01:24:43 2024 -0800	adding ability to switch profiles on examples
+Wed Dec 11 01:31:18 2024 -0800	fixing android build path
+Wed Dec 11 01:48:16 2024 -0800	removing timing from android build.gradle
+Wed Dec 11 02:54:52 2024 -0800	appimage
+Wed Dec 11 03:22:16 2024 -0800	appimage
+Wed Dec 11 03:36:30 2024 -0800	saving current progress for the night
+Wed Dec 11 03:40:03 2024 -0800	fix uninstall
+Wed Dec 11 12:42:14 2024 -0800	pedantic AppImage generation
+Wed Dec 11 12:44:51 2024 -0800	display AppDir directory
+Thu Dec 12 10:26:25 2024 -0800	updating appimagetool
+Thu Dec 12 10:42:21 2024 -0800	adding appimage runtime to fetch early
+Thu Dec 12 11:04:55 2024 -0800	fixed sed
+Thu Dec 12 12:38:07 2024 -0800	reverted sed
+Fri Dec 13 01:30:18 2024 -0800	added more files to git lfs
+Sat Dec 14 10:07:19 2024 -0800	added icns in preparation for complete history cleanup

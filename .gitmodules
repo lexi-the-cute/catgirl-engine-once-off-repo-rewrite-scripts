@@ -1,0 +1,24 @@
+[submodule "catgirl-engine"]
+	path = catgirl-engine
+	url = https://github.com/lexi-the-cute/catgirl-engine-pre-rewrite
+[submodule "ce-rewrite"]
+	path = ce-rewrite
+	url = https://github.com/lexi-the-cute/catgirl-engine-rewrite-test
+[submodule "submodules/android/app/jni/SDL"]
+	path = submodules/android/app/jni/SDL
+	url = https://github.com/lexi-the-cute/SDL
+[submodule "submodules/android/app/jni/SDL_image"]
+	path = submodules/android/app/jni/SDL_image
+	url = https://github.com/lexi-the-cute/SDL_image
+[submodule "submodules/android/app/jni/SDL_mixer"]
+	path = submodules/android/app/jni/SDL_mixer
+	url = https://github.com/lexi-the-cute/SDL_mixer
+[submodule "submodules/android/app/jni/SDL_ttf"]
+	path = submodules/android/app/jni/SDL_ttf
+	url = https://github.com/lexi-the-cute/SDL_ttf
+[submodule "submodules/android/app/jni/freetype"]
+	path = submodules/android/app/jni/freetype
+	url = https://github.com/freetype/freetype
+[submodule "submodules/android/app/jni/harfbuzz"]
+	path = submodules/android/app/jni/harfbuzz
+	url = https://github.com/harfbuzz/harfbuzz

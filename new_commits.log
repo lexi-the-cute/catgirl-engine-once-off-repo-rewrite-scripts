@@ -1,0 +1,1191 @@
+01d20f9d444307ee9991565270cb39886d3f348a	Sun Apr 16 02:19:19 2023 -0400	Initial Commit
+08595c0f07b2464cc12f46bb5e4bc736b55b4ac5	Sun Apr 16 02:30:20 2023 -0400	Adding File Watcher Limit
+57acb5f68466a731e51b3edf3753aa16eec626ff	Sun Apr 16 14:07:16 2023 -0400	Managed To Run As Android App, Will Cleanup Code Later
+9d5407b0f1845f62d4521be9c2ba29d075d9e863	Sun Apr 16 22:09:51 2023 -0400	Started Work Cleaning Up Repo
+c621003531d83a3498fc2454fc4fd41573812773	Sun Apr 16 22:12:21 2023 -0400	Submodule
+58a33e2a97363f22d0fa2e372f66179e7f2f4196	Sun Apr 16 22:15:07 2023 -0400	File Watch Exclusions
+9408c116a3f2472698fcaa8d9d86201f22a17ae2	Sun Apr 16 22:19:41 2023 -0400	Remove Newlines
+58249bccc0c0835d7a3507e23980fc985d760818	Sun Apr 16 22:22:25 2023 -0400	CMake Source Directory
+3b97f7d18785b2dc28fc154df00824ef7379060f	Sun Apr 16 22:56:46 2023 -0400	Sample Local Properties
+b3ab103879a136f9cf44c5599559adf74426983e	Sun Apr 16 23:23:36 2023 -0400	Saving Progress on Deduplicating Code
+38c798e0b5ba9480f842137f0c498c871b9afdbd	Sun Apr 16 23:24:19 2023 -0400	Commenting Out Dead Code
+9fef1e00a134a7413266c9f5c31388cb543f2181	Mon Apr 17 01:38:41 2023 -0400	Saving Current Work For Later
+b3685219230a6361bc95f53b740f8a7763762273	Mon Apr 17 01:47:31 2023 -0400	Saving New Links For Now
+35f0cd6f8320e150f7f26315d6cae8268869b7d4	Mon Apr 17 18:20:56 2023 -0400	Updating .gitignore
+ff14c28ef20ecb54cf05f11eae9ffa93cb1e454e	Mon Apr 17 18:22:35 2023 -0400	Fixing Typo
+9a497b8d7db92e5bc576cc74dbdee36560151c56	Mon Apr 17 18:41:52 2023 -0400	Saving Config
+ac887acea6dbfd6f9498e5ca1a37c94321f97d44	Mon Apr 17 19:02:58 2023 -0400	Messing With Building Android From Cargo
+f726d28fe85a0e3cda7a047b62c7e354a44f6587	Tue Apr 18 01:42:21 2023 -0400	Saving Current Work
+9d1ce9986c721895ceb646a7362026b3e2586ea2	Tue Apr 18 01:52:19 2023 -0400	Saving Current Work
+4cdd4ab01b51b5cc365b72e40fcf371aa05fd7bd	Tue Apr 18 01:53:04 2023 -0400	Saving Current Work
+588d00c0f35a41ace055b6077c58d91b4b4ca3bb	Tue Apr 18 03:39:50 2023 -0400	Saving Android Build Instructions
+2a6840ba38fbf9002e0a831ac0a3636a219f2f8e	Tue Apr 18 04:15:18 2023 -0400	Saving Update To ReadMe Instructions
+466c59773cfb26a947366201db3ae2dca7245435	Tue Apr 18 04:53:17 2023 -0400	Fixing Previous Change
+f684234eb3f4d00b31b9600ef5c23b3f8b63e3db	Tue Apr 18 11:46:17 2023 -0400	Cleaning Up ReadMe
+e6a23803f9727eb6830c3dbc7c12322b19eb51a7	Tue Apr 18 12:17:43 2023 -0400	Setting To 60 FPS
+88b07c2d1d55e74a68ee079a1683fc741e4606af	Tue Apr 18 12:36:51 2023 -0400	Added Assets
+e199878bfb7ed2d6d6154cce7f8573c2b0fa2e1e	Tue Apr 18 12:47:20 2023 -0400	Saving Current Work
+d05f76423e372d38d8d0d4a6ed81650e946ebe7c	Tue Apr 18 14:45:11 2023 -0400	Saving TTF and Image Work So Far
+8f7c3919557c7f2ba5d585e262fd9b05b030a7e9	Wed Apr 19 00:12:02 2023 -0400	Working on Compiling For Android
+4d6fb61c85d8d5e8b523a302761d9a6eab0ccaa8	Wed Apr 19 00:14:58 2023 -0400	Renaming As Sample
+b6ef94fec0bfcadfaac1a2d2dc51d0a315fbfbd4	Wed Apr 19 00:21:13 2023 -0400	Revert Commit
+88a00f0a60e8161dd28f1d4ed5a6705fc97c0240	Wed Apr 19 02:25:37 2023 -0400	Updated .gitignore
+7f8bce390a9cb393e840b6efb0b7f33c5ad0aa05	Wed Apr 19 03:05:06 2023 -0400	Attempting To Build Against SDL2_image
+8727e0067feb6c800bb0b4f53b7294870ba4894f	Thu Apr 20 00:01:02 2023 -0400	Cleaned Up Multiple Android Building Errors. Only Texture Loading Is Left
+b9036a0850b028dd94bcc03660035d0994a4c877	Thu Apr 20 00:06:39 2023 -0400	Added Some Notes
+aa30f41532c8234cb159cad4990fa0bb88c32703	Thu Apr 20 00:41:33 2023 -0400	Updating Package Name
+cb9fba47277d47beb03d9bd671f50e14c5e54f89	Thu Apr 20 04:38:04 2023 -0400	Saving Current Work For Loading Assets
+858c125e0b6c7f61599848e619c0befa57bf0bd3	Thu Apr 20 06:02:07 2023 -0400	Made It Possible For Android To Load Textures
+adf47d7b2ec7d70f133da27017fb775fc2e9f31f	Thu Apr 20 19:22:34 2023 -0400	Rewrote All Logging Code
+52356dca36ce02ded4d60b2e053a10f3aee853dc	Thu Apr 20 21:33:39 2023 -0400	Logging
+0e09d2f4393c8c08ef51a64f91abcdad03894d9e	Thu Apr 20 23:59:53 2023 -0400	Thread Management
+482504804666de49f45b92b23f927e6ea2db4c8f	Fri Apr 21 00:10:23 2023 -0400	Notes
+8ccfdd97244517f8d46bd480ff43938f3b784c43	Fri Apr 21 00:45:47 2023 -0400	Symlink
+9760ab1d311041ceccc53f5968da82be14116c3b	Fri Apr 21 02:36:04 2023 -0400	Added Ability To Extract ResourcePack From APK
+5ae5b0ba2cd1d17a2e196ce73615f51ad2abb35e	Fri Apr 21 19:01:22 2023 -0400	Messing With Player and Entity Creation
+807981576a9f9a2785c80567e56c7a64b8919230	Fri Apr 21 22:47:15 2023 -0400	Saving Inheritance Replacement Experiment
+0f34164d742f55117316d9a8cdfe86a1024c32f3	Sat Apr 22 02:10:37 2023 -0400	Experiments
+5e4f1f17cbb77818cf254ac17d36f987ae1b7d03	Sat Apr 22 13:31:43 2023 -0400	Github Actions
+d5c2bf669b44ebcf0206a06c63b49797380315fb	Sat Apr 22 13:35:34 2023 -0400	Github Actions Fix
+eb98d6e8a746b7ff43bbef43ab80b9d3391cc81f	Sat Apr 22 13:44:50 2023 -0400	Testing Github Actions Changes
+746b44c6f02fed2a9dd3cc18be8b9d2d44ba98b5	Sat Apr 22 13:46:36 2023 -0400	Added Run Key
+1f5671544e5bdb4949acd858ac302851a443cda1	Sat Apr 22 14:37:00 2023 -0400	Android Build Process
+febc70c9e376602569b8ef0f4cdcf6d9d7a83cc1	Sat Apr 22 14:39:58 2023 -0400	Fixed Typo
+dabaa120390f745c58ed1df4f711e60ec2659199	Sat Apr 22 14:40:39 2023 -0400	Fixed Typo
+6ba9e3597dfa4da7bd766898df2f3a07e14b40a6	Sat Apr 22 14:42:49 2023 -0400	Testing Android 2
+bf877c961476427e38dc57e451d37feed71d09ff	Sat Apr 22 14:58:25 2023 -0400	Adding Recursive Submodule Cloning
+c7570a045328c62a9c673e8ef2c3657ea721f26f	Sat Apr 22 15:05:00 2023 -0400	Attempting To Auto-Accept Android SDK Licenses
+00e2a3b4abec975bd04949681af6cc5194bb4c3c	Sat Apr 22 15:15:22 2023 -0400	Adding Ability To Create config.toml
+a8a6c8c9e19de189378396440498862141e780a4	Sat Apr 22 15:20:54 2023 -0400	Android Licenses
+1a86cf430f6f771094900bb3244053b924168146	Sat Apr 22 15:25:19 2023 -0400	Adding yes to Accept Android Licenses
+ce94c92336cf52706d82f8552e0c3010daa64ff4	Sat Apr 22 15:37:10 2023 -0400	Fixed armv7-linux-androideabi Typo
+16ef4e357f9b15a5d0bf6d1a9d3c3ed1fd6cd7e5	Sat Apr 22 15:53:42 2023 -0400	Setup Update Alternatives
+2aa55ff43ac76376269db2c8def0dd0ef18fa2fb	Sat Apr 22 16:04:32 2023 -0400	Edited JAVA_HOME
+b13b2a8863b7dc465d59b37a266d64e434bf837a	Sat Apr 22 22:45:19 2023 -0400	Added Artifact Uploading
+86dd0558aded05d6683358a5823aa4d64683e203	Sat Apr 22 22:45:37 2023 -0400	Removing Test Files
+fbd4a7104f1734aed760c8d82db84f20c55c8c00	Sat Apr 22 22:54:29 2023 -0400	Fixing Zipping and Gradle
+7465cdc9ba4f87ff28bd17801279b2275767b720	Sun Apr 23 01:43:36 2023 -0400	Added Newer Build Outputs Including Release Signing
+1ee2d99ca5874cacac5b222ffafa3dbf7829bff5	Sun Apr 23 02:17:13 2023 -0400	Added Environment Fix and Updated ReadMe
+0ab3c4f947054256203b00721322752b9864dc30	Sun Apr 23 02:34:19 2023 -0400	Fixing Build File
+2a786b4a0393938f04b7f7cd6e9f4a5133dfa334	Sun Apr 23 02:59:38 2023 -0400	Environment
+f2d098f9d539138e8074b8e681e9b815eb843e19	Sun Apr 23 03:03:51 2023 -0400	Secret Environment
+6b0466188d6f5729c1cae4bbd20b1f27e25ae9de	Sun Apr 23 03:09:45 2023 -0400	Environment Vars
+40f442f72a06fca88bc38d28b4a2ae4f7c2b9deb	Sun Apr 23 03:16:05 2023 -0400	Found Out ${{ vars.ANDROID_RELEASE_KEY_PATH }} and $ANDROID_RELEASE_KEY_PATH Are The Same Key
+a81ba2e64832e3120b36b15cef7129dfd31b503d	Sun Apr 23 03:43:50 2023 -0400	Testing RUNNER_TEMP
+25b87a82891adc97a149dc4148d04ca43fc1e7bf	Sun Apr 23 03:51:33 2023 -0400	Readding Environment Var
+302252e7e4426bc9e2bbf565682543a62b7eedf7	Sun Apr 23 03:52:31 2023 -0400	Fixed Typo
+0b3b6fccbe386c23ba36f58ed662ec156bcc635c	Sun Apr 23 04:24:44 2023 -0400	Fixed Typo With Artifact
+d4af5d7b083314602d107eefc354ee08c925adcc	Sun Apr 23 04:51:47 2023 -0400	Minifying breaks SDLActivity
+85b6937293c14f3a3c60805d0760e0b95ab2590f	Sun Apr 23 05:20:48 2023 -0400	Fixing Broken Java App
+f9896a4748d546e6cada7c7362384f969dbda894	Sun Apr 23 13:13:36 2023 -0400	Messing With Proguard
+37dc02f38b7b4948574037f9cee2939193c43f39	Sun Apr 23 13:30:13 2023 -0400	Fixing Typo With Bundle
+5b460001533156e738ffac6dc234a81b8ab7cec1	Sun Apr 23 22:49:39 2023 -0400	Commenting Out Dead Code
+957635cb801409ea58e2852cb32986981877d4f1	Sun Apr 23 23:20:42 2023 -0400	Working on Cross Compilation Support
+13974771ff5a9bf9dbf5aee989ed560175154d8c	Sun Apr 23 23:44:48 2023 -0400	Fixing Paths
+6fa7b1e86737a8dad407376ef41aa849da94d67b	Sun Apr 23 23:57:17 2023 -0400	Fixing Paths 2: Electric Boogaloo
+a2737d4664d2f3917dc59b7ea638e161f6baa7ad	Mon Apr 24 01:40:21 2023 -0400	Saving Current Work in Musl Compilation
+ca39a52661a684c0768ca855ce5d593b616be08d	Mon Apr 24 01:49:02 2023 -0400	Adding Recursive Submodule Cloning
+7fe9885eca1b9f441bc444e9bbf807a251df0781	Mon Apr 24 01:52:07 2023 -0400	Adding New Package
+7eeac1df34d9a0de2eef941527e3827a764465de	Mon Apr 24 01:57:24 2023 -0400	Fixing Library Paths
+2afccb89d0723bbc5f0204f07b64acdc34cb3245	Mon Apr 24 02:13:15 2023 -0400	Trying Downgrading
+4c21b508e57fa02fb690a716b0cd51e6bd3545fe	Mon Apr 24 02:21:57 2023 -0400	...
+aa99ae7dfcc76f71fde5da54de71583f936b542b	Mon Apr 24 02:31:54 2023 -0400	Disabled Musl Workflow
+4fcb6998c8ad75a97797d3d0a7b1600c33d023f3	Mon Apr 24 03:35:04 2023 -0400	Linux Export SDL
+c77d18d9d2c6fb3fecbb241373fe5d4c42c43405	Mon Apr 24 03:36:35 2023 -0400	Remove Old Simple
+e11703377a23546b46dbc7eddade7aa055fa1ff9	Mon Apr 24 03:45:47 2023 -0400	Added Creation of Build Directories
+d3469c83f700714acc80657075336e92c6828e57	Mon Apr 24 03:53:07 2023 -0400	Fixed Path
+44f48ab32547fa12bcabe9125b8c96035ac56b2e	Mon Apr 24 04:01:30 2023 -0400	Relative Paths Not Allowed
+6feaf177e9848cb94109508624cee434e709258c	Mon Apr 24 04:58:02 2023 -0400	Working on Making Engine As Portable As Possible
+13d53e0358ad3fd87080af7b4b06b14d7b15a948	Mon Apr 24 05:06:58 2023 -0400	Renamed Executable
+5e6591913865911da43a1b7ea0e7fabb8d04bfc6	Mon Apr 24 17:47:26 2023 -0400	I'll Have To Figure Out How To Compile As .so
+f3249e99e028828b7c677cc2f8e235e67a65a480	Mon Apr 24 22:48:34 2023 -0400	Removing Harfbuzz
+5621ff547ada88d7f9a4678245c6ad5945b4ed85	Tue Apr 25 00:14:39 2023 -0400	Testing Deb Creation
+c57a9a4283f06774451f9326741fc5e25247629e	Tue Apr 25 00:27:06 2023 -0400	Removing Missing Package
+0ee4ca4e40d687cdb6c46bd59e56ae3778f562e1	Tue Apr 25 00:37:24 2023 -0400	Fixing Broken Build Scripts
+7b300eba76bd4a885da37328e3c0997eef540023	Tue Apr 25 00:56:08 2023 -0400	Specifying Version Information
+41a057357e5fbfe105a2849000765ba573f61835	Tue Apr 25 01:05:31 2023 -0400	Fixing Weird Bug With Running Autogen
+f495957c3adb0a27011b0263a10fedc874562fb5	Tue Apr 25 01:16:41 2023 -0400	Debugging Freetype Compilation
+3895fdb35d448d43c0115e150e63a51dadf349e4	Tue Apr 25 01:29:38 2023 -0400	Modified Working Directory Setup
+fd18a2181326cc953e24f46a1a12dcaaa86f89b4	Tue Apr 25 01:45:24 2023 -0400	Saving Current Work
+9b1e594353e29cceb6bab78a200729f4b0f92d87	Tue Apr 25 02:23:21 2023 -0400	Setting Working Directory
+bc796341b5121430e7e498fb04b5ab43cec3a1b7	Tue Apr 25 02:25:26 2023 -0400	Fixing Typo With Harfbuzz Lib Copying
+7153841a79ab056c22ecaf33a3a9bccc3cabc4d6	Tue Apr 25 02:33:00 2023 -0400	Added Missing Dependency, ragel
+16df6e23293622d7318b492eba23a7109008c3a7	Tue Apr 25 02:48:36 2023 -0400	Changing RPath
+4e81b507ace8a2defb1a47147ade23a028a5a2a8	Tue Apr 25 02:51:37 2023 -0400	Fixing RPath
+fa29497d4ea2a5511a727df7ff35025f567490b6	Tue Apr 25 03:11:14 2023 -0400	Trying New RPath Origin
+e8255e1aa8831fa7ec43c3ad18104046be7bba39	Tue Apr 25 03:28:20 2023 -0400	Reversing Origin
+139c20d78d00b27dd4621b406976eb6586a808f9	Tue Apr 25 17:57:19 2023 -0400	Renaming Artifacts
+bddb954adb2fcb9e80517e52079afef1f9d5707f	Tue Apr 25 23:37:59 2023 -0400	Adding GLibC Compilation
+bd6bce315f767f044733053240c7a6dfb516e7fb	Tue Apr 25 23:39:30 2023 -0400	Copy
+e2225f04b7b676d295b5dc525c7f3e86bf0f01cb	Tue Apr 25 23:40:31 2023 -0400	Renaming Copied Artifacts
+7e043efbe3c1c8fdab6e88e0d9f515fb8de013db	Wed Apr 26 00:05:31 2023 -0400	Fixing Typo
+adced94892a1a13425dd129a95d23d95d51ff192	Wed Apr 26 00:13:21 2023 -0400	Added Renaming Directory As Working-Directory Does Not Take Variables
+08a3e7181215e14aba666a462e11ae2479510903	Wed Apr 26 01:28:37 2023 -0400	Saving Current Work
+27f274fb8a1adb0173808165441ae59f6b48dbb3	Wed Apr 26 01:29:17 2023 -0400	Checking Value of Auto
+6c75d1528670d05f2cece140cc1e166576e84bfd	Wed Apr 26 01:46:48 2023 -0400	Saving Current Work
+ffd724b96a15dfbdbf62697fa9fe3a14edc1a730	Wed Apr 26 01:51:09 2023 -0400	Attempting Gradle Build For Native Libs
+b0b318cee77704247dccb4a101f6cd46ec6a1bd7	Wed Apr 26 02:28:49 2023 -0400	Testing Using Gradle NDK
+ed28f1c6e6faaca91e79eda5bdfff73b5a79471c	Wed Apr 26 02:55:42 2023 -0400	Updating Android Building
+660203a28dfe37a63533f8f6ef65c546dd1a289b	Wed Apr 26 03:07:58 2023 -0400	Debugging Android
+895f00d434969d6d039d074a480773d0d8be869a	Wed Apr 26 03:20:22 2023 -0400	Changing Pathing Strategy
+8368f30225553493e64a234f531586c5576a44d3	Wed Apr 26 03:44:45 2023 -0400	Rust Flags
+4298f17b76afb6eed9f24de62499f9b36b1a6758	Wed Apr 26 03:57:19 2023 -0400	Try 2
+683f9a67d67ce4440666307e361c9de95333f9ba	Wed Apr 26 04:15:18 2023 -0400	Adding SDL Packages Back
+59e71d58ba3ecc6c524039348352bbcf73f1cc2b	Wed Apr 26 04:34:20 2023 -0400	Readding Rust Flags
+94a25c93142008afc3606708b0b4deefcf017266	Wed Apr 26 08:40:15 2023 -0400	Changing Paths
+56b9bafc286f589fe15d859b49a24d3d0f1b16ef	Wed Apr 26 08:56:52 2023 -0400	LS
+52b3bd829378bc4947a123bcad08ef9924c2fbf4	Wed Apr 26 09:07:57 2023 -0400	Changing Paths
+32837142f67857c45fe783f73bbc31ca8ca161d7	Wed Apr 26 11:15:59 2023 -0400	Added Listing All Files
+ad95b523ab37ce11fb04155673a8be193dc154dc	Wed Apr 26 16:51:17 2023 -0400	Downgrading Runner
+64bb01d87b4344aeec1be6c31c68348000289500	Wed Apr 26 17:01:16 2023 -0400	Downgrading Runner Again
+f646a87e50fb58afa2041841f2db415cc04a7be3	Wed Apr 26 18:01:06 2023 -0400	Realized I Changed Runner Version On Wrong Workflow
+95478c97f805525b1de2bc3720f0b3b5594e04e2	Wed Apr 26 22:18:31 2023 -0400	Fixing Path For Android
+caadb173402f840b35bade1e9a78017d857f762f	Wed Apr 26 23:56:23 2023 -0400	Fixing Android Versioning
+0590e63a22acec3fcd9a09397ef060baafb2b2d3	Thu Apr 27 00:04:33 2023 -0400	Testing Latest Version
+13b9e7f51c6ad8fc8194db11f3cb903ec0562c66	Thu Apr 27 00:54:58 2023 -0400	Going Back To Older Ubuntu
+e9fdbb552bca497b10200c851d0f9697f8703679	Thu Apr 27 02:03:46 2023 -0400	Messing With Versioning
+75bc4cab211483e85958b6675519d188c7dc5856	Thu Apr 27 03:00:06 2023 -0400	Trying Ubuntu 18.04
+a0cb5ba8bd5b7c754f14e524c07ed41ca85e7f06	Thu Apr 27 04:35:22 2023 -0400	Trying Self Built SDL on Debian
+13b29dd86c467d5cc0262fd43db13884270e24cd	Thu Apr 27 04:47:11 2023 -0400	Rebuild
+8bd60059f1479a9040a8d332f54b28e8305b7abe	Thu Apr 27 16:05:43 2023 -0400	Testing Adding Deps
+87f0c70719c9b01ba2219f540a40bacb53015175	Thu Apr 27 16:16:31 2023 -0400	Fixing Path Typo
+6f3445da489fd44695577aa304cc658b5d4ccb61	Thu Apr 27 16:37:49 2023 -0400	Testing Without TTF
+ca7d73dbcb49740e28cd4e74b697b51622bca112	Thu Apr 27 16:42:52 2023 -0400	Trying to trackdown cause of segfault
+59983b06805b900cdb0903cfadb40f4a6574cba7	Thu Apr 27 17:04:10 2023 -0400	Testing Segfault
+ce8a2a7cb899f6e14315a46bd7169440287717c4	Thu Apr 27 17:26:55 2023 -0400	Reverting Changes
+37f9762adbef6e3d8fc80fc49b746b0fd98c6c78	Thu Apr 27 21:11:31 2023 -0400	Trying Musl Again
+0e49c0cc566d669d8196451689019a3a08bfd528	Thu Apr 27 21:17:27 2023 -0400	Changing CMake Name
+60da2475205448dc3e3f023984fd2e4bf8a11313	Thu Apr 27 21:21:39 2023 -0400	Trying Multilib
+5f497ef2a6a5a268da292542610c51d76821f321	Thu Apr 27 21:26:29 2023 -0400	Changing Package Name
+34402b924964621e3b866406027d44c02058ce47	Thu Apr 27 22:59:00 2023 -0400	Saving Current Work
+472b7244600e0b71368c006481d6ffe459448ee7	Fri Apr 28 00:50:09 2023 -0400	Testing
+259e4641c2d0cf0b2a4726bdc9542bcc5241b638	Sat Apr 29 01:49:51 2023 -0400	Testing
+18f53834b0f1efc1cd88f26ac3a97594860043ee	Sat Apr 29 01:59:31 2023 -0400	Testing Reverse
+f803c6eca3fac4627cc772534107d079748abf53	Sat Apr 29 02:13:44 2023 -0400	Adding --lib
+c56ad2c87790267cda2d39e9beaa9bdf64e75bcf	Sat Apr 29 02:34:07 2023 -0400	Modifying Tests
+5cce66a977d4292d3af2bfd818c02faeacd66426	Sat Apr 29 02:37:36 2023 -0400	Modifying Tests
+172f2500a34f9f1448a9e547e84a807247c1a545	Sat Apr 29 03:15:27 2023 -0400	Removed Android Version of Tests As Always Will Be Exec format error without special multi-arch support
+d7d763a32d89a2f84421f322acf0ecd8ce697762	Sat Apr 29 15:12:41 2023 -0400	Trying New Musl Cross Compiler
+df457d904b79eea756fe8a129d7c892ef00c95c0	Sat Apr 29 15:13:38 2023 -0400	Disabling Old Cross Compiler
+3a8201bea1f15303292f4d10a06791843091215b	Sun Apr 30 00:46:46 2023 -0400	Musl Cross
+36247df92ee9e1345e752033e77e44bbed433c4c	Sun Apr 30 01:13:45 2023 -0400	Symlinks
+2bbece2e4f2fb19802c2c7e8dd7db8c28bd71bdc	Sun Apr 30 01:42:42 2023 -0400	Trying Manually Building SDL
+311e73370f45d4ed8ad87340814a512d69ea562d	Sun Apr 30 01:58:47 2023 -0400	Trying Premade Toolchain
+4461e3b1546167b4e826b1d7a2209ccf399dba77	Sun Apr 30 02:07:05 2023 -0400	Trying New Path
+4fa1a50358ba57c4fc5fb627fb0c073a8235e07d	Sun Apr 30 02:12:15 2023 -0400	Root Paths
+ea05631cf329fb7703b34f317a240f4de497043b	Sun Apr 30 02:16:05 2023 -0400	Debugging Missing GCC
+3f678573557e4db1760ccf1cf439a17df9a9ab9e	Sun Apr 30 02:19:48 2023 -0400	Debugging Paths
+7158a2e02a0ad1f9afc03c05b2610a8ea64c9678	Sun Apr 30 02:24:11 2023 -0400	Testing Something
+c49d3468a85cacabe23943dd1a7ec82dc1408448	Sun Apr 30 02:32:47 2023 -0400	Trying My Build Again
+5aefede40e7c343a1e4fd7331cb207e576018f7f	Sun Apr 30 02:42:34 2023 -0400	Bypassing Compiler Check As Cross Compiling
+1fd61f4e25bc820313ca39fa53d0c0baaa722398	Sun Apr 30 04:15:00 2023 -0400	Updating Build
+cc498d2d12cdb9972d55eedf19db03c5f264f0ff	Sun Apr 30 22:14:11 2023 -0400	Trying Build As Zip
+57f8b3aa1f74c23a232c76ed74739fea8cac3138	Sun Apr 30 22:18:03 2023 -0400	Set Executable Bit
+aa6551533bebadb788db2baa373264c21eb09157	Sun Apr 30 22:36:49 2023 -0400	Manual Includes
+99c06084c1e7caec0ebbad7b67f0ef7a2f8c6d94	Sun Apr 30 23:28:45 2023 -0400	Testing
+357a5c95946e2b1150d275aff8a98589582aeac0	Sun Apr 30 23:33:33 2023 -0400	Testing libc6-dev-amd64-cross
+ee2c9c53883a320fa418102f518dd03a30fde012	Sun Apr 30 23:39:05 2023 -0400	Trying Again
+0d5d06e6bb4add18367343f90a4203608f6662df	Sun Apr 30 23:42:40 2023 -0400	Read Documentation More Closely
+5503b96605d564f1db9f322cb7fb7743d3245008	Sun Apr 30 23:44:46 2023 -0400	Hmmmm
+e9a16b01b733f7d67455ad6f96cb0ecede35a660	Sun Apr 30 23:48:12 2023 -0400	Testing File List
+6ff78a49820281c59884149ba73913aba3a4a37c	Sun Apr 30 23:50:50 2023 -0400	/
+7fba0f4b3aea1936f421b22980637a368bab6ee2	Mon May 1 00:05:30 2023 -0400	Hmmmm
+1722f2977427b408e91dbc5f7918874906c916af	Mon May 1 00:08:58 2023 -0400	Why Not Finding?
+b91a6daa753c99182a5daeba3a7bb4f63798f7be	Mon May 1 00:29:23 2023 -0400	Trying Setting Separately
+2a094aba92af7052440156d95c3c5ba83da8d980	Mon May 1 00:37:00 2023 -0400	Try 2
+3c05344c45519104d499d4c6044c99bac51a37d7	Mon May 1 00:41:55 2023 -0400	Editing Toolchain File
+b088e7f78fc8c807024e0213c8ac65f7c736d130	Mon May 1 00:49:03 2023 -0400	...
+be421c5564f3221ee9675b19cf2e2a37b1d32e58	Mon May 1 00:50:50 2023 -0400	Reverting Changes
+0ce0c55da339c715c84e3344eec7f0aa296ac637	Mon May 1 00:59:39 2023 -0400	...
+48b8a62a186d2fdc567b96692c6080b10991ab04	Mon May 1 01:03:23 2023 -0400	BOTH
+2a9295dab12f4f48e29b0f438091406907009ffc	Mon May 1 02:29:56 2023 -0400	Trying Placing Toolchain In 2 Places
+44c687f60410364cc90fa459d45c6f6822721af7	Mon May 1 03:14:05 2023 -0400	Trying Symlinking
+2eec56c3e4e11e7d9dfdebfb9e1b6eed4123475c	Mon May 1 04:25:10 2023 -0400	Trying Workaround
+f2fd870cf6661de1ce4cb0ad091e923c3fd559a7	Mon May 1 04:36:08 2023 -0400	Simplifying Workaround
+1a6c12df36943285a79eef20962ff414a77e4589	Mon May 1 04:46:16 2023 -0400	Disabled TTF For Debugging
+9d3c3f4431e0449878a410b67a22eb7dd7d0d5de	Mon May 1 04:50:00 2023 -0400	Workspace
+d2a1f7daee192c7550228eb930428f579558652f	Mon May 1 04:50:15 2023 -0400	Removed TTF
+7b44b05fe71ea0265927a9d3969cd11d76046b58	Mon May 1 04:58:42 2023 -0400	Changing Sed Delimiter
+ee3581a1b6a28f5b30357865a8c962f44aa05015	Mon May 1 05:02:23 2023 -0400	Disabled TTF For Debugging
+ac2838cd5518634f7f665efdef322149ff27115b	Mon May 1 05:15:51 2023 -0400	Modifying Link Paths
+cbe952e44edf6ba0d2f7a3f7477688ee92643340	Mon May 1 05:30:47 2023 -0400	Trying Lib Path
+0dce50537e7c62af77b241e2a342aa1f86c2ceac	Mon May 1 05:56:58 2023 -0400	Fixing Path Typo
+4beb79c21827c7687e56d6a3fde4cae1a03118fe	Mon May 1 06:08:53 2023 -0400	Saving Current Work
+ed2a8c5ce83d95dffc162369a575a02e88dd9839	Mon May 1 16:16:51 2023 -0400	Saving Current Work
+21aa525a14427664000365a942c4e1ba54ebdf29	Tue May 2 04:47:22 2023 -0400	Saving Current Work
+3dfc6a9329c117bd3c2a547cf9b589826f1f38f2	Tue May 2 17:48:02 2023 -0400	Adding ZLib License
+397deb7dd27adfbc21a9106f98636023ba212f6e	Tue May 2 17:50:09 2023 -0400	Adding More To Search Ignore
+ae9db33565b7081013878c7a971f394b57575006	Tue May 2 22:54:47 2023 -0400	Saving Current Work
+ead2228b1f54c81008e6871c74edb8507293b77f	Tue May 2 23:03:51 2023 -0400	Provided List for Funding
+3147c80a927ac7e3c54851b012b910232c1018d9	Tue May 2 23:50:10 2023 -0400	Update FUNDING.yml
+c0875f18fd2aa20aa5b49e3d8652a362a0337c86	Wed May 3 02:55:44 2023 -0400	Preparing For F-Droid Building
+1c7ec25268c0b3d891a3729bd022669ce336da4a	Wed May 3 02:55:50 2023 -0400	Merge branch 'main' of github.com:alexisart/catgirl-engine
+002989a2c8a892e0a6897632b0f4155a6300e0d2	Wed May 3 03:31:49 2023 -0400	Fixing NDK Building For F-Droid
+6550aa9be3b9f41d52918d353b46a7d20c8e5a1e	Wed May 3 03:52:32 2023 -0400	Reverting To RUSTFLAGS in Build Scripts
+c32685de72681bb83ec6ea320aac90cfb39055ae	Wed May 3 18:03:53 2023 -0400	Re-adding TTF
+f461f859e351dcf43efb0151553fe8d3a5a8e42f	Wed May 3 19:28:10 2023 -0400	Adding Freetype
+9efee545a38f472bc19f171ab2368645cebf3b0f	Thu May 4 07:17:52 2023 -0400	Added Disabling Submodule Detection
+d924648aed4aac8fa204b76bdf6b4976b00415fb	Mon May 8 01:42:19 2023 -0400	Trying without GCC
+0cfc12185a77218c2f00380b988c12cdee3f83e0	Mon May 8 02:52:05 2023 -0400	Experiment
+b477ad92f74011a5b756fb57387fc007294f9837	Mon May 8 02:59:30 2023 -0400	Disabling TTF For Experiment
+78677fdf3a87ba1ff363c7441dea69c53b5f236f	Mon May 8 03:10:13 2023 -0400	Hmmmm
+3c63b018220f9db7469fc7945b7a7f57f2497952	Mon May 8 03:19:03 2023 -0400	Shared
+c0f8b39f15544a1585bb9f8dceffde29c8eeae4e	Mon May 8 03:37:12 2023 -0400	Removing PIC
+ff9d0ec173fabefa9d22281a34d237f59a57ec3f	Mon May 8 04:13:50 2023 -0400	Adding PIC on CMAKE
+54baa306462bf9b7f0d049dc48c5f5fe6a6d03c0	Mon May 8 04:21:01 2023 -0400	Adding Shared
+8a8031b4ba332991f2f657bd1ed92da06b100bb5	Mon May 8 04:59:19 2023 -0400	Update config.toml.sample
+bd8f5274ca7637747bfcfb46738cfe50049fec68	Mon May 8 07:17:46 2023 -0400	Changing Upload Path
+3b35f409a9adfa3f034e7ee6d656304c0e6461ea	Mon May 8 07:40:15 2023 -0400	Temporary Adding Libs To Zip
+469db896015e4205a5f17fa1d1286a967877032f	Mon May 8 15:25:38 2023 -0400	Debugging Building
+15c6c03d3bfcfef214ce749ac574ed55c64dba0a	Mon May 8 17:27:55 2023 -0400	Moving to APT Musl
+6ab1ee317e7591db7d374b73119db14a1d385065	Mon May 8 17:32:44 2023 -0400	Creating Tools Directory
+1ecd724051d75d675dcac547841f6f96a54cee9e	Mon May 8 17:35:54 2023 -0400	Continue On Error
+6a408bbaa0b6e1c88e7864a009b8b67fa517568b	Mon May 8 17:38:28 2023 -0400	Fixing Path
+e49008ad37ca84fda4ffe051f69279f0c156d9cb	Mon May 8 17:47:50 2023 -0400	Temp Disabling Tests
+9f7ebbe2cf7a4ade3eba96c6959e8fe3bfbd0562	Mon May 8 18:00:35 2023 -0400	Disabling Enforced PIE on a hunch
+ae8d0f4b7f7689d4a41eaafa3c9620251acbe108	Mon May 8 18:28:47 2023 -0400	Saving Current Work
+24333a5ae6ad5e6b82d6839e3ddbecff092cef32	Mon May 8 19:30:25 2023 -0400	Adding Link
+fa4dfb0e8a765a18c9e848b9f96942ac2bfa6018	Mon May 8 20:47:45 2023 -0400	Hmmmm
+616b554513cf6254f2ad4d33c1b1402646af66c2	Mon May 8 21:34:53 2023 -0400	Saving Current Work
+17a2e204a21eb22db619a9b646903cbaa4405eb7	Mon May 8 22:11:41 2023 -0400	Static
+6eb582c43a65ad3644e9a53a9cdad6110e8c232d	Mon May 8 23:57:38 2023 -0400	TTF
+109feb08bf3b6a73c5e5f07e9eb237e0ec279d09	Tue May 9 00:01:53 2023 -0400	Fix Typo
+883fc660a1aee021685e609ba39aa372184e7d86	Tue May 9 00:32:43 2023 -0400	Testing Freetype
+c9441bf0a0a8dd02cd275e343141e14ab7d85a57	Tue May 9 01:11:59 2023 -0400	Runpath
+a0a1b246350022551686d1ce5baae37ca9f2bf37	Tue May 9 01:36:58 2023 -0400	Patchelf
+3475370c05b8cdecff0916a9e0749d7b927e81f1	Tue May 9 01:57:34 2023 -0400	Fix Typo
+46bda83884df617fa7d67ec1535cddac4f728010	Tue May 9 03:18:36 2023 -0400	Updating SDL Java
+570d46dc663fedd9371541833816667ea1b2e37e	Tue May 9 22:31:05 2023 -0400	Updating ReadMe
+859af87499c6cb91e0173647028a34ac50a633db	Tue May 9 23:21:10 2023 -0400	Adding GNU Build
+23c7f65dbadc1be8fc2dbdaf525a546067745ad8	Tue May 9 23:22:37 2023 -0400	Lowered Runner Version
+a30b6a4b52bf52221e2e0698a15d52956deb57ff	Tue May 9 23:36:06 2023 -0400	Added libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
+8a2d9beb443763d8fe1b8ef772754062495d360e	Wed May 10 03:10:24 2023 -0400	Backports
+fb1f5c84af10ac6e3efb0c30ac84dfdc36a9cdc0	Wed May 10 03:15:36 2023 -0400	lunar Backports
+276e1ff7ac86441378ce06dea00d3b08cd9292dd	Wed May 10 03:22:23 2023 -0400	Backports Version Doesn't Exist
+48623210f73ee8cb73bb0548a0619c4760917f91	Wed May 10 03:27:49 2023 -0400	Shenanigans
+35432fbdbd477f71f7c82abe3c2ff4b4e78cec3c	Wed May 10 03:28:20 2023 -0400	Shenanigans 2
+631349534f33a69eb8efb20f15b2fe609c1f2d8c	Wed May 10 03:37:58 2023 -0400	Trying Jammy
+573420e0c025329100eb508e32f154549e5d3132	Wed May 10 03:46:19 2023 -0400	Just building it myself
+0d485b7a74f09264460718680d922de5791c2bd9	Wed May 10 03:49:47 2023 -0400	libxext-dev
+36a5863c07515cdcded9c13cb1e0329e4a3cd5b5	Wed May 10 03:52:42 2023 -0400	BOTH
+c52941e490b2ee58f0b15ea3559c5db47aa41e0d	Wed May 10 04:00:37 2023 -0400	Freetype
+6cb4f91d5d3daecb14e007a5d7a737a6bb9c8f15	Wed May 10 04:04:19 2023 -0400	Freetype
+a022a8df33b0f06dbb2d0c42fc48f9433328f021	Wed May 10 04:09:06 2023 -0400	Lib PNG
+6c13fa4bdb23683624375ec658386ff24fd5ef85	Wed May 10 04:17:16 2023 -0400	Testing Hunch
+d45d53b4697f81d2f7594060171ead1fd4ee5ac9	Wed May 10 04:33:40 2023 -0400	CFLAGS
+cd80a5cb1ead687f202cbf69fe06de0b9382ef80	Wed May 10 04:42:40 2023 -0400	Hmmmm
+ed989669f8aa94e1c8acd4962948e2f1b2b5d15f	Wed May 10 04:58:14 2023 -0400	Rename
+9a7283d6078416e3584ad904ea8a9a1db88b3668	Wed May 10 05:03:38 2023 -0400	Shenanigans
+a6b7e6b07682cfa397d60c7fcbf5609c30ad326a	Wed May 10 22:40:48 2023 -0400	Manually Setting Version
+e4a7d34f540159d7ce00d47c124271e41b4ebb2d	Wed May 10 22:52:56 2023 -0400	Fixing Broken Local Compile
+fe9dc6c5682102d407f922414f030e35791ca32e	Wed May 10 23:03:00 2023 -0400	Re-enabled Testing
+493f460e4b691b6c3654db8739480666d7a88963	Thu May 11 08:10:16 2023 -0400	aarch64-unknown-linux-gnu
+540691ddbf70b8362a6fa9c7c79aab832bdb8536	Thu May 11 08:18:27 2023 -0400	aarch64-linux-gnu
+617a0b8f6e382919008768eb4ea8bf550b91cb9a	Thu May 11 09:04:16 2023 -0400	Raspberry Pi OS
+c06d525d5bda7b8d120db7e27cdfa1cf3601b8ef	Thu May 11 09:25:23 2023 -0400	Fixed Lib Copying Process
+ec53ae436b6524864cd84d58cac027b862c89aff	Thu May 11 09:53:09 2023 -0400	Fixing Naming
+8113f3af9ce4114a9bd61ee79171b277e1d9b5ff	Thu May 11 10:28:32 2023 -0400	Fixing Naming
+2b4c98e9b4ebd43541ba205e92f3d7a020af6b61	Fri May 12 00:27:03 2023 -0400	Absolutely No Idea If This'll Work
+f942dd1fe43e45fee224a217e8fe06883a24870c	Fri May 12 01:11:12 2023 -0400	Trying CMake Way
+e1f796b4e3b378e016d153f0b855a756eafcc306	Fri May 12 01:14:05 2023 -0400	Fixing Typo
+2f81c7642ba876dbdc9ec6a9f54dde9ec93f0501	Fri May 12 01:15:57 2023 -0400	clang++-fat.sh?
+35f0090ea06ad3b64eb37db9ecd1efe1321ad00d	Fri May 12 01:17:42 2023 -0400	Full Path
+ea982411a78a5197fa49b7876dca60e43d530fc2	Fri May 12 01:22:21 2023 -0400	Symlink
+d7607a123b8c4c905ae6cf47a98bf74d883e28e3	Fri May 12 01:23:52 2023 -0400	/tmp/build-scripts
+5567a3fcb988fa6cbf424f64acd159bd74326b24	Fri May 12 01:38:53 2023 -0400	continue-on-error: true
+552ba6e3b82de7d6f07c6b365cc045746671790c	Fri May 12 01:58:33 2023 -0400	?
+57128d22e35aaafd6d08238f295466b542c72316	Fri May 12 02:10:55 2023 -0400	Removed A Couple Of Things
+507bd2a5db566d70c6a576d590c8a29227e2f916	Fri May 12 22:53:28 2023 -0400	Experiment
+f2934c209b06f4424510969121684514d89a949e	Fri May 12 23:29:07 2023 -0400	Trying XCodeBuild
+1b56a9be85a086e941596b2fc93936a8770834a2	Fri May 12 23:35:11 2023 -0400	Try 2
+cfecd32058525c6ed4851cb27eb4363a78bb202b	Fri May 12 23:45:07 2023 -0400	Bumped Up MACOSX_DEPLOYMENT_TARGET To Minimum Supported Version
+8c34c65a3ae741970339bf78935dfb36dd8b2e14	Fri May 12 23:52:19 2023 -0400	Adding Install
+77407ec51ff3e1601cc84a3d5030e3b6224566ed	Sat May 13 00:00:21 2023 -0400	OTHER_CFLAGS
+32059b7b9dd16c98a3296c2941a989106b420df3	Sat May 13 00:12:49 2023 -0400	Cleanup
+ded101fbc9111275728d452c8ce6660dafcd7a2b	Sat May 13 00:28:47 2023 -0400	Framework Searching
+ef74185b82c09e295bbcf99f1b1caa6315856b15	Sat May 13 00:46:36 2023 -0400	Framework Setting
+4f151780f9847c6f89eaf2f65075b1da41c7e4ff	Sat May 13 00:52:19 2023 -0400	Framework Setting
+dcb5bcff64d9625ab4bd5da8c1f832c644a20c2a	Sat May 13 01:00:11 2023 -0400	Finding Dylibs
+d68b092d946cc659d3c7fb5993a0ba48cf18059f	Sat May 13 01:10:41 2023 -0400	List Directories
+c3bae9d9d791fc2645188d46a63505aac9f68477	Sat May 13 01:32:28 2023 -0400	Missing dylib
+74d09b19b1972c03b1b47df12926c3b63bd5a2e1	Sat May 13 01:58:28 2023 -0400	Shared Library
+ab72def6257950b3451a799a743e1aa02e9f935f	Sat May 13 02:16:47 2023 -0400	Shared Library and Static Library
+9d23498753b3daab012fc91cdfa7a03d1a1cadf3	Sat May 13 02:40:29 2023 -0400	Libs
+a416db77cd7b78474af7baa51deeaf7c7cdaf300	Sat May 13 02:50:10 2023 -0400	Saving Current Work
+3de956b0d4a58a2486304cbc633b2196fa0f8a7c	Sat May 13 03:05:04 2023 -0400	Adding Libs Folder
+6c1120cb5fd3ccb998eb5089b117e87a5b18eb5b	Sat May 13 03:21:53 2023 -0400	Adding Library Path
+5b460fb0758d0def781896c6ae6a9935df12257a	Sat May 13 03:26:34 2023 -0400	SDK_ROOT
+b8eb3f82cc8d6b1ad11be2982aa0d76e908d6a7d	Sat May 13 03:26:53 2023 -0400	Removing Global
+57dd8aa948ad455374e89f69b8c7707ab88eaece	Sat May 13 03:45:57 2023 -0400	Upload Libs
+1843f2ddce87e5cc642f3c8b69f52c3a0cda2bf3	Sat May 13 04:08:10 2023 -0400	Adding Path
+42253a8e3db44cc90494df26864f16e18684dc9c	Sat May 13 04:27:33 2023 -0400	New Path
+63fb126130f291fc16d1f652af5e1a0255fc5a90	Sat May 13 05:09:18 2023 -0400	CoreFoundation
+60df9633b732347d8b866a2184fcef51fd311ccb	Sat May 13 05:30:00 2023 -0400	Rust Flags
+1ac1ebe936f04ec775a6b5cf53680d57aefadbb8	Sat May 13 05:41:27 2023 -0400	Fix Paths
+cf2e81b346ca3d33a57084479df8785a8706f65f	Sat May 13 05:45:40 2023 -0400	Re-enabled Other Builds
+0c4288bd8daa84b85ebbfd6aa7e3431e0c86bc4f	Sat May 13 21:12:59 2023 -0400	Testing
+da161f38d019735cd88b94eb21489af2a7d008af	Sat May 13 21:40:36 2023 -0400	Testing 2
+5fe648b1f167714694931fba5eda7f160cb29704	Sat May 13 21:59:21 2023 -0400	Fixed Typo
+97c93b2ac24c505d520b5b4eee7764132d1badc2	Sat May 13 22:24:23 2023 -0400	...
+78a8f56e8e2dfa5b5c9d3349060fdf2261bf4815	Sat May 13 22:47:51 2023 -0400	Framework Setting
+2dd2199436bb38471bb50e8e5e935b8357e5632e	Sun May 14 01:26:34 2023 -0400	rustc --explain E0602
+36733a0ba1dd53f5bda34bfcc5327fcc2c29d292	Sun May 14 01:38:07 2023 -0400	Trying clang++
+e1839804d614f99adb856ab469a717f1e0edc40e	Sun May 14 02:01:10 2023 -0400	Shared Library and Static Library
+64b4fc14db390682aebd82401c09fb5865a3cd6b	Sun May 14 02:10:47 2023 -0400	Explicitly linking CoreAudio
+52879a6dc043435c53d5e975c63524050f0afd0c	Sun May 14 02:23:05 2023 -0400	Explicitly linking CoreAudio with linker
+fa9f0c459a068f99cc34c1c4b0dc69868076f4cc	Sun May 14 02:24:10 2023 -0400	Separate By Comma
+895f5a04db5b778ae3f37f1aeb403b41304e7484	Sun May 14 02:36:51 2023 -0400	Linker Arg
+88a7e0b4538bbb227818344d47d2c46c17c64b63	Sun May 14 02:47:43 2023 -0400	Linker Arg Comma
+c7603fa501d5cf370e8915de3a19499ef1d3589a	Sun May 14 03:26:31 2023 -0400	Framework Setting Try
+607f0895c078ca85b0a4d5cb20d4c8f208e3f94e	Sun May 14 03:43:25 2023 -0400	Debug Frameworks
+c2f77e2f893b5f2aaf2f51b097e53704c19867b6	Sun May 14 10:09:41 2023 -0400	Adding Debug Info
+698090df34994047d1c474eecd0bffb13221014a	Mon May 15 02:12:42 2023 -0400	?
+665e7d83ce3b3c1a94a8dc9e1a3f4d5bf4007d53	Mon May 15 12:16:35 2023 -0400	?
+3501ed9fe5b3b70219b374fa8ac4118ae50e0344	Mon May 15 12:30:09 2023 -0400	Why not finding?
+40e519e8feb2018381813776b0c847cf9f041a45	Mon May 15 13:35:08 2023 -0400	PATH
+13c256d121c0aa98bdae30850b46a70b291dd6ff	Mon May 15 13:51:33 2023 -0400	I swear if this is what the issue is...
+2263c31acbfdeb8751d6342c24529d719e8a888d	Mon May 15 14:07:01 2023 -0400	CoreFoundation
+19fb5d03893b74cbe728da3d46e48a7fdfd67616	Mon May 15 14:24:06 2023 -0400	CoreGraphics
+4e6e514404267118e80008caee5b9d9fef811dd0	Mon May 15 14:43:13 2023 -0400	More Frameworks
+86e2077e610f4e64c82fb38e3af8cc97743829ba	Mon May 15 19:40:44 2023 -0400	Trying Suggestion
+6fe51a86aaffc89a3c5d69b5c30fb86162ff6154	Mon May 15 20:40:17 2023 -0400	Saving Current Work
+ba9dfda06d520e62094fdde8c74282d1f01227d2	Mon May 15 20:59:18 2023 -0400	Saving Current Work
+91014e9cd955d1305e10d4383a35ac1c9bb3f126	Mon May 15 21:17:42 2023 -0400	Release
+e3f6994bfa94618de34335b4eea3558d4554d4ed	Mon May 15 21:33:56 2023 -0400	hdituil
+1e5b36dffa220d29ebdcda19144c2b492c053f3d	Tue May 16 09:54:27 2023 -0400	Parallel
+b1f83efaae8601e7bd49c82d242481da10517147	Tue May 16 10:01:08 2023 -0400	Typo
+ab7374f25788404c0c86ec7bf533b42a770346ad	Tue May 16 10:36:14 2023 -0400	Rust Parallel Manual
+e8b1bfee84244d6efca67c649d6ced5d0a32e196	Tue May 16 11:28:30 2023 -0400	Starting Support For Caching
+f2fd690f4d8d6aa03a794e386a82301c0e704e2b	Tue May 16 11:41:47 2023 -0400	Fixing Typo
+65255c0283129020045340147ae8a59b4804c18f	Tue May 16 12:51:48 2023 -0400	Caching
+7a2d418e4370d942c96cffaed5ee03830033b0fc	Tue May 16 13:06:59 2023 -0400	Overwrite Symlinks
+4a2c592b2973dbc73b0a318b5741267d4b532a90	Tue May 16 13:42:42 2023 -0400	Changing Configuration Build Directory
+73a2b6435e2e07464e61747a7d2fa775b7825420	Tue May 16 13:58:54 2023 -0400	Fixing Old Paths
+433e9e4584988043376a75a30a3890edabcefe33	Tue May 16 14:25:27 2023 -0400	Adding Bindings To Android
+8cb3ad34d331be2bb2aa2714d00aef03e87a88bb	Tue May 16 14:36:36 2023 -0400	Fixing Android So It Doesn't Break Java
+b02d99ee772fee55bbc3055aca6bf9c38848ddd2	Tue May 16 14:50:47 2023 -0400	Testing All
+e76b8b0873e897840df0d844f6fed4572b6b1e8a	Tue May 16 15:00:28 2023 -0400	Bindings
+96ff1d83b6d87ce84f4407298b7c2d76ccaaf991	Tue May 16 15:01:32 2023 -0400	Disabling Musl Build
+689aeeae2b11a24723a4ab6ff9232df2434b416b	Tue May 16 15:35:07 2023 -0400	Fixing Darwin
+710118a8153b9a90cce9134466e407fd4f5ddd81	Tue May 16 15:57:11 2023 -0400	Testing
+aa82c2bc64c9de2cebe192cadb5996bf33d69fbf	Tue May 16 21:23:20 2023 -0400	Darwin
+2389594bd372ea3d2d32022c72d0f03f560c39c0	Tue May 16 22:37:06 2023 -0400	Fixing Darwin 2
+4162adf515c1d819633caa74205347d032c580e0	Tue May 16 22:45:42 2023 -0400	Fixing Typos
+93527b0ee11adfe786d2dcf244655ff0b3e81582	Tue May 16 23:03:59 2023 -0400	Messing With Caching
+e2e285ee641fd460784753757fcb06e2a603a546	Wed May 17 01:12:29 2023 -0400	Adding Extras
+d3a93f9c4a90b82d424ab7074538391a1859547d	Wed May 17 02:00:37 2023 -0400	Removing Extras
+f3a17291ec48abc04a572245a6ba6ac351606b06	Wed May 17 02:55:54 2023 -0400	Changing Hypens To Underscores For Pyx
+5cb00ba4747f009f5d883cddce1711890d65b79f	Wed May 17 10:16:42 2023 -0400	Adding Retry Step Due To Number Of Times APT Step Has Failed Due To Server Being Unavailable
+c5ad8d912e5d92c78184ae05d57e93da378e42cf	Wed May 17 10:38:14 2023 -0400	Fixed Yaml
+d5a3f70b8fbd749357e5b63847cc3982680ad2a0	Wed May 17 10:43:25 2023 -0400	Try 2
+eb0f33c4f31ab1c73e2b7e9dc41a23869299c081	Wed May 17 13:42:30 2023 -0400	Added Minimum Versions
+a19edf757461066421e4d5cbeec16b42617d129f	Wed May 17 13:46:32 2023 -0400	Added Minimum Versions Part 2
+77267c8ed87052632065e70b0146af962ae263b5	Wed May 17 14:19:41 2023 -0400	Fixing Darwin
+84f75597f3a467f710fd1a1c65bf92ce1d42df6b	Wed May 17 14:49:15 2023 -0400	?
+35b74f90ccb3cbbd748cb9165d75cef1af7596bc	Wed May 17 15:07:37 2023 -0400	?
+f5a4539f40b64f3a8b49190cb44fe1cbbb698003	Wed May 17 17:29:53 2023 -0400	Saving Current Work
+fc857027bf947808225767a9a91dfe95c5a62650	Wed May 17 17:58:22 2023 -0400	Saving Current Work
+de4a09e5303b23a3a2ba558937a33685e796b0ea	Wed May 17 18:45:16 2023 -0400	Saving Current Work Opus
+32b964fcb2089655c50ca7bddcdfd63e4bb9d333	Wed May 17 20:50:53 2023 -0400	Working on Simplifying Build Scripts
+c81d50511059acd3672d05836333fd0cefd70ede	Wed May 17 22:22:57 2023 -0400	Adding Temporary Build Blocks
+8eea7fa3f685cc5a266effd7f1dcb77c75dc653f	Wed May 17 23:50:36 2023 -0400	Wasm
+bfd7569c4fe377fcaa9523364c510dcad966a740	Thu May 18 02:34:03 2023 -0400	Saving Current Work
+88b107464c5daeba77f3b19a1a8a73907e7a45cb	Thu May 18 10:51:35 2023 -0400	Adding Links
+56bed5da339e03322838de2d48bf76aba0d1ca23	Fri May 19 02:27:25 2023 -0400	Started Work on Supporting Windows. Continuing Debugging WebAssembly
+94e645aedc8e68ec2202c5b72fdc4243baa54307	Fri May 19 02:52:32 2023 -0400	Added Missing Package
+587cd057c567db5793e32e02cfdc5772625fd92f	Fri May 19 14:48:07 2023 -0400	Added Examples
+41f24af93c8f0ead4ab21193c3e6304350fd49a7	Fri May 19 22:39:33 2023 -0400	Added Helper Cleaning Script
+06e552edd75c6ef946466b6bddd6b1c2d4025006	Sat May 20 02:31:00 2023 -0400	Fixing Some SDL Compilation Issues
+75ca27b4adde4a64520b4ebbf4ff37223da627cc	Sat May 20 02:53:54 2023 -0400	Trying Something
+a8e550079f42939f14e3ad623ac5ab33a61b0748	Sat May 20 03:59:10 2023 -0400	Trying Something
+d8adf24a89456aa85a8dafbfff387686edced4a2	Sat May 20 04:48:41 2023 -0400	Saving Current Work
+7513a856fe4672c2c97c52abf376cd44a1a029fa	Sat May 20 13:46:06 2023 -0400	Trying Something
+b3bc159a3ae9b5e0f43a5cb638ea7996919bd68c	Sat May 20 13:59:16 2023 -0400	Disabling WavPack and FLAC
+078c99e8a72539497328a6347359665502996d74	Sat May 20 14:02:54 2023 -0400	Disabling Mixer
+399df3d4e12c13dbc74d33ee4ae915b751244696	Sun May 21 23:57:09 2023 -0400	CMake Source Directory
+50c06eea144d75dc882ab12bf76d9a4cabc070a7	Mon May 22 00:33:36 2023 -0400	Updated Submodules
+f7507843e12c254037f5cbae19e9eaa7c5c0bed7	Mon May 22 00:55:36 2023 -0400	Rebasing Newer Upstream Commits
+9f5b79888cdd9b15f4662a9eca96a18c112bbd71	Mon May 22 01:01:39 2023 -0400	Updated Submodules
+f02d4c9246933a89e86e269174c1fc99f6c8b4b8	Mon May 22 01:12:44 2023 -0400	Added a couple of fixes
+a6df96fdf6d3ebff7c8c625d37d21c40beb07844	Mon May 22 01:23:21 2023 -0400	Adding Build Cache Cleanup
+451783db4e4d2d367beffc80d378d799d45c6fd6	Mon May 22 01:26:15 2023 -0400	Downgrading Harfbuzz to Release
+45d04fba281dba49c7d2a4e4298085fe49421960	Mon May 22 02:15:56 2023 -0400	Fixing Typo
+74b8938457251bcdaa2ecf6109d958aaf9678308	Mon May 22 02:30:39 2023 -0400	Fixed a few bugs
+cb117a0be44b68605d8aaa86b54136676cf9c015	Mon May 22 03:16:46 2023 -0400	Reset SDL_ttf
+23f74020b7b543f4897fa42a2cffb231196bae77	Mon May 22 03:34:45 2023 -0400	Trying Something For WebAssembly
+d204ccec532f309282d52e56e8a376ee581617a1	Mon May 22 03:42:09 2023 -0400	Fixing Clean Script
+ae903678e870e889bd0b1f9b24d107297e2d69cb	Mon May 22 03:50:38 2023 -0400	Adding Ignoring Error On Non-Essential Script
+aad8c31236d280aa1ca14468846ed3eeaed690a8	Mon May 22 04:27:52 2023 -0400	Removing emcmake from Ninja command
+7c3ce5f482a9b59505c066865f1c19c9b60edebe	Mon May 22 15:38:30 2023 -0400	Messing With Selectively Enabling Features
+fe137b90fc07ea5a30f208e48e29c0ac3f9684fe	Mon May 22 16:13:25 2023 -0400	Working on WebAssembly Build Script
+0499a919a155ef37d96a1da8dddd418e87aea337	Mon May 22 16:22:50 2023 -0400	Fixing Paths
+bcdc9fad239da6fb5174c7d9cee16a8970360794	Mon May 22 16:52:42 2023 -0400	JS
+9c17c0eede54c2029564017d3f389292fcc1539b	Mon May 22 18:16:38 2023 -0400	Saving Current Work
+73cc3cac10993d1106edc6c5cd6254740bffc517	Tue May 23 00:19:23 2023 -0400	Handling Emscripten in build.rs
+c8372f54cb8fce8ddace7caee000655a8448ea15	Tue May 23 00:52:56 2023 -0400	Fixed a bug with folder creation
+42622f9464fd80c5b30e2857ccaa290ed2856d06	Tue May 23 01:12:02 2023 -0400	Updating Demo Server
+e5dbeb1197c3b1406f7b9feaac191593b9f7c93d	Tue May 23 03:11:22 2023 -0400	Saving Current Work
+67a75349300fdb104fb2d06126f83ea26972f441	Tue May 23 23:06:06 2023 -0400	Using target_family instead
+04b3d8400aede36dc44716835863badb6b1f660c	Wed May 24 03:07:24 2023 -0400	Experimenting With Creating .app Folder
+1484456584dd8e5aac5041f358ebd84e19c86d15	Thu May 25 03:48:54 2023 -0400	Browser Console Logging
+277f981dd839f4bd6466b2da0fa6d9f350c20afe	Thu May 25 16:18:03 2023 -0400	Fixing Build Scripts
+aea35de27973b5fcb10950494fa519a11d8d45b1	Thu May 25 22:27:46 2023 -0400	Frameworks
+56fe88611251a0379aab425acccd0cb3296a177a	Thu May 25 22:28:15 2023 -0400	Frameworks
+86a6efe11c26971036bc01049645b415aaf6eb42	Thu May 25 23:30:10 2023 -0400	OSX
+f73a1fc46974348ae56beb5a906522033208c8eb	Thu May 25 23:58:44 2023 -0400	Fixing OSX
+34a0ebdfd0c179428355732b67b347e1add12536	Fri May 26 00:17:32 2023 -0400	Fixing OSX...
+20c7cf9d80beb9aabf880a607136fee51b5bf1af	Fri May 26 00:39:40 2023 -0400	Trying Disabling Cache
+c7c08e05b884d978ad5f25a4fed964390908f8a9	Fri May 26 01:01:43 2023 -0400	Deleted Cache
+ee5f5ee4e361bbd4f1bbcdfbd30c5c7a0f3e3d0c	Fri May 26 01:11:45 2023 -0400	Disabled Features
+e4989803561fd87f643b7a56bb578f5fc9cec7fd	Fri May 26 01:38:06 2023 -0400	Saving Current Work
+28c7fbfc7704347b695f352eac6f86bbeede8f54	Fri May 26 01:46:19 2023 -0400	Testing Derefencing
+94fea5c5db955e338f9ddf2d6da69332c9f3dfe0	Fri May 26 02:02:52 2023 -0400	Trying Something Else
+b7eaee53148b4e88a5022d7e46104281b272942d	Fri May 26 03:09:26 2023 -0400	Saving Current Work
+9f831b490a5c45e40984c30f6b34a73d4ceb29fe	Fri May 26 03:17:03 2023 -0400	Tracking Down Lib
+cfe2b42904bad1257f1f357d28be90cb6a927ebb	Fri May 26 03:24:01 2023 -0400	Tracking Down Lib
+ecf6890d1feaa257ef8398566f220e2f5ade261b	Fri May 26 03:31:30 2023 -0400	Tracking Down Lib
+a95882aa657f0dd86f993fc7ce4a1b2ca54ff758	Fri May 26 03:46:50 2023 -0400	Follow Symlinks
+48855a167aac1556278226d4d1dbadb2cb73aaa3	Fri May 26 03:53:42 2023 -0400	Tracking Down Lib
+a368f6c2304e05d104cb7fe8e33f1759f61e57cc	Fri May 26 14:08:25 2023 -0400	Debugging Libs
+ac701b223524b4027722ff1c9c59f42e3e0b9a07	Fri May 26 14:31:12 2023 -0400	Fixing OSX...
+768b7273d6bb41019061a2b5eef1d3f8ed5f5a9b	Fri May 26 14:52:49 2023 -0400	Adding Framework Installation
+7cdb073e2bfa1d54696a182608f1e73a696e5f90	Fri May 26 14:59:40 2023 -0400	Try 2
+53411c7c517268e3dfa4199eeb7933950f39fc79	Fri May 26 15:08:13 2023 -0400	Try 3
+0c114592a79b5c97d5fdc021a5c0e30693204cec	Fri May 26 15:09:56 2023 -0400	Removing HOME Setting
+7b0f88b9de7923d5cd47584d09e7c0305a834916	Fri May 26 15:19:46 2023 -0400	Setting Framework Home Instead
+0b5fb73c7bce7cab64ef5812b175a33378eb44e5	Fri May 26 15:33:43 2023 -0400	Removing av
+4bc18f04f8b9e966854a52bf1e065d670b363916	Fri May 26 17:44:50 2023 -0400	Debugging Libs
+d7d741b84610c26d415968a109849fb2d293a214	Fri May 26 18:10:39 2023 -0400	Fixing Testing OSX
+fd932c5b8e6edb1f44b9a2e8e5bc4e7195fcbac3	Fri May 26 18:19:00 2023 -0400	Sudo
+ace1de7611d236e987c4ed9e94f24c03400f0aa5	Fri May 26 18:31:01 2023 -0400	Testing
+ef622d295e65c666cd87cae2f30e9e61314f318e	Fri May 26 18:55:30 2023 -0400	Fixing Issues OSX DMG Generation
+9fdbafefba8d79611c3e239ad6cf50094d38fcef	Fri May 26 21:25:22 2023 -0400	Reminded That Git Does Not Store Empty Directories
+a608cdc2e2353f72c9776f29eec59f8d8204a759	Fri May 26 22:27:01 2023 -0400	Dereference Symlinks For Frameworks
+b78c2d0b13ac6f433468bd857f01aa0ecae1a767	Fri May 26 23:42:18 2023 -0400	Try 2
+63f02bc4a5e8d6a24ab63223ead78d470232280d	Fri May 26 23:51:53 2023 -0400	Try 3
+7971bb66c09844bef8807c2860c75d02e81f1b97	Sat May 27 00:59:04 2023 -0400	Saving Current Work
+d90ab9bb28463cf76398a0a0273d283ae88e711f	Sat May 27 01:15:27 2023 -0400	Atomics
+613812e87d0d21e2d5e1d052138eb7eb36662794	Sat May 27 01:17:36 2023 -0400	Removing Error Message
+ee43280f869fb77038d24bd6acb9a7c3f89d6595	Sat May 27 08:31:15 2023 -0400	Attempting To Communicate With Web Worker
+3e5cf9db8f033fb25448072e03559df0dbbc1903	Sat May 27 08:57:59 2023 -0400	Experiment
+d34ec047281c0bf7f4e37fc0c9223535224a5348	Sat May 27 23:16:55 2023 -0400	Start Handling More Callbacks
+326726526aac493431271ddd905b6f9f1b40e5b0	Sun May 28 00:57:30 2023 -0400	Create CODE_OF_CONDUCT.md
+870c9dc6671d76cdebe7a2be56399dd4d9e99152	Sun May 28 01:15:44 2023 -0400	Added favicon.ico
+524a9ccab785610c4d7e593817dba631bd02ee14	Sun May 28 01:28:20 2023 -0400	Changed Console Logging to Console Debugging Statements
+839ad7b82dcaf2291c2db258d7cee9d25bdd3c1a	Mon May 29 01:55:58 2023 -0400	Saving Current Work
+866330383e7db9c616e9e8216a3e12b954135fa8	Mon May 29 01:57:46 2023 -0400	Removing FOSS unfriendly message after some discussion. Final details will be resolved Tuesday
+702f0c78e73c3c9effbab15887511516f2342e17	Mon May 29 04:26:22 2023 -0400	Fixed Logging
+a6a110288282f365063df1764852af02a741473e	Tue May 30 03:04:25 2023 -0400	Saving Current Work
+c9b6196ad80ef1e7b4d52abe02308587a739239c	Tue May 30 05:06:21 2023 -0400	Saving Current Work
+42cc158ac8cbb5b1f54d2bb58ef7bda1cd198a72	Wed May 31 05:20:43 2023 -0400	Removed Warning In Attempt To Solve Crashing Issue
+7fed9677e4123048ab42fe32d81cc64ceb311cf1	Wed May 31 05:45:40 2023 -0400	Saving Current Work
+25f15a59bace2f78d21d1effc03c3287d686165b	Wed May 31 07:12:44 2023 -0400	Mutable Atomics
+3df1e3bf9c3c4545bcde233db2eb993ecf85f443	Wed May 31 10:33:23 2023 -0400	Saving Current Work
+000986cef5291b899f854e43d2c796b35d6ea937	Wed May 31 10:46:14 2023 -0400	Saving Current Work
+a4cdcb052701b8f75a6f9090a04de8d33ad46073	Wed May 31 23:25:28 2023 -0400	Saving Current Work
+f1af75c8dbd699013e7a7657e1a41dc12a1916f7	Wed May 31 23:35:00 2023 -0400	Saving Current Work
+4c8f55ac97474a50f005fb3c30f308432889dd6b	Thu Jun 1 02:32:25 2023 -0400	Debugging Threads
+d51f38a0ef04c463996fb4ce20ee6864184e7d1c	Thu Jun 1 13:51:47 2023 -0400	Added Ability To Toggle Server/Client
+b04bba9d471af7a9388e837bb8bda340484b028e	Thu Jun 1 17:08:16 2023 -0400	Looping Message
+a1870c92259b15348c8beb5cdd97a451826e481e	Thu Jun 1 17:39:15 2023 -0400	Fixed Looping Bug
+ae8295761eb70e8dc17d395b7b651d5a4934ee41	Thu Jun 1 22:16:28 2023 -0400	Dealing with 'GLctx is undefined'
+19d399e117d44af66b817fc5bd90682571aed7ac	Fri Jun 2 00:34:08 2023 -0400	Cleaning Up Bindings
+7c0ed93acb5d0dd113bd49a2ab4c48599de5de60	Fri Jun 2 00:57:45 2023 -0400	Bindings Header
+eeec0274ab83f80a22c47cd75b6403463de0c0a9	Fri Jun 2 03:21:12 2023 -0400	Working on Bindings and She-Bangs On Scripts
+f96bf8e9ba32d1b6e1185249c0da3d6f2883efaa	Fri Jun 2 03:29:04 2023 -0400	Removing Autorun
+8024644c63b84378ba9a7da88bf17a07414817f9	Fri Jun 2 05:16:20 2023 -0400	Saving Current Work
+89c0b4dd03d0c5a1d7a265ab88bc67d9e2d37507	Sat Jun 3 04:21:34 2023 -0400	Reconfiguring Cargo.toml
+45f28f9599b6bea1937daf5f4b045dd6feee2eca	Sat Jun 3 04:28:09 2023 -0400	Updated Dependencies
+e325ee48ed61f94d0d033189eb774569615e4095	Sat Jun 3 11:28:46 2023 -0400	Lowering GLibC Requirement on Raspberry Pi Builds
+6a05d0819ee9844f56c664a271d46393d40992ea	Sat Jun 3 21:02:28 2023 -0400	Adding Server Variant
+3278db1ef5b3518ba3eca2c9fb42c5c9a73eaf0a	Sat Jun 3 21:23:26 2023 -0400	Removed Musl Support
+eeba537d7cf546988aad8e8e8501eedc5e03268a	Sat Jun 3 22:08:52 2023 -0400	Removing Rust Target Cache To Stop Cache Bugs
+e288e052e5f19676140a9cd92e61a8e76b0de657	Sun Jun 4 01:29:18 2023 -0400	Fixing Bug
+f3240b225d788aa29885d2cb46feb3f14ee768df	Thu Jun 8 03:02:56 2023 -0400	Got WebGL Context Working
+4e9edb2e1f32847a2f90650a7f16e089f50ae53a	Thu Jun 8 06:20:14 2023 -0400	Saving Current Work
+80990009e6478671bcaed4141643f7a5293347e6	Thu Jun 8 19:22:48 2023 -0400	Hide unwind Message
+456f53d8c3648803f1be83df9fc01c93d0209bba	Thu Jun 8 19:51:03 2023 -0400	Organizing Loops
+a7d9fe01cd96a706e69f36ef986f8911256bcc21	Thu Jun 8 23:12:40 2023 -0400	Separated Emscripten Support from Browser Support
+2ce6ab4646a8a122512b01cf642bafb68be14a41	Thu Jun 8 23:17:38 2023 -0400	Separated Emscripten Support from Browser Support
+41a6607088a71bbc1a2a81c86a2b91051ef7f147	Thu Jun 8 23:29:40 2023 -0400	Added Versioning
+3114ffef8f6f7390102f8cb7af512214cfb579c6	Fri Jun 9 01:09:01 2023 -0400	Added Docs Link
+0c8beb7ab0b39dabe363061ca972fbf0eaf2ee3c	Fri Jun 9 01:40:53 2023 -0400	Started Work on Publishing
+e5dcd330fa2191030c66b19395d1b9d4dfb9c214	Fri Jun 9 01:43:35 2023 -0400	Updated Environment --publish
+dfc37aa2fe606d936284d5bd09bf990fb26ebe4e	Fri Jun 9 01:46:38 2023 -0400	Fixing Token --publish
+d81eef5cbbf2152dd8ce21920dd4b9027b542a29	Fri Jun 9 22:39:09 2023 -0400	Working on Publishing --publish
+dd170d762d18d186ebc41e6a68b194004d356821	Fri Jun 9 22:40:30 2023 -0400	Vars --publish
+78f0203bbb671deb350c055a999323b3f87a3f2c	Fri Jun 9 22:55:57 2023 -0400	Clone --publish
+510ecb5d56f54c0dfd270d4770aa30c0791f118c	Fri Jun 9 23:43:53 2023 -0400	Testing Create Release --publish
+35ef6a943a703152f8ad05a6470889e2cf5a731b	Fri Jun 9 23:47:29 2023 -0400	Testing Create Release --publish
+c4d43fd2ab21f5577100823447ab37a846a9ab85	Sat Jun 10 01:02:54 2023 -0400	Fixed Function Name
+8cd849654237459ecc74660e1590aca5c2100703	Sat Jun 10 02:31:37 2023 -0400	Testing Itch.io Publishing --publish
+20949ad13a7976c9d598ccf91dd1a2b353f56d47	Sat Jun 10 03:04:33 2023 -0400	Testing Publishing --publish
+ab1e7d6e27e0214157302cbfebed35c554ead790	Sat Jun 10 03:14:37 2023 -0400	Try again, better pathing --publish
+b647a04468c1b6227b9a0307315fd6aee101c935	Sat Jun 10 03:19:37 2023 -0400	Try again, Github script --publish
+8d56f4e39f46e735eba2f8285b5fdb1b5a7f0e10	Sat Jun 10 03:20:57 2023 -0400	Try again, better pathing --publish
+e4b34f5f72dae6d3e7609c00ceba2515581e51b2	Sat Jun 10 03:40:44 2023 -0400	Try again, escaping again and env var --publish
+bfc74b694e82d45b8d38be24a4a201589b52be99	Sat Jun 10 04:04:12 2023 -0400	... --publish
+a2a7b62eeef66da45e0076503b3392a57b9aa97b	Sat Jun 10 04:14:42 2023 -0400	... --publish
+ace1532ac4d3a9c9cc02294703030e2952cb4ea9	Sat Jun 10 04:32:03 2023 -0400	Learned More About Downloading Artifacts --publish
+ce97d0486eec1cac9bf033203a31433087185529	Sat Jun 10 04:53:32 2023 -0400	Fixing Android Portion --publish
+84a829c071c9d6b2aa3b698b332dcdffb761b5bb	Sat Jun 10 05:05:50 2023 -0400	Fixing Android Portion --publish
+3651c8b1260a23ea5c9c04941479cf183664b6a7	Sat Jun 10 05:21:32 2023 -0400	Debugging Script --publish
+3cac2916112c0c7591e5655c673fc4197a09ae99	Sat Jun 10 05:33:14 2023 -0400	Experiment --publish
+215a942a8f023268a7746a0626493655e6531b94	Sat Jun 10 13:33:51 2023 -0400	Experiment --publish
+b8b19e2ca73db7a2e83737fce2d779ae31c46169	Sat Jun 10 13:55:27 2023 -0400	Experiment --publish
+d4b7947c89c26d7d9f6017c8ee0a5b19e0fed990	Sat Jun 10 18:03:14 2023 -0400	Experiment --publish
+e3dc2d3f46521370ad9680b307de5d342d99463d	Sat Jun 10 18:35:10 2023 -0400	... --publish
+aacc11dfcdfff8e27886e47fc1c7e1fdcbf05e72	Sat Jun 10 19:54:55 2023 -0400	... --publish
+e7d5537fc5a6c3eb8d3bf8c4fecf2412d27f9586	Sat Jun 10 20:30:13 2023 -0400	... --publish
+0a40cdd6d3162187dfd272837f96dc95bd10b840	Sat Jun 10 22:11:35 2023 -0400	... --publish
+7030fd08c8dbd752b8802fdfee0145935c83990f	Sun Jun 11 00:04:56 2023 -0400	Google Play Upload --publish
+a95d8ea04b136941f8cc11c52edc00a539052347	Sun Jun 11 00:09:46 2023 -0400	Automating Creation of Metadata
+381e08e71212bb95414666a6dc14619ebc504711	Sun Jun 11 00:11:16 2023 -0400	Editing Gitignores --publish
+5df31788c79c802e3d8e7c7eaa2f0f7473431919	Sun Jun 11 00:20:09 2023 -0400	Add Bundler --publish
+f1ebf4753f4d8ab67cf189002538a0b6ab7f586e	Sun Jun 11 00:37:04 2023 -0400	Edit Bundler --publish
+1422a27de78ac5c863b4a49c8d9d06812d956d25	Sun Jun 11 01:03:27 2023 -0400	Edit Bundler --publish
+d7bec56d64849db57d35e704f2fbd431461eae20	Sun Jun 11 01:23:31 2023 -0400	Edit Path --publish
+e136df7c0acdc253ecb129e733ff15d34d7de0f0	Sun Jun 11 03:09:06 2023 -0400	Push to Github Releases --publish
+faa5f2b977f62b2db3e0534cacfe8504db6f968f	Sun Jun 11 03:38:09 2023 -0400	Some Fixes --publish
+8d58be133a66eb6308081ba87a9eb34f391e9509	Sun Jun 11 21:35:40 2023 -0400	Trying Bash Method --publish
+237d03c2406b3cef0fd76ffc01f309715aeadbd9	Sun Jun 11 21:47:35 2023 -0400	Trying Bash Method --publish
+d5d9191d80bfca118e3934f21a6c889e4a8f78b9	Sun Jun 11 22:03:36 2023 -0400	Fixing Errors --publish
+6d2807b6ccda7499d33283171703d36285e7b2be	Sun Jun 11 23:15:40 2023 -0400	Debug Missing Commands --publish
+f645165d6367e71272b17b79decf325b89c614ab	Sun Jun 11 23:30:53 2023 -0400	Debug Missing Commands --publish
+0d00fdd88e8a4c69e22dc93cbb94e814e1c75899	Sun Jun 11 23:43:07 2023 -0400	Debug Missing Commands --publish
+0ec42ffbeb0fdbc6f11199c197fa6d818003800d	Tue Jun 13 01:07:20 2023 -0400	Debug Missing Commands --publish
+c4e4b355471175bfb4177196f164edc0178e95f2	Tue Jun 13 01:48:36 2023 -0400	Debug Missing Commands --publish
+4ae9661dbbe2a0a66251ec38a3a21a84d1730f88	Tue Jun 13 02:29:14 2023 -0400	Debug Missing Commands --publish
+ae4b23bdbcfc83c8ad71780946fe2ae2c1cfd92f	Tue Jun 13 02:39:14 2023 -0400	Debug Missing Commands --publish
+a7123b1ea673f04be476ab4a0f1832fed153eb95	Tue Jun 13 03:28:42 2023 -0400	This took way longer than it should have 🤦‍♀️ --publish
+79dd56d99231eeee4cae7cec56aa64ce073dbdfe	Tue Jun 13 04:03:53 2023 -0400	Trying New Method --publish
+d5cf71cf4358192019afa552e4a964be36f3bdf8	Tue Jun 13 04:44:00 2023 -0400	Fixing Paths --publish
+60c068c5773366081fc5961a3c7b59999ebfd5f3	Thu Jun 15 03:05:00 2023 -0400	Javascript and Stuff Emscripten
+0076a5cdfb41262e3662cff7128b28141d7da743	Thu Jun 15 05:16:17 2023 -0400	Documentation
+c9514d50e62821ca45eea57763ff40f40e8dee74	Sat Jun 17 01:53:39 2023 -0400	Saving Current Work For Bug Report
+69b3d52a612c038b97ce40ba19d8612d90ae6535	Tue Jun 20 00:50:08 2023 -0400	Currently Saving Work
+89dc21aeec1a39af98225a5f913341301ce71f5f	Tue Jun 20 02:03:20 2023 -0400	Saving Current Work
+49f2cb2884542da2aa9a53e41e668908ca7c342a	Wed Jun 21 21:30:39 2023 -0400	Readding CI Builds
+7e56479d5e7bcf3069d27a6e06c28c8b0ec3e74a	Wed Jun 21 23:02:17 2023 -0400	Libs
+6673b563866eec572f9f9d6de62ae46e64ab34e0	Fri Jun 23 02:42:02 2023 -0400	Saving Current Work
+ae457c4ac07be17ff91da4c8a08241fd3fd1223f	Fri Jun 23 02:42:20 2023 -0400	Saving Current Work
+7c81fe3ca7b3f5f2890d5e0ee4785a5d7aa99d6f	Fri Jun 23 03:46:59 2023 -0400	Saving Current Work
+c46b1213d5a75f64fdccc89d14826325e17e0411	Fri Jun 23 21:49:31 2023 -0400	Changing From Default Engine
+a5108a589ee750f864a2f1e0239b06a4b9119bde	Fri Jun 23 23:25:59 2023 -0400	Added Gradle Build Rust
+1a478afdb859eb3c5205dcb61acd9cfaddf4df12	Fri Jun 23 23:33:28 2023 -0400	Try again
+4a5612ec396b770ab124948f64ff1997923e5566	Fri Jun 23 23:46:18 2023 -0400	Try again
+7789453bd1c889dee661335c358629d320957549	Sat Jun 24 00:02:12 2023 -0400	Workaround Bug
+8747a791fbe61e3ad3ec458d63a9e22f05bc1266	Sat Jun 24 00:18:09 2023 -0400	Install Cargo-NDK
+2d386b2b98e962b8144897b7e1d23b6d4ed565e0	Sat Jun 24 00:35:12 2023 -0400	Fixed Preparing Artifacts
+f3c15c515cec07c3c6a9e331dc84802cd209d9d0	Sat Jun 24 02:50:41 2023 -0400	Started Work on WebAssembly Support Again
+1480737af0b3ce77732a4bd1c4f9bdf2d642f022	Sun Jun 25 01:48:47 2023 -0400	Updated To Games-Activity 2.0.2
+2c4da017a6ce8d7a2ddeaf2f825f29e014155994	Sun Jun 25 02:11:21 2023 -0400	Fixed Compilation Issue Due To Wrong Git Revision
+72bcc80e2abd81dce5b63e56fd2c74d61613d28f	Sun Jun 25 03:04:59 2023 -0400	Fixed ce_start not being exported on Android
+3e9021d54d8f0df3c498284510aa2fbba270c64a	Sun Jun 25 03:38:34 2023 -0400	Added Defines
+eef5246173c6529874d8a394e3987ab2ac7bbaad	Sun Jun 25 04:24:26 2023 -0400	Started Work on WebAssembly Support Again
+e2f388b766e7606ad8461ff3d803c5fa5ff1e974	Sun Jun 25 04:35:00 2023 -0400	Working on Wasm Example
+ec9fa6d118f4cef80504aa514397b4cddb5e9cb8	Sun Jun 25 04:52:36 2023 -0400	Added WBindGen WebAssembly Github Actions Script
+5b81c4697b5a5c24b4b53f95df96be4f9bce1c2d	Sun Jun 25 05:15:41 2023 -0400	Fixed Stuff in WebAssembly Build Script
+8fb93762153ede988b6632c9bc94aff9aec220c8	Sun Jun 25 05:16:45 2023 -0400	Fixed Name
+bd65448608227ee1f3e4eaa624d84ea81a4181bf	Sun Jun 25 05:17:37 2023 -0400	Fixed Name
+40116e321bc13ae5fcfc4baff072165d741e3cbc	Sun Jun 25 05:24:00 2023 -0400	Added Cleanup
+d02b169f624b1c2713b47ae891164206d2922c8c	Sun Jun 25 21:03:53 2023 -0400	Applied Cargo FMT
+514518b818aa7e124c142f2441a157f17f22e2b5	Sun Jun 25 22:41:07 2023 -0400	Updating Rev Version
+d3d1597914bdaae1c0b80299fb0980e77bc75950	Sun Jun 25 23:44:40 2023 -0400	Preparing For Wasm32 with WBindGen
+6f6bfe8397734123c252760e9f03b2229d5decdf	Sun Jun 25 23:52:31 2023 -0400	Added Panic Hook For Web
+90a760031eba8e29fd8bb52ed0daa57c3435deb7	Mon Jun 26 00:54:50 2023 -0400	Messing With Threading
+2cd7eed1b796af1484943971776bd68454a5077a	Mon Jun 26 00:56:00 2023 -0400	Cargo FMT
+53216ee8644ec50286bf740ee4b57d42c6d82c6a	Mon Jun 26 23:51:16 2023 -0400	Saving Current Work
+8bcbc71be331a715771da7d71ff163bbef5596d1	Mon Jun 26 23:55:28 2023 -0400	Saving Current Work
+2ead00863035c457d21c0f6c8d46741450944275	Mon Jun 26 23:57:48 2023 -0400	Saving Current Work
+5b3a90abe493924194739279057aa187bc66dc63	Tue Jun 27 04:17:24 2023 -0400	Profiling
+140924037841b1a0d45838f8a9cbd4b9ca764063	Tue Jun 27 04:44:51 2023 -0400	Profiling for Android
+7ef10b40901f521014f20b4e5dd42923f2b189ab	Tue Jun 27 04:48:02 2023 -0400	Downloading Rust Code Wasm
+bebfcaae7c17ad96fc82472c25735ac04daac7e2	Tue Jun 27 04:49:40 2023 -0400	Removed Code Size Profiling OSX
+e3479d8042693851bcabc0aeb3c38db60ad75f29	Tue Jun 27 05:15:28 2023 -0400	Some Corrections
+c379dd8fb43986e5b074ba73adeed132bcdc628d	Tue Jun 27 16:30:24 2023 -0400	Some Corrections For Wasm Generating
+d26cb6b29009c227e3fa439e7b1c16104f8e009e	Tue Jun 27 21:32:48 2023 -0400	Saving Current Work
+8805457cc7c8b4d5e18baa58b950663fbb8b030e	Tue Jun 27 21:34:53 2023 -0400	Saving Current Work
+aac421ae472e78f60c80d5f95e87c3c7a9d70450	Tue Jun 27 21:58:03 2023 -0400	wasm_threads member
+1dc5857fa596dc5c00b0fc66aa269368f12bdd9c	Tue Jun 27 23:27:31 2023 -0400	Started Work on Wasm Threads
+45254836f69accf5545424ef789dbeba9956b507	Tue Jun 27 23:49:28 2023 -0400	Locking Down Build Target
+2cab64b9bf7b998ac368bc9aeed9166815ddb147	Wed Jun 28 01:18:35 2023 -0400	Documentation
+8c8474d0fa132881ed1335507d495b5eb4daef6a	Wed Jun 28 01:22:47 2023 -0400	Updating Version For Future Crate Publish
+0e95509002def7aabf0a67ead8cc031f50df39ad	Wed Jun 28 01:36:01 2023 -0400	Fixing CFG
+730c8765fbf357cce4049ab30197901c7eaa8e81	Thu Jun 29 04:45:36 2023 -0400	???
+d23f667a535f43ae6d325c03191976ca5cc8eaf2	Fri Jul 7 01:49:28 2023 -0400	Adding Codeberg Mirror
+88f61d6486e4f6df5efa9871c88b5b3e069277dc	Fri Jul 28 21:24:22 2023 -0400	Added New Mirror
+8bd2953d7b12f9b976971b719f6a20948464c34d	Fri Jul 28 21:46:48 2023 -0400	Updating Mirror Link
+1ad4cebdab0d83fa3a99a969428b41badc5268f1	Fri Jul 28 21:51:38 2023 -0400	Fixing Mirror Link
+93c688d358a23d72525eaa471f188bf7b4dde84f	Wed Jan 31 23:41:26 2024 -0500	Updated Gradle
+a79f6ead050cc8e0c2a1c6a80f79ba1bf802ff40	Thu Feb 1 00:25:47 2024 -0500	Got running on laptop
+0df47ff57a22eb683c954fd0de120cbfd090d75a	Thu Feb 1 01:14:48 2024 -0500	Removed webassembly support
+a3311109b0a18364256cd1e318cb8c06b2dcd1a5	Thu Feb 1 01:18:29 2024 -0500	Updating version
+e1433dfa0dcc81e4cbc498b7493305ad22a98e2d	Thu Feb 1 01:49:18 2024 -0500	Removing Client Thread
+44e0f26d2e6eddad7813d7a5e54df5d255ef6afb	Thu Feb 1 03:08:59 2024 -0500	some cleanup
+a08e2d00ce9f77f91bf5c1074b7a4c633678da19	Thu Feb 1 04:10:56 2024 -0500	messages
+ee42e26e4b5734675407f65a68491a5218c815bc	Thu Feb 1 23:31:22 2024 -0500	mirror
+049d9dd232a9e304e4f0925b8777b696bbf44a42	Thu Feb 1 23:36:28 2024 -0500	mirror continue on error
+3e828e0c9cfda10a06dd9c8c1cdc2895fa190981	Fri Feb 2 00:35:47 2024 -0500	funding
+4f9d2efd06fa6b418665e78e4f98fb7a6ad0f12b	Sat Feb 3 02:39:52 2024 -0500	cleaning up and args
+76d03768e8362055b1aa712c691ebdbcbe4d6d63	Sat Feb 3 15:28:55 2024 -0500	comment
+6d7a289eafea514958189eac9ee8bc0c468b9f5e	Sat Feb 3 16:15:23 2024 -0500	serde json
+a284c08181cbdea257bb0bc4969fda6c99ef8bef	Mon Feb 5 03:39:49 2024 -0500	serde
+6fa26fc4fa31113974e09499fa950ceabaca0fcc	Mon Feb 5 04:41:14 2024 -0500	removed newlines
+7f45db5f80092f8b05af08ed069741ca9bc1b373	Mon Feb 5 05:19:57 2024 -0500	deps
+605ba7c78a3badc217aaf9b05fa813f52bbc92ba	Mon Feb 5 07:15:56 2024 -0500	prepping for gui
+a1b3ccc3cc65171a2da1f659820cd21457fe75eb	Tue Feb 6 17:43:14 2024 -0500	Rendering, but broken on Android
+854c82579d63754a26d7edb4b57933805dc20ed3	Wed Feb 7 00:17:43 2024 -0500	Upgraded to rwh_06
+c32b2a78833449f9ee9a406a0fc06b77d48588bf	Wed Feb 7 05:23:50 2024 -0500	working on fixing for Android
+287a31858338261bdd5b58141e31411a37f76757	Thu Feb 8 05:29:26 2024 -0500	args
+43f279df728120e7d877e432d922be6bc57935ec	Thu Feb 8 05:29:58 2024 -0500	no newline
+97561c94137bc5503a4d8676cd40dc9810d8e9b2	Sat Feb 10 06:12:52 2024 -0500	tracing
+386f11aedc494a91b48766cc14228c3ade3672b1	Sun Feb 11 03:20:16 2024 -0500	debugging android
+b5088a1498eeaaad78c01f57f9eda82558f70e22	Sun Feb 11 05:28:58 2024 -0500	Saving current progress
+ba6a87f71d91e8f7c283aa2c5c912b371cb31619	Sun Feb 11 23:31:25 2024 -0500	Saving current progress
+fe1e199f4fc59e9862cddcd0d8edef2275af0223	Sun Feb 11 23:43:27 2024 -0500	fixing versioning
+a23d576b5c21a1d426520001670b380594c66f81	Mon Feb 12 03:42:20 2024 -0500	saving current progress
+9b38478742c42d12da500f66cf50f1624438403f	Wed Feb 14 03:33:54 2024 -0500	got it to work on linux, and not freeze android. still doesn't call resume on android tho
+155cce7ba3b23b170596f0ba6893ecc6a0b9dfe9	Wed Feb 14 04:34:47 2024 -0500	finally! it works on android!
+c3b0b8a7a1cdb03f9c444d7f902498a707964078	Wed Feb 14 23:04:12 2024 -0500	Started splitting engine into 2 sections
+829311913b9540326584a6c72320cb51ab77ec27	Wed Feb 14 23:08:08 2024 -0500	pub(crate)
+9bc6bd54904dc6cc610d002a805caa39b7618f88	Wed Feb 14 23:10:51 2024 -0500	syntatical sugar
+39e18a37de063f47b2e1d2960aea0f171868f253	Wed Feb 14 23:15:28 2024 -0500	moved iter to cool
+ce7812f613ea2bd8446e1e5fa11b459ce7a58968	Wed Feb 14 23:49:37 2024 -0500	added note
+6fe3b1c3feb5ab767dc9cb0d658be8cb57ad072f	Wed Feb 14 23:57:53 2024 -0500	added more restrictive limits
+f4ed298384a72e322622a75b47b7336c30e2246b	Thu Feb 15 02:47:26 2024 -0500	saving current progress
+a7cd23702499c6b38b7ad6925786051c0d544798	Thu Feb 15 04:23:41 2024 -0500	Full Screen
+28a7722f0e323a76bc42e319d67ac4dfe1e10c2f	Thu Feb 15 04:40:18 2024 -0500	Setting middle limits
+b844dcd8a3b4a98fd2bc5ac28335ebc226ca04d8	Thu Feb 15 04:48:30 2024 -0500	userLandscape
+da03511ecef67229971c99b63c14bb8bc34c2081	Thu Feb 15 04:51:39 2024 -0500	clean up
+8fd1082e4441aab5f7c216df7a2eae17e8fd64b4	Fri Feb 16 02:04:14 2024 -0500	working on wasm
+8d406b6ae91a157f3dda7a8753346aad3dd7853d	Fri Feb 16 02:15:50 2024 -0500	added comment
+d5497c6c8ca5cc076427c48253257a01554d408b	Sun Feb 18 01:17:03 2024 -0500	split to separate packages. need to rewrite certain portions for the split system
+cc68783dceec9b68c02093c3b02cf9829dcd8a16	Sun Feb 18 01:43:29 2024 -0500	got android working again
+47fd28e2c7200a1309afa22bd2b199bb73258de2	Sun Feb 18 03:05:17 2024 -0500	added temp logo
+1c3e40e21188abfaba33b97ad1cb20fd7ae9e756	Sun Feb 18 23:11:13 2024 -0500	upgraded gradle
+275b30b7e9a480405cb1c62ec6a6b335ffa55d54	Sun Feb 18 23:12:35 2024 -0500	added comments
+3e13a63269000e457e96b907c5d7825c02b946d3	Sun Feb 18 23:40:06 2024 -0500	saving comments
+50a84489c988b420d279017da8d6a73f0b0bc819	Mon Feb 19 00:25:43 2024 -0500	disabled minification
+f2cc923949b5dafe80502794dce1af29a7109c84	Mon Feb 19 00:37:12 2024 -0500	fixed android icon
+5be06027ede96ae7153f30d3c4475ccac8e6847c	Mon Feb 19 01:32:30 2024 -0500	trying to move to wasm support
+6caf649b745794423d36b626c03ba4d5d866a916	Mon Feb 19 01:34:13 2024 -0500	remove unused import
+bf4624f96a02a79a518258c0eca638e7b35d2f5e	Mon Feb 19 02:08:25 2024 -0500	saving current progress
+f41001ff354759a7bd703a68bf1db5f3e3eb3b34	Mon Feb 19 02:42:14 2024 -0500	leaving note to myself
+7b17cb03b8e52df0e41d710074094036aa547fc1	Mon Feb 19 02:45:16 2024 -0500	stop browser from looking for favicon.ico
+f892da403d2a71a47be337c5710f47c97c60e0f3	Mon Feb 19 23:48:37 2024 -0500	license checking
+c50c39b4c954cfa220021d860b34d07e4660f1fa	Mon Feb 19 23:52:57 2024 -0500	sample
+d5e698483f68c83095cd59e60683a83c988bb90e	Mon Feb 19 23:59:17 2024 -0500	test
+9ac180e2a4b2b57af941ea293f27f74d3d25bca9	Tue Feb 20 00:00:17 2024 -0500	test
+dde1184dabf1033ba9f6a6f354107819988cc1b1	Tue Feb 20 00:02:06 2024 -0500	test
+cf6c64ed4ea7e5f434ab52a0b8c5dc004e23e155	Tue Feb 20 00:04:38 2024 -0500	test
+c4b484ec15f29297eaee5bd3bfd8492610d0d27b	Tue Feb 20 00:16:12 2024 -0500	pre-commit hook
+db90bdd853f6a72a5ceabc2f59e75c0a86f86503	Tue Feb 20 00:26:24 2024 -0500	removed end of file fixer
+192e2ae8cacae457c84946d023c76662ae83cfb0	Tue Feb 20 00:39:53 2024 -0500	recommit
+d5075afeb50e4683a74f025f951400ab57881932	Tue Feb 20 02:10:44 2024 -0500	started work on embedding copyright info into program
+1861383863cbb4e547a42c62cdb22d183ec89d20	Tue Feb 20 06:04:45 2024 -0500	saving current progress
+931075db61395bde29abeffe77e88ca1b8834bbb	Tue Feb 20 15:05:18 2024 -0500	rename dependency
+0d9502f9cdcfbfe0b136c7f76ec68deefd604428	Tue Feb 20 18:05:34 2024 -0500	saving current progress
+538dd672d41daf9f4c2a9f219a558a9d22eb070b	Tue Feb 20 18:15:34 2024 -0500	adding version provided by rust peeps on discord with permission ofc
+6fe22181cb3aa084a9c58089ee02463417f33425	Tue Feb 20 18:20:29 2024 -0500	adding comments
+d3f2fabf0784445e56fe11dab101b8c3ba736c85	Wed Feb 21 00:06:24 2024 -0500	saving current progress
+030a5153737e04ae4ebbdf15fab09b745ee22e30	Wed Feb 21 02:05:00 2024 -0500	tweaking vscode settings to optimize building
+271fb8b123a6f0c026b3c2f688093a46017bf7cc	Wed Feb 21 02:46:58 2024 -0500	removed text
+77df80beffb6355201024583bf5e98afd496d5c0	Wed Feb 21 12:41:25 2024 -0500	saving current progress
+7a817ed486dd0d2315534cd8ebe08162d1c68ca9	Thu Feb 22 02:24:13 2024 -0500	changed wasm32 to wasm
+66c83413df5d13767130661fbb23a11df45c9770	Thu Feb 22 03:07:56 2024 -0500	testing
+b2917c0f0691cd29c2b024279e7d68a577e0b871	Thu Feb 22 04:27:30 2024 -0500	testing
+c42655a02f399f7aca7a4db516d1f996146140f3	Thu Feb 22 05:33:08 2024 -0500	testing --publish
+afcd6f84836d4032f11d43a5d9dfb8f71d3c8395	Thu Feb 22 16:09:36 2024 -0500	fixing build script
+564906124ebfaf97d1b331870cb30c356f555386	Thu Feb 22 16:09:56 2024 -0500	publish --publish
+5f224b2588e54911490375b45c41a116c881212d	Thu Feb 22 22:34:01 2024 -0500	cargo timings --publish
+86ad27ff83fcb3ace3eff44958eb219358b0a9d6	Fri Feb 23 00:19:18 2024 -0500	cargo timings try 2 --publish
+3ca01582e34f933489b518428402c2c8c9405664	Fri Feb 23 02:09:29 2024 -0500	trying to improve timings
+2e7007f16eec8285a3d4384dd7fba9326acca778	Fri Feb 23 03:23:10 2024 -0500	changing cache key type
+07a9cf5ec904b890c6035e7c971757c45014f253	Fri Feb 23 04:28:16 2024 -0500	updated actions
+57fa8d6d726170ee0773b85af59d6f39b457e38d	Fri Feb 23 05:05:03 2024 -0500	updated build scripts for profiling
+cf43adcfece3daa59a28af3d27055866c83e68e2	Fri Feb 23 05:14:29 2024 -0500	updated build scripts for dynamic core count
+ac1bb8883d3094cacde980cb7cb44960cb14e378	Fri Feb 23 15:11:28 2024 -0500	testing build speed
+51d1d9ec8ff16f6ab23208427c123b1b566ef257	Fri Feb 23 16:08:22 2024 -0500	testing build speed 2
+4bcf14914d15995318dbbc8f765f9c6ade7f9a62	Fri Feb 23 16:09:01 2024 -0500	testing build speed 3
+5bbe91cfff1bc9bd8a57759e6a0a05164603ed80	Fri Feb 23 16:30:33 2024 -0500	build depth 1. later set to 0 as per github issue feature request
+1226bc9b04573c0187c9d6b77df9bc9f57a7f00e	Fri Feb 23 17:12:47 2024 -0500	readded using default features of clap
+e6eaac952236b4b1ad8ebeccae9529dfbaa29307	Fri Feb 23 23:30:41 2024 -0500	Added resource copyright license
+16eed4226bbb2b034e41296811bfcdabbc81cce0	Sat Feb 24 00:18:05 2024 -0500	cleaning up comments
+af5c7ff267262300ccc9cf2868a1f47220d9eb67	Sat Feb 24 01:59:57 2024 -0500	disabled speedup for build to trade off for speedup to run --publish
+70e47420236bebf54e3832e6ded239ab0d5e86fc	Sat Feb 24 02:28:35 2024 -0500	fixing links due to site rename --publish
+a44610232609b741986530c0f23f9638a39a7fee	Sat Feb 24 04:32:47 2024 -0500	adjustments
+e0b5c0b0dcdcde001fd0ba61ffe630d632a39e22	Mon Feb 26 01:23:29 2024 -0500	saving current progress
+62cea2f32d547e55f85ce6f4c06f434fdae083c9	Mon Feb 26 02:44:04 2024 -0500	saving current progress
+8833603629c569c303b50fe9fd8daa42ab2a668d	Tue Feb 27 01:49:00 2024 -0500	struct
+efb5d78e85fec0d1399d18ab1811027861f93c2d	Wed Feb 28 00:31:00 2024 -0500	moving code
+57a84579a8e810cab3d7f4dd6d7bef305120a70f	Wed Feb 28 02:33:07 2024 -0500	refactoring code
+7e27922741c524892ba23b0361d2805e0859d57a	Wed Feb 28 03:41:13 2024 -0500	documenting code --publish
+f6d47d62e585eab3523a1fe6404e9835959492fe	Wed Feb 28 04:00:06 2024 -0500	started work on adding tests
+4c1ab7630b87c125edac4d122a42d111da883121	Wed Feb 28 04:04:04 2024 -0500	trying to publish crate
+a70028555f346e4830ac0e3d615e2feafcc6bbeb	Wed Feb 28 04:08:09 2024 -0500	trying to publish crate
+343517776867a44421b78e8160331259e9061e3c	Wed Feb 28 04:08:38 2024 -0500	trying to publish crate
+db9fd5bdd2e5123b46b1240a95eb295570e1b577	Wed Feb 28 04:10:36 2024 -0500	trying to publish crate
+4bda3868d46b76ac5df54b78622fd9b6fff0f1f8	Wed Feb 28 04:29:35 2024 -0500	testing publish script
+934f221f50e371a03ee1e5a12808d1e6e26d4546	Wed Feb 28 04:35:50 2024 -0500	adding publish script
+cde70057be339a9dc33e19a1deb6b827bfeb2f9a	Wed Feb 28 04:53:39 2024 -0500	fixing publish script --publish
+4dfbeaa489f1d520092558fdc92e7b93615b8242	Wed Feb 28 04:55:06 2024 -0500	fixing the fix for the publish script --publish
+d03eb8a83536282393cc26c1ce823132e8c1301e	Wed Feb 28 05:07:01 2024 -0500	fixing the publish script again --publish
+2403f33a19d76d58927b4184859f6661de44a9d3	Wed Feb 28 05:11:37 2024 -0500	fixing echo statement name
+5f8ef63694c69238371027646bc2767157d46c1d	Wed Feb 28 05:53:38 2024 -0500	build.rs
+0600679bb826c8eaf48811971183fea8030a6839	Fri Mar 1 00:43:35 2024 -0500	uncommented some debug and moved to trace
+670f324d4d687dcd382efc24eb00858136fff382	Fri Mar 1 02:06:11 2024 -0500	improved documentation, visibility, and speed of uploading github artifacts
+4745fcb3e32f8a56f0fec932a058d391f5080a8f	Fri Mar 1 02:36:41 2024 -0500	fixing build scripts
+e6f63ec88b4a231f829d211919170442eef2c032	Fri Mar 1 03:25:58 2024 -0500	disable building docs and fix bindings
+85503c8a89fca3f546444953b8b0360112888527	Fri Mar 1 03:27:20 2024 -0500	testing --publish
+aaef68d5119316b27c6b9ab42da8390f96dee569	Fri Mar 1 22:21:28 2024 -0500	publish --publish
+8a90ed4b98422242ae384da5e4920e91c90e15aa	Fri Mar 1 22:45:30 2024 -0500	publish --publish
+44bf05669ef6aa6bf82444b062cb8ce621907016	Fri Mar 1 23:41:42 2024 -0500	docs
+70704d66d45ced6926e4063dddfa486a28b17808	Sat Mar 2 00:17:56 2024 -0500	utils
+dc7c2b0ff29138747baf63bb53df9f7cca548bdd	Sat Mar 2 00:22:25 2024 -0500	docs
+c32421f8a31962b8ddf1bc540afb3fd1313fda56	Sat Mar 2 00:46:07 2024 -0500	updated readme
+8314c58fedfd0dc78c61c0d4654a6592eb2961ca	Sat Mar 2 00:50:03 2024 -0500	cbindgen
+9b0500a01a198aacc9d68c1eb0b6a0630756058b	Sat Mar 2 02:44:49 2024 -0500	fixed color space
+28baba693039418b7d25f2cadb5cbb582c864f83	Sat Mar 2 03:04:39 2024 -0500	pub(crate)
+afb0913cf7146fc6cf01fef13c8f911f9f110016	Sat Mar 2 03:42:43 2024 -0500	explicit return type
+b38eb9ee0e60ad1f9eb9dcfceb2767cf36f6b7e5	Sun Mar 3 01:51:12 2024 -0500	wasm experiment
+f826e7dff8f0824d3a3f8008df20aa4d4c0daf75	Sun Mar 3 16:43:18 2024 -0500	removed loop statement
+b69f6346a21aaa125ad7c0a5cac56073300874de	Sun Mar 3 20:08:02 2024 -0500	improved dependency documenting
+430229ccbd63f47228a3f24a19d2945f182233db	Sun Mar 3 20:12:24 2024 -0500	added pub version of build_info
+04e046ca11409e190aa80191fa3317d4a8592eb1	Sun Mar 3 20:19:18 2024 -0500	spaces
+4231f6b754b491e125c9c40cbb4811a352c4c8e4	Sun Mar 3 20:43:28 2024 -0500	fixed tracing-subscriber
+3262ab52edeecf8b4d5e986615de495d9c77119d	Sun Mar 3 22:52:17 2024 -0500	improved logging
+656dbac29f96fc1d922cfc08f16471a5c7076008	Sun Mar 3 23:40:41 2024 -0500	set trace level wasm
+e930196a2d59cb3b4240a0d241a8dcc3406e6d70	Sun Mar 3 23:59:38 2024 -0500	commented out broken wasm code and added warning
+2450b641db74bc252d577945bf0aa18ecc900051	Mon Mar 4 02:23:59 2024 -0500	Saving current progress
+41003fbe79c30d1942d2ac0681007027d69f41d9	Mon Mar 4 02:38:12 2024 -0500	canvas is linked, just no graphics yet
+ec778d77177b9a57cca65258f164c76bf42ede98	Tue Mar 5 03:36:51 2024 -0500	fixed settings.json
+ed2cd5fc3fa436eb53b32c499a5d4c17f63d2b0c	Tue Mar 5 19:11:22 2024 -0500	fixing python
+acc4a748b802dcb5207fcd3dac0ec17672ee82bf	Tue Mar 5 20:41:46 2024 -0500	saving current progress
+9cb0a72b9d71bbd7100bfd74a042fc7fff0c0593	Tue Mar 5 21:41:34 2024 -0500	saving current progress
+02ccdc3d446558e06202dcccc48986079dec98bd	Wed Mar 6 00:36:24 2024 -0500	saving current progress
+f5a6647a67bbab74f91674dd2f5b93544b998285	Wed Mar 6 00:57:49 2024 -0500	python execution
+3bad0c80380c24e0ba64c33ea64cb1a84ee4d1f8	Wed Mar 6 01:57:53 2024 -0500	python execution progress
+aa9913d0c01b0430b3c188d3e36f7a97c5c089a0	Wed Mar 6 02:57:46 2024 -0500	python execution success
+19c56c6f6b47f7cf43bf8b95065ce6665661973c	Wed Mar 6 03:29:13 2024 -0500	miri
+2e0d17650a8cbbca99f63c6943013acfa6a69627	Wed Mar 6 04:06:59 2024 -0500	pointers
+45b36791598979abb93cd0e2677a803d8c772c07	Wed Mar 6 04:29:30 2024 -0500	fixed safe api boundary and segmentation fault
+1693e302e9f2f28a7804d371c1891d1ddb6b7b96	Wed Mar 6 05:21:52 2024 -0500	tests
+9deeae2c763149fdcfa22378d38e4465590f3007	Wed Mar 6 15:02:05 2024 -0500	fix c_char and tests
+0f88e30e03ac3d63e5b2892e475082c9fccc3b51	Wed Mar 6 17:58:29 2024 -0500	disabled miri test for all but linux until further work on non-linux unit testing is done
+5c5c1463eaafe81e4543926a40df7cade14c8c28	Wed Mar 6 18:33:41 2024 -0500	cargo lock
+b613c8be9818b9f88505097d3d59ccdfc55c8502	Wed Mar 6 21:19:39 2024 -0500	wasm build
+bb90e331e7f45bee5fb6082d5c169cc094324f21	Wed Mar 6 21:36:04 2024 -0500	fix path
+c0712e3d03fa24480e3825c6efc81fbdfd84cc62	Wed Mar 6 22:37:19 2024 -0500	comment
+3e3866563edc535abddec535adcb00b3beee59e9	Thu Mar 7 00:54:37 2024 -0500	--publish
+f11fcefd4c963ed56be7d8757082017c29163372	Thu Mar 7 01:22:36 2024 -0500	test actions --publish
+29c76a2a39a0208711351e9a5ba930dd0fab512d	Fri Mar 8 02:47:22 2024 -0500	working wasm, but needs much work
+2c2f66dbd483cb833758b45d585cbb15d9680221	Fri Mar 8 04:29:50 2024 -0500	fixed wasm
+cccd7e2e5a13caac357c528d85d05806793039fd	Fri Mar 8 05:21:48 2024 -0500	fixed ci names --publish
+691084f4e70629cee009c8f86f3afa2b0c0f337e	Fri Mar 8 05:31:20 2024 -0500	fern notice
+5218030d974abcaab1c0291ba9cc1cfeac3def86	Sat Mar 9 00:50:44 2024 -0500	Create jekyll-gh-pages.yml
+22db4c1ab8edd0d7aa413ccf027d71a37fbbf540	Fri Mar 8 23:46:55 2024 -0500	fern filters
+0a225fadf6427085682ab6fdb36d4e40909b4da4	Sat Mar 9 02:04:54 2024 -0500	github pages test
+450e405f076525cbdfd33239d7b7387b65b3e57d	Sat Mar 9 02:21:14 2024 -0500	github pages test 2
+143dc515c58b53f1db8380b979734aeedcc532a7	Sat Mar 9 02:26:33 2024 -0500	github pages test 3
+6618fe9751894c6bcb593bcbcd0669ce76269808	Sat Mar 9 02:38:30 2024 -0500	github pages test 4 part 1
+fef73f9ec18e0132c9125e68bea3b9ae51ddc5f1	Sat Mar 9 02:43:31 2024 -0500	github pages test 4 part 2
+e02c8da29513a3870ec54812c755060cb1d59525	Sat Mar 9 02:53:31 2024 -0500	github pages test 5
+1ed93b2316aa47312a1e2b140f045b9a5681e3ee	Sat Mar 9 03:17:52 2024 -0500	Create CNAME
+989a9fef0a128e1515c5a2c18151020d77b49346	Sat Mar 9 03:28:33 2024 -0500	theme
+f4a57288588d75f23d7bee1c2734e7264d48ba21	Sat Mar 9 03:31:17 2024 -0500	cause github really badly wants it in docs
+dae58bdd2ac2e06eab8591e3f1b26a42c161943b	Sat Mar 9 03:45:40 2024 -0500	center canvas
+443c1950760bc43e29d1718dfb66eaeb51fe4f88	Sat Mar 9 04:20:46 2024 -0500	center canvas test
+558019467a05a9c86e0ac44db40aa43eeda79190	Sat Mar 9 04:28:44 2024 -0500	center canvas
+4d1db3b5e133e7d6321c8a45887c2b3365e6f3b3	Sat Mar 9 04:44:38 2024 -0500	adjusting margin
+be0cf61745dbd385a1b39c8dad15fe3f7fae7c91	Sat Mar 9 15:04:31 2024 -0500	wayland stuff
+9fd5db792a58e72c0f6aa128f0875e61b7c36583	Sat Mar 9 17:08:53 2024 -0500	wasm bindings
+3ed39fdc74c1c42041c0ec572a82217bc75c37c7	Sat Mar 9 18:51:13 2024 -0500	wasm engine export
+4243e75655203d3bb10e9750d0e971579d061428	Sat Mar 9 19:55:47 2024 -0500	bumping version --publish
+534489cd684f5449936ca0bdf11f1625aa1991a4	Sun Mar 10 05:47:20 2024 -0400	wasm and ffi stuff
+0799a2c884b85408e9301ce08b7bae68c0016aaf	Sun Mar 10 06:33:19 2024 -0400	clippy strikes again
+2ba5efcdbf561a4386701f2342eab07c66f6d2d8	Sun Mar 10 06:35:53 2024 -0400	clippy update
+40d7209984d4b69a779ac2276693815f6e48668d	Sun Mar 10 06:37:18 2024 -0400	test
+09779171089fbb2c39dd91af121ec9e481ac0500	Sun Mar 10 21:44:58 2024 -0400	docs
+005a4bd95bf537fa85b2ad176940ce0704a5a8c6	Mon Mar 11 03:23:36 2024 -0400	assets
+821d7480ebd02c7cb4855b06d7d68ebbd10e84a1	Mon Mar 11 03:30:22 2024 -0400	edit comment
+b824edf76b790995b5a19d7416988705d6dfd17b	Mon Mar 11 04:52:40 2024 -0400	stuff --publish
+9c2a3e8bc279e6ecfdab92df1c0276b03c22192e	Mon Mar 11 23:41:40 2024 -0400	doc comments --publish
+cfa12ca67e4e4c51e85e09ca68e30359ec242d1e	Mon Mar 11 23:44:41 2024 -0400	pre-commit hook update
+107ef5d55bf279b7fb0623fd3103b2453246db8f	Tue Mar 12 00:04:43 2024 -0400	no verify
+45af5e8e293b4d7569f3d63f5207348013c4ba4e	Tue Mar 12 00:26:33 2024 -0400	doing some automation improvement and checks --publish
+343f287fb646a8125a183fdb179064e9cdebfe89	Tue Mar 12 00:41:26 2024 -0400	fix test
+d77c3b92dc28509d3e8fb9a24879c93861230179	Tue Mar 12 00:45:10 2024 -0400	notes
+5075361b060d40630845e0c75acd256d4d1091bb	Tue Mar 12 02:01:59 2024 -0400	test local
+38ffc3c056d676388bc8fa04da08e2d09152a290	Tue Mar 12 02:03:29 2024 -0400	publish test --publish
+982d1407f626c8f47ce0cb77a10e2f0c412d4ccc	Tue Mar 12 02:17:12 2024 -0400	publish test 3 --publish
+e9659fae80ad1b41a5764bf7ca25583c36797a1c	Tue Mar 12 02:28:32 2024 -0400	publish test 2 --publish
+9e6b7b3902e3d6238472350b9cca47d3ace07927	Tue Mar 12 02:29:22 2024 -0400	publish test 2 --publish
+8bac9f7aae98a96ceafdd6fbeb88bf03ae1ec086	Tue Mar 12 02:53:41 2024 -0400	fixed description
+824b968aed77bae815b8ede78e12fbebea203049	Tue Mar 12 19:41:20 2024 -0400	testing doc building --publish
+8ba333b1fb7b1aa888f5d7e6e10b4ae0f9ce9457	Wed Mar 13 10:24:07 2024 -0400	webhook
+e460a7fac5c10c5fb58f58c9e1b3b0889f47a88a	Wed Mar 13 10:27:54 2024 -0400	webhook test --publish
+4d4579578340e5ebc6e605c963362a3f7355c3e6	Wed Mar 13 10:45:38 2024 -0400	update comment
+a9a25dae8f07f059ad2bb1a01a0da512c910c91d	Thu Mar 14 00:21:11 2024 -0400	testing doc building --publish
+6de1aeeca47a90146b75052f5c4e8a39cc8c436e	Thu Mar 14 00:37:08 2024 -0400	testing doc building --publish
+e7d74f77bed626ad2ab9cb4d2f960f3b820b9c32	Thu Mar 14 01:15:48 2024 -0400	no time-passes
+9976638007b869b3573baf6901eb27a50eb92887	Thu Mar 14 01:50:27 2024 -0400	testing doc building --publish
+64717d74692c363bd968d21d47242fe4cc7b3553	Thu Mar 14 03:33:39 2024 -0400	testing
+fa52ca12da93c7f765e1334f7e98c65012c46d08	Thu Mar 14 03:35:05 2024 -0400	testing 2
+11b1cac60ef88fcaa4339c16fbedfee1d950a4d9	Sat Mar 16 23:58:29 2024 -0400	testing 4
+0a79805062a01d5766ca57e03d499804917f0db2	Sun Mar 17 00:07:17 2024 -0400	testing 4
+09f71dcc85910cdc1ce5bb51faf350d54bb4b26f	Sun Mar 17 00:24:54 2024 -0400	testing 5
+dc64b1139b43c13fb1304a1f20b716d7cb5a8156	Sun Mar 17 00:29:36 2024 -0400	testing 6
+876cedd2ce1ce7ae7bfb6285d9289a05b1e1ae8c	Sun Mar 17 00:58:46 2024 -0400	testing 7
+bd922584b1f2bfdfe6d701d1e93ce9848282cbaf	Sun Mar 17 01:10:22 2024 -0400	testing 8 --publish
+ebb6d06462bfac7914d1d74d7b263abefcd87b33	Sun Mar 17 01:31:28 2024 -0400	testing 9 --publish
+2b549783a6cb46ced5f014f8d91b613566dcb5b7	Sun Mar 17 01:59:21 2024 -0400	agghhhhhhhhhhhhhh
+c1fe86838ea58f3682266267b2fa6dfd413a81bb	Sun Mar 17 02:45:23 2024 -0400	testing fake BUILD_INFO --publish
+3ee8361fc0ea2edc527815e6fd1f6567c14b5e13	Sun Mar 17 03:29:26 2024 -0400	testing fake BUILD_INFO modified --publish
+32e7a0ab5c9b19d0f1bdf5ba3aa1c805dfd3638d	Sun Mar 17 03:32:43 2024 -0400	testing fake BUILD_INFO modified --publish
+aa21bf7be615115d864ffa6fc0f659f219ad6350	Sun Mar 17 04:01:34 2024 -0400	toml
+c18adbd134f2330cbd09af94505987a52a33cc35	Sun Mar 17 23:45:37 2024 -0400	testing
+7d7cb84752653bc6bfbc9c13a5fac53e8f33e0c2	Mon Mar 18 00:15:30 2024 -0400	fixed android --publish
+fb19a8e7d24089d5bc316bb1ce5b792cb6333a63	Mon Mar 18 00:55:48 2024 -0400	testing pre-commit --publish
+6257c7f1fc244b7ec01ba0bc7c93876fcbe550d0	Mon Mar 18 01:46:38 2024 -0400	adding todo notes
+05631d5d72e940ee526aa25882fb075d0a0810b2	Mon Mar 18 03:11:59 2024 -0400	clippy update
+312cb4fe312409043bfee7fc4b94b76d94da1347	Mon Mar 18 03:38:03 2024 -0400	clippy update
+48c8d1bf32205fb648e603cd26721259eb3ec496	Mon Mar 18 03:49:43 2024 -0400	bumped version --publish
+feda039eacec7ab0521b6647d454c507b3bd7a53	Mon Mar 18 03:50:02 2024 -0400	removing old config --publish
+8a28cc6b5099505d9a8872239f606196ecd696ad	Mon Mar 18 04:14:09 2024 -0400	fixing bindings
+884b90468c7ea00ca3d48b3466b3f4fbbe15d9e2	Mon Mar 18 04:30:30 2024 -0400	fixed some doc comments
+84cace703f0b2e7fc9708a1b895cf64be08e8a00	Mon Mar 18 04:30:57 2024 -0400	bumped version --publish
+9f1eb48585ed0afebc6f726a9c2b52d03720dc87	Mon Mar 18 05:15:18 2024 -0400	cargo lock
+ec845649e0bb964ad06007fda7ba8f165e93e1ce	Mon Mar 18 05:26:35 2024 -0400	clippy update --publish
+16df88f69fef55696076c709f0163a8ea85e3aad	Tue Mar 19 02:54:52 2024 -0400	AppImage
+bb6b3efe2feeb19ce9778c758983852682cb1588	Tue Mar 19 03:23:05 2024 -0400	AppImage --publish
+c4a23b9ca76ede78414451d366cc201f2a916c27	Tue Mar 19 03:31:29 2024 -0400	AppImage try 3 --publish
+23f29ee7bd2f1c4b8f3ab3f678716731acf90f90	Tue Mar 19 03:47:15 2024 -0400	AppImage try 4 --publish
+8fd3c37b6dd28ba6f404374102e18a4fc86d2476	Tue Mar 19 04:02:22 2024 -0400	AppImage try 5 --publish
+17cbfa3cae918b2544183da5c2cbbe75e56a0f74	Tue Mar 19 04:25:48 2024 -0400	AppImage try 6 --publish
+0666b1f7954f9a077bf1a994456692642e98b805	Tue Mar 19 20:27:11 2024 -0400	enhancements
+7b2da53f72019c2658116251adcc0ce9a33e7fad	Tue Mar 19 23:53:18 2024 -0400	cargo appimage stuff
+610507c31adabbc23ceab784b55bf239395fae0a	Wed Mar 20 03:42:32 2024 -0400	appimage stuff
+969ec5d60bcaae370759bb08a0c6ee58a70d421b	Wed Mar 20 23:34:18 2024 -0400	fixed android
+0c2292a468f5b0df27b1cefdf6059c863ce07e62	Wed Mar 20 23:48:13 2024 -0400	dispatch option
+cad85ce80fa54aa77346c8d6513bba373697c989	Wed Mar 20 23:50:40 2024 -0400	dispatch option fix
+c8693c59d3f6f47c00f5ded15a6eaecd991d5382	Thu Mar 21 04:04:52 2024 -0400	signing
+302cfaef6fb3f2cb84b56ec764af5ff1fef1b35a	Fri Mar 22 01:38:13 2024 -0400	signing test
+791e9812d33b96f9630ee4e1283b89ea1e31ef38	Fri Mar 22 02:10:52 2024 -0400	autoupdate
+a771a94c5c2084e77c0374fec0bd04f2de28b62a	Fri Mar 22 02:29:31 2024 -0400	signing test 2
+df7b326a3f6669dfe5b678b68ddd4a4f208e2cb3	Fri Mar 22 02:35:13 2024 -0400	signing test 3
+04769f56239cda57af4f84e9aaa4775710a5999e	Fri Mar 22 02:54:59 2024 -0400	signing test 4
+cb5db8f1963ab853af3e6e5214376f737af7e2b1	Fri Mar 22 03:09:07 2024 -0400	readme
+3a5025af563fcb5e5ea5c9e85d121cbcef0bf4c9	Fri Mar 22 03:12:58 2024 -0400	readmes
+e1281ac30e84cc1512c142936b8e329d34c5b84f	Fri Mar 22 03:29:14 2024 -0400	android
+ff85d86f24116c55b620efc8e7e9d4c4c5b53008	Fri Mar 22 05:22:43 2024 -0400	zsync
+c33dafcaa280a45cd032223787a67243f66dcfe8	Fri Mar 22 05:24:10 2024 -0400	zsync --publish
+3d30a301d23badeb14340588afde405cd0eec224	Fri Mar 22 06:37:30 2024 -0400	fix
+5113243bb599e8d9c1b08bcc10b4c035235d61d7	Fri Mar 22 06:49:09 2024 -0400	fix 2
+13ff8d5af026313b4fe3815993afd34602049e0b	Sat Mar 23 00:20:15 2024 -0400	install-desktop-file
+d804f881d5fee7ca84dc5e91a716330a49f58b76	Sat Mar 23 02:28:18 2024 -0400	desktop files
+29771f2bb686efd447eae18e1ecb0f0c7b433361	Sat Mar 23 02:36:14 2024 -0400	clippy
+508701e808dd83cc111a396fbdc875a8fcfcefe5	Sat Mar 23 04:19:41 2024 -0400	color --publish
+fd969b2a90853f1cfc031d32bc76cbc72fb5964c	Sun Mar 24 00:31:50 2024 -0400	testing autoupdate appimage --publish
+200363c76db39d4c82fc094bd9d26f4b3d5c1231	Sun Mar 24 01:42:30 2024 -0400	experiment
+988e593de1bd92cee5fd9b3fd61b57e3da59ae15	Sun Mar 24 01:47:31 2024 -0400	release experiment --publish
+8442604a18c16d52041d22e24c71be77b6dcecc7	Sun Mar 24 02:03:55 2024 -0400	release experiment --publish
+ad218595b3a3b375f72dd44f2e460a7011cabaf1	Tue Mar 26 18:44:43 2024 -0400	reverted to before fps counter and set to wait mode
+12a4bb36aba918ca44b49ed2e84b2c9bd99ae73a	Tue Mar 26 18:52:38 2024 -0400	bumped version --publish
+c098e1bb0ae9bef9d6a531a7478783b8cfac7673	Tue Mar 26 23:57:55 2024 -0400	experiment macros
+955e138f025a4ab1f00e43df0911ca69340af2d3	Wed Mar 27 05:33:10 2024 -0400	experiment macros
+3f379fad73d949a836e33cedbd9af6b2207b2e2a	Wed Mar 27 05:39:01 2024 -0400	experiment macros clippy
+ad672b541232f8c41a2612486c4dbaf6ca9078d6	Wed Mar 27 05:45:03 2024 -0400	bumped version --publish
+43c6f93ab807537bb5df4195a27f01d23e32f882	Wed Mar 27 23:49:07 2024 -0400	added code coverage to gitignore
+a53df3378ae2f9fdcc8fc9400dd64e4b10076b0d	Thu Mar 28 01:42:59 2024 -0400	assets stuff
+49dc4c4b9bc9f56c15e1e7bd2c483d4ce8175077	Thu Mar 28 01:43:38 2024 -0400	assets stuff
+7ab5297782b43512ba6c196b9396e45a8765aa5b	Thu Mar 28 01:44:06 2024 -0400	assets stuff gitignore
+1767885e35d7ea695a6cbee5ae6508a84148f882	Thu Mar 28 02:32:01 2024 -0400	bumped version --publish
+7c717ea1e9a01478eaa154bc3c2a61b7fc98e27b	Thu Mar 28 02:40:46 2024 -0400	updated asset copying
+22b0c4129e0da5a4bb0c411e0ca7d098eb49aa14	Thu Mar 28 05:46:30 2024 -0400	android
+84581b535f2ee5a205bfd59d16c7c34d0b6b8b59	Fri Mar 29 23:02:43 2024 -0400	android
+c651847b38d345c40137937d6c4206cc818ba105	Sat Mar 30 01:12:28 2024 -0400	starting work on musl support
+fb7a3af13f3304499c996ae1ca084fb6aae7b48b	Sat Mar 30 03:13:20 2024 -0400	apt cache
+39ea4f7686c74b6f54e158a13167cd741878ff04	Sat Mar 30 03:37:59 2024 -0400	apt cache fix
+f35ab3a56d1729e1489e9b5988f16992596978c8	Sun Mar 31 02:09:10 2024 -0400	run action
+567b4d6bd890eb3c5da7791e1c4abcb412acd8a1	Sun Mar 31 02:14:48 2024 -0400	run action fix
+6845a34de88a706b4eabdb22d399b64f0c763e0b	Sun Mar 31 02:42:56 2024 -0400	run action fix attempt 2
+72cace9859d341ce84ef80e6be7469a1fa5fdf2a	Sun Mar 31 03:08:27 2024 -0400	run action fix attempt 3
+44ada324043b810fbec9f40e28ed4599ee790ba6	Sun Mar 31 03:23:02 2024 -0400	run action fix attempt 4
+b9af6dfea202be28a6b58c5c1f5d4e90ed26e3ae	Sun Mar 31 04:02:40 2024 -0400	run action fix attempt 5
+e9ff226d03b23fa47c14fac8d40b54a9fef22791	Sun Mar 31 22:57:33 2024 -0400	run action fix attempt 6
+23c71c8a00387e435b898e0759e82e000a1ebab1	Tue Apr 2 00:41:52 2024 -0400	testing
+34a81b1778a92778470c6416c3b0ece88a6f2f8c	Tue Apr 2 02:24:23 2024 -0400	testing
+e0d32d7ea8ffd4f270c5a64f03db3efac29efece	Tue Apr 2 04:12:19 2024 -0400	publish --publish
+41c88007426fc8639050f64fc95f9fa16d68e95c	Tue Apr 2 04:19:04 2024 -0400	publish fix
+2e8a1d203cfe8b5475f59c707f45039f8e5ae93f	Tue Apr 2 15:52:47 2024 -0400	bumping version --publish
+5e1ec53815c9aaaa990a26a82504495796b14e95	Tue Apr 2 16:32:24 2024 -0400	bumping version --publish
+e845532166c9a716c92f02e21fadb2b9190e47e6	Tue Apr 2 17:01:55 2024 -0400	bumping version --publish
+673bb09c10c9357b48caeb8f08293a70d906544c	Tue Apr 2 17:49:51 2024 -0400	bumping version --publish
+00f528dd792aabce12a33add93429339dbe94115	Tue Apr 2 21:46:26 2024 -0400	bumping version --publish
+7dc83968df18d1f8df2a35051af133d175ab6ba0	Tue Apr 2 22:41:55 2024 -0400	bumping version --publish
+639099988fd4ef49631b3b9af4dd8832b6b788f9	Tue Apr 2 22:59:59 2024 -0400	bumping version --publish
+136a8ac14a137ec1e23983566aa28e80f9f6745a	Tue Apr 2 23:09:13 2024 -0400	bumping version --publish
+9063adc65db87ffc89ad36d315ebe52ce935bb0c	Tue Apr 2 23:30:19 2024 -0400	bumping version --publish
+38e897da2fef6c76bf424a140591d8986f72c18e	Tue Apr 2 23:31:12 2024 -0400	bumping version --publish
+6ed642b4e7a33cf28fc8ea44fd94c8746e39aac2	Tue Apr 2 23:33:03 2024 -0400	bumping version --publish
+8df63c79d86541f5cbe76be6da90365e8c73c0bd	Tue Apr 2 23:34:00 2024 -0400	bumping version --publish
+f19037b32d58e5b1dec796bffb6a3aff4e9dc7ab	Tue Apr 2 23:50:10 2024 -0400	testing --norun
+799a353ba326565455bd70f6c7d594277af84985	Tue Apr 2 23:50:29 2024 -0400	testing --norun
+b358a4f138514652a2918292a3648a4702d26f59	Tue Apr 2 23:52:14 2024 -0400	testing --norun
+bdd9bc9b15adc0d23cb880d0d86f8193164c6c28	Tue Apr 2 23:59:22 2024 -0400	testing --norun
+09a2f2dd80f9bba03fa7b096ef72be29471cb8ed	Wed Apr 3 00:03:45 2024 -0400	testing --norun
+48fe1366360aecf498d811de5976fe2e8e01da69	Wed Apr 3 00:12:10 2024 -0400	testing --norun
+7a81710b521036e62e76a97af696b65191604da7	Wed Apr 3 00:14:13 2024 -0400	testing --norun
+78d39705e8f97560a272d0f23baab1e592451c5c	Wed Apr 3 05:29:17 2024 -0400	testing publish --publish
+bc6b187401d75ae0362995c10a39e543d069f240	Wed Apr 3 05:32:24 2024 -0400	updating test name
+df2d022c47754984a49a7ed112c3a691e8413767	Thu Apr 4 18:06:23 2024 -0400	do not strip
+48dc6aa9f5b73d513596781da251a3156e4f6797	Thu Apr 4 21:28:02 2024 -0400	added link to fdroid repo
+df0832a291acdc1538df733d8fa2aa3626098093	Thu Apr 4 23:01:07 2024 -0400	variablizing
+50009b5294b826cb59b0357868209947a7588b80	Sat Apr 6 02:17:10 2024 -0400	jni prep
+b4bacbcb34cc204414d3fa3d979d48890ac9b1da	Sat Apr 6 02:17:55 2024 -0400	jni prep
+b4b55e54dc4f90949bea5136128138bbd1a5435b	Mon Apr 8 00:04:07 2024 -0400	github lost all my releases. pushing a new one --publish
+4b88509d8f7a3e9b01ce4cc329449556410fc078	Mon Apr 8 00:46:46 2024 -0400	testing --publish
+160a8570967baacff2b3b88266a55218b96693e4	Mon Apr 8 02:37:53 2024 -0400	testing --publish
+07de7faa09ca29902559520f6077b00f9f68173f	Mon Apr 8 02:56:00 2024 -0400	android test
+27a33b2938783533924138d4bd3894ed4459c56f	Mon Apr 8 03:14:12 2024 -0400	update build script --norun
+6846c4de76925ea08197cea586e476040c186f7c	Mon Apr 8 03:46:41 2024 -0400	update build script --norun
+d6586dc47652c8149bff93bde6ce75773284bbe2	Mon Apr 8 04:08:23 2024 -0400	update build script --norun
+5c05e33d4f94f9b197cf0661cf153b99150bf59b	Mon Apr 8 04:29:26 2024 -0400	update build script --norun
+0b9dc145d723a486718e426ed136a5e30c6e3eda	Mon Apr 8 05:04:21 2024 -0400	update build script --norun
+7fd17891657ed5c3b39b0c2e445ed78de09bc128	Mon Apr 8 05:39:55 2024 -0400	testing arch --publish
+3c0bc98b4a1831b10eecb1a2c1a418eae481471e	Mon Apr 8 18:05:18 2024 -0400	build script names
+34f4823ac46472e1a1aca662f850ab89cc945aa7	Mon Apr 8 18:08:52 2024 -0400	build script names again
+52f58b743bb26a8a7bc15e2e138fbad8eb8cd57e	Mon Apr 8 19:07:17 2024 -0400	junit fix
+fc2f9ac115d0ab44c4a3b4caabd7e64086417307	Mon Apr 8 19:22:28 2024 -0400	remove report
+2fdfec934fda575305c09f40bb9a2989bf3c89ee	Mon Apr 8 19:29:26 2024 -0400	remove fastlane
+f49cd0a33148f3c9a78c5c9f358219a78b7087e4	Tue Apr 9 03:39:50 2024 -0400	fix export function names
+f94b2fd04d9c87e6aa3127e81b77610e3a1de5e5	Tue Apr 9 03:53:19 2024 -0400	fix export function names --publish
+fa342b9bf5ebb6a1dfee22c692dd5c87c4bbea17	Tue Apr 9 04:19:23 2024 -0400	back key
+8eeaff0af5831d475d7ce7a21ec2b2ef2b979143	Tue Apr 9 04:41:09 2024 -0400	back key exit check
+7f21fa9bd8be54b65be03aaebf2fc228652279f6	Tue Oct 29 10:52:44 2024 -0700	fixed some examples
+ef0ef35fecc878eaf130241a61f55d354271d557	Wed Oct 30 10:44:20 2024 -0700	added proper fix for exiting game loop from ctrlc. will write proper documentation later
+981f699a9307935d708d7cd079fc135c2a9c69fe	Wed Oct 30 18:36:32 2024 -0700	Use other method of exit code handling
+1934fc77196def47703831396f1c6a62ec00c1ae	Wed Oct 30 20:09:49 2024 -0700	Fix for wasm
+efbccd8c2566140c726b1b9510fc9e85aa12892b	Wed Oct 30 20:16:29 2024 -0700	bump version
+65961cdbae4730bdd4fe09111dc827440fa5a377	Wed Oct 30 23:17:40 2024 -0700	replaced gpg keys
+748e5f3c11f17ab9e5a3c1394e46079be3f2467a	Wed Oct 30 23:40:07 2024 -0700	testing key replace
+209a7fabcb33984f5fe73447b9051f3d4ce6e69c	Thu Oct 31 00:35:51 2024 -0700	testing upload
+698f1851ec5db3cfd20de9062ad55899aff38747	Fri Nov 1 00:11:56 2024 -0700	updated dependencies within existing range via `cargo update`
+cb5038161637b67d06231979c6e3189149385a57	Fri Nov 1 00:30:27 2024 -0700	updated some dependencies
+3b970f58ce2248e81294a1e246bb40c4b8e21b7a	Fri Nov 1 01:14:50 2024 -0700	updated to latest versions and fixed most deprecations
+f8ddc0b56807a969a61232eaa69bf0d37a37b078	Fri Nov 1 01:22:30 2024 -0700	fixed hidden files
+c3be79c77c3c6fbf1e43c2699f431e276d749ce4	Fri Nov 1 01:50:56 2024 -0700	reverted WGPU to earlier version and made notes about future fixes which need to be implemented when updating
+f9e444ded3dd3ce0ad1488287e5268da42220e5d	Fri Nov 1 02:08:37 2024 -0700	added todo note
+338eceb5d6d77a8309df6d1a2e954125167431cd	Fri Nov 1 10:31:57 2024 -0700	apparently version number was older. am bumping 2 minor versions and resetting patch to 0 to fix --publish
+cb37a03c8fc0ad2661abb600581802f837885eb4	Sat Nov 2 17:39:17 2024 -0700	saving current code for bug report part 2
+5812d58c7f7d6abe24beb8ecf2a043d3396f5f9c	Sat Nov 2 20:09:25 2024 -0700	saving current code for documenting bug
+ef9a6800e4a0c7da0605a5eb4805f0b28e16c788	Sat Nov 2 22:04:21 2024 -0700	fixed for latest wgpu update --publish
+21158205e842ef47fc560216a0e092bfc2912dcb	Sun Nov 3 16:03:59 2024 -0800	changed to webgpu detection utility function --publish
+63f8268aa8b7308e984e1aed8907010b1ef7e467	Sun Nov 3 23:04:25 2024 -0800	started process of upgrading to 2024 edition early
+cde6dbeb806260c79af6c020e7ebb41e239c2676	Sun Nov 3 23:05:10 2024 -0800	ran cargo fix --edition
+6bcfd8571614488bbd28471b4b5a5a2c08a12432	Mon Nov 4 00:30:52 2024 -0800	bumped up java version, bumped down rust version --publish
+dd113de06954cca512b3aa75ba25560a92203a78	Mon Nov 4 04:36:50 2024 -0800	brought event loop proxy to wasm
+cb29f73c3f5d970b54dfc80945d12fd705417c21	Mon Nov 4 07:56:13 2024 -0800	some cleanup
+78f2ed56db17501065233535460c5354b4e73fa7	Mon Nov 4 11:23:03 2024 -0800	fixed most clippy complaints
+fe6221a4f1fb36c4df511d15eec145c32eb6c048	Mon Nov 4 11:53:09 2024 -0800	fixed android build --publish
+0d1e0dd9026aa4664a099d3001bcc08f4b041c0a	Mon Nov 4 21:53:27 2024 -0800	rewrote a couple of functions
+26bde2329da3cff345112cb335059fd0a9ab9bdb	Mon Nov 4 22:03:05 2024 -0800	removed forgejo references as im not running an independent git server atm
+7162572cf4a13100ba3748429579069326ba43c1	Tue Nov 5 10:42:59 2024 -0800	testing wasm and licensing
+4ff7583b968a818a5b48e3ff0e7bfd20eac9f33b	Tue Nov 5 12:20:49 2024 -0800	fixed unwrap to not trigger pedantic clippy
+0c4aa6dbb2c0eb3c73def2514d765852d0563da9	Tue Nov 5 19:12:49 2024 -0800	added more build info --publish
+1284a132727e6030cedc3658271e2b022c3ac669	Tue Nov 5 19:53:16 2024 -0800	renamed function to proper name --publish
+4e2b0b7b0e5334ad6ca22364128ec3b77716e9b7	Wed Nov 6 02:11:12 2024 -0800	mods to wasm build --publish
+4d86f10517efbd7dd99de23007016fde138e3107	Wed Nov 6 02:29:38 2024 -0800	adding wasm2map even though doesn't work with current wasm build process --publish
+1a1b62600a3d5e8ca2031f459cfe1025e96921fd	Wed Nov 6 02:50:27 2024 -0800	fixing build bugs --publish
+ff092683aba98dabd16b1ad2e9ec9e5789f5206f	Wed Nov 6 03:47:11 2024 -0800	testing icons --publish
+9a01a5947adb4b2664a80552cc0623b89533228e	Wed Nov 6 11:53:34 2024 -0800	added test formatted logging for wasm
+d8c7b2e2a78340649231aaa82242a87f10973985	Wed Nov 6 15:59:31 2024 -0800	updated path to icon, so pushing new install scripts
+c1acbdf7bf029d368b87c08c38a4ff7f1f1216b2	Wed Nov 6 16:10:45 2024 -0800	testing source url for aur package builds --publish
+71a608a3188b9aeb2148c765952a7142a0b05e47	Wed Nov 6 16:19:12 2024 -0800	testing cargo publish --publish
+8fd7c854a05a0147306fd6f8fff6264638d03895	Wed Nov 6 18:20:43 2024 -0800	fixing SRCINFO
+ae04857f13596d088c226dbf0802c605d6020990	Thu Nov 7 06:11:01 2024 -0800	Fixing package versions aur
+f6e7462fb9cf80828118fd53650829d4e9a9cdd6	Thu Nov 7 06:11:27 2024 -0800	Fixing package versions aur --publish
+d93dcb02234d7c0b0621df262b5c03f030c7b3e6	Thu Nov 7 06:23:31 2024 -0800	fixing comment on build script
+cf787260b6801e8bfbedf37cab9a234efac7bf38	Fri Nov 8 00:20:10 2024 -0800	wasm
+2e38d920d42776977f463c699ed0b23835434198	Fri Nov 8 01:20:37 2024 -0800	updating wasm build script
+ddf4284265456b9a48aa836fcf7c3d4caa7d7fa5	Fri Nov 8 01:27:21 2024 -0800	fixing script path
+0d69cbe27eb9e3654205ec2d2d6339fd5df45056	Fri Nov 8 01:36:13 2024 -0800	fixing scripts path
+81412b41f70c0602fd93568e50310ca1ebfd33da	Fri Nov 8 02:27:19 2024 -0800	testing new wasm generation rules --publish
+73e2320acbc2b9023bc28a002a9fcc1d9ac87c03	Fri Nov 8 02:47:08 2024 -0800	adding source generation to wasm debug environment
+cf369156e72f893bda0d1dd4f89ee64d51b3f29b	Fri Nov 8 02:52:35 2024 -0800	testing build fix --publish
+e6934fee3de5f2c8f81d6460bbbf85c68e0b07e8	Fri Nov 8 09:39:43 2024 -0800	testing build fix 2 --publish
+a76c6575c21930bb1979afb63b5ccd8d3b137b26	Fri Nov 8 10:28:36 2024 -0800	testing build fix 3 --publish
+1ba017fb8153ffe0e9dd2868d8f8a0664b66f489	Fri Nov 8 17:40:16 2024 -0800	changing script back
+26a8912b0080f08be1697e7010ed0fc791bc6907	Fri Nov 8 22:57:41 2024 -0800	updating code of conduct due to recent events on an unrelated project
+79ec3d5c4dfc3df971d6f2c47d06aadeb2c64127	Sat Nov 9 03:23:01 2024 -0800	updating icon
+5f2cfcf59c0a9acd033e175a95068853aefb5774	Sat Nov 9 10:14:16 2024 -0800	updating icon to use swatches
+3dbbecfad4ece18f52c25428b4af2c85368b45c6	Sun Nov 10 13:24:57 2024 -0800	reset
+2e01caa586861b00caba8fe084281e185c9d89b9	Sun Nov 10 13:33:41 2024 -0800	reset fix
+a23ae68d00e22508297f27ce384577906533dc58	Sun Nov 10 13:35:33 2024 -0800	reset fix 2
+e73e768c3e44563427e18ffb547971a55bda429b	Sun Nov 10 14:13:05 2024 -0800	pathfinding
+9bd39d314cd3a9761b067a6d4d6377f3ec25b3a0	Sun Nov 10 14:14:39 2024 -0800	...
+b9575a42ff55a01ae12351d9ddb528ab9fd4d40a	Sun Nov 10 16:30:26 2024 -0800	added in check for wasm on tracing subscriber to issue error message
+4a37a519309a2f5b7ed27b6a1abcdc7b7135231e	Sun Nov 10 22:25:29 2024 -0800	testing server build --publish
+310f8d0934c387aae2482c31fe01d87a141377b9	Sun Nov 10 22:26:32 2024 -0800	testing server build --publish
+0b941ce753a952832147738681b7ad737439670c	Mon Nov 11 06:06:28 2024 -0800	fixing windows build
+342cc98c3f0d12f9a09b17289c4a6fa896912c72	Mon Nov 11 07:45:22 2024 -0800	fixing server release
+d860cb800a177c885cdb07df7c6671fc786c7764	Mon Nov 11 09:51:54 2024 -0800	updating build scripts --publish
+5c070371027cbf7facaf0a7ae0b0b0a2e4fe76df	Mon Nov 11 11:09:04 2024 -0800	updating build scripts --publish
+b06e2942b912c4b2895761971023d294c0c1545f	Mon Nov 11 11:24:32 2024 -0800	updating build scripts --norun
+803dbdaeda686189e5fbc62eafd62115706b86c5	Mon Nov 11 11:34:24 2024 -0800	updating build scripts --norun
+cd6855984818505317bdfd2631a3db8d9351e9c6	Mon Nov 11 11:40:32 2024 -0800	updating build scripts --publish
+2ac53ac63cb7b541b25cf77de3a3bb333aa2c04f	Mon Nov 11 12:26:41 2024 -0800	updating build scripts --publish
+1fe1956eb8013b4b6c4123dc9bae205d24cfab27	Mon Nov 11 13:07:42 2024 -0800	testing fixes - updating build scripts --publish
+1807f2a1a63d42c61591f780ba2033ce1235d06a	Mon Nov 11 14:07:06 2024 -0800	testing gitignore. probably won't work
+f942d9770ac26191f5a037a1a9fe0470dc4d0445	Mon Nov 11 14:26:40 2024 -0800	updating repo url
+58d654d2c1a2ea73e34e8556e16cd8ec6ac93ce2	Mon Nov 11 14:34:07 2024 -0800	testing git excludes --publish
+f20e5e0a0ab9bf12539cbc183003f1460ff7ad4d	Mon Nov 11 16:05:59 2024 -0800	testing git skip worktree  --publish
+e4f9854712c1c325d2513370d0ae35cabe5970b2	Mon Nov 11 17:58:43 2024 -0800	testing build info logging --publish
+f961de9fd6abf90e267aa16895747fa9f59a72e6	Mon Nov 11 22:42:23 2024 -0800	fixed so assets are now optionally embedded
+c171b63844d45ed8e41c41a827a265571857ef34	Tue Nov 12 00:32:35 2024 -0800	no more embeds by default --publish
+2d52238951f75ba040973e4cf58cc61f424af49e	Tue Nov 12 12:11:19 2024 -0800	made logging subscription optional
+b75618d015aaf49b9ee1905d1af62babef2aab27	Tue Nov 12 12:34:27 2024 -0800	rearranged version printing
+1238084936957ebe2fb53553c1c63838ff4ce8f0	Fri Nov 15 02:12:22 2024 -0800	patching wasm for safari --publish
+bba6595d9c8d1a6c25586872b1d848a0f8ce5379	Fri Nov 15 03:16:22 2024 -0800	patching wasm for safari again --publish
+a7de357f092c0386df8674e2d7f45ab643a82269	Sat Nov 16 03:27:15 2024 -0800	saving tests
+f3fd3b2ba375b838f321fab58fcc52286c422db8	Sat Nov 16 12:53:11 2024 -0800	saving panic testing code --publish
+033d14da2e146a6a5b2a8f2182d9c4165656ad97	Sun Nov 17 08:36:27 2024 -0800	saving current work to partially undo
+2bce809452d071225e2f1ac0a16908acadd52968	Sun Nov 17 08:57:00 2024 -0800	saving panic testing code --publish
+e84a99920f693bc9c6d9ef082edb96cbe3d24672	Sun Nov 17 09:10:47 2024 -0800	saving panic testing code --publish
+5487a16b03d82d799e386d323913ff7ac76eb0f4	Tue Nov 19 15:00:38 2024 -0800	started refactoring process
+c55073572f3c5fb24cee4a01a272fb3183af6143	Tue Nov 19 15:13:47 2024 -0800	pr template message
+a3b714b8bea02906e4b58e37c2bcca5d2162a52c	Tue Nov 19 17:43:32 2024 -0800	fixed android and wasm
+1dae8c24df640fa4c68593ad359f4cf541a6ea2c	Tue Nov 19 20:06:23 2024 -0800	cleaning up
+4244992a04dd353c6a5d25e60ce92044f6376274	Tue Nov 19 20:15:36 2024 -0800	testing
+38bc9f4dc49058be738a5f5bc5bf665ef8a9b185	Tue Nov 19 20:22:10 2024 -0800	testing --publish
+881be50964a4ae45522466974eb8b0e6d93c25bd	Tue Nov 19 23:32:14 2024 -0800	saving current build code
+c03091a2de0ed43bf21c2dd82aaf4097cc7b64db	Wed Nov 20 01:08:00 2024 -0800	saving current build code
+b95ce0ce17d8846ca131ded7bd558af71f6221c9	Wed Nov 20 01:11:27 2024 -0800	clippy
+f686e5fbfc5b7759a80a5a4a90570c17485ff62b	Wed Nov 20 10:19:09 2024 -0800	reproducible builds work
+22e658d76bbb1c91fab7f575d1512554362dca43	Wed Nov 20 10:38:31 2024 -0800	saving current build
+369e2071070694af545ff1e90f9ef9cec038c61a	Thu Nov 21 02:46:10 2024 -0800	reproducible builds work
+5d2b812eae20d2a007e9e4e3bad96b91d09f28da	Thu Nov 21 03:01:14 2024 -0800	reproducible builds work
+9304a039ff15ad7abef2c1be5d54693d1d579464	Thu Nov 21 03:12:24 2024 -0800	precommit update
+80a19fc011c776d710ce349b5b8916831b273d59	Thu Nov 21 17:34:39 2024 -0800	produced modded appimagetool
+5cb573d13c0f47180d8408713eca68a640a6262a	Fri Nov 22 03:36:38 2024 -0800	testing
+9558bf7be0f280c1cad8f98aa1aaf9148aa73f7b	Sat Nov 23 01:33:10 2024 -0800	saving current modifications to licenses
+6373552bb4c2568598edc5482ffc18502f2d1fe8	Sat Nov 23 11:18:22 2024 -0800	working towards simplifying and reproducibility
+7053657b424740b7e3c25bb13a1f52796d68db47	Sat Nov 23 11:20:57 2024 -0800	moving back to stable
+e1ee9be3f5c37589eeb14236d8fbf49d7349a4c2	Sat Nov 23 11:28:25 2024 -0800	removing unused code
+530d6c7a74f5de06a7f7901e3d3ed3cc8888e086	Sat Nov 23 11:28:53 2024 -0800	removing unused code
+4e8957abbbeb63b9bed6418644e6b8306b17e3cd	Sat Nov 23 12:11:16 2024 -0800	prepping for 2024
+c602a278090d08fbdc09f9bcc6f99b641d872d20	Sun Nov 24 17:02:01 2024 -0800	saving current work
+228c3391c86d7521d41b65d845ee54bea892cf16	Mon Nov 25 09:47:06 2024 -0800	saving current work
+22fef13da3bb209a54215773976d6b81438029ab	Mon Nov 25 10:50:22 2024 -0800	testing cargo packaging --publish
+a0d90f19bba63815915412eb3880b065d1b6c5cc	Mon Nov 25 13:17:32 2024 -0800	fixing pkgver for prerelease markers
+626ef878dd8933fbfefeca99fa4c8973f9708867	Mon Nov 25 13:21:06 2024 -0800	fixing pkgver for prerelease markers
+c0f4c39ac1226208fba9281430e7f4fad77d19bf	Mon Nov 25 13:42:57 2024 -0800	testing aur packages
+67f044dc17834dd98da9a6c4907fb8b79b652e2d	Mon Nov 25 14:11:30 2024 -0800	removing reference to old png
+de5b601188c23d0e5bebd1edda36b2ae875aa862	Mon Nov 25 14:49:04 2024 -0800	secrets
+4e99b13e21bfec74fb1ac5eb3e75df763f6a74d8	Mon Nov 25 20:53:47 2024 -0800	proc macro build info setup
+8acc5dd707b9a0852406831a9d9dcf7ca8412af4	Tue Nov 26 02:11:12 2024 -0800	saving current work
+7d28e2b2bf6d7cf91ac26ef6fdb7460c951f246f	Tue Nov 26 17:57:34 2024 -0800	testing musl server
+ea0f5ee67156e8e183c6bcafef4f6c31c1c7e497	Tue Nov 26 20:18:21 2024 -0800	testing docs
+0e2d2fad823993703e75a0b1749aac488616c689	Tue Nov 26 20:31:10 2024 -0800	testing docs
+659ebbf51b3743111f864b875f5f1f6f84a1bacb	Tue Nov 26 20:33:25 2024 -0800	testing docs
+088f55de0177c8b23c207ee040e9efe6eec82681	Tue Nov 26 22:34:27 2024 -0800	disabled docs generation
+185d76c29c2d87cb531f84d35943d931f9757f1c	Wed Nov 27 00:15:00 2024 -0800	git lfs
+35a92e6654b115b20010dde5bbfbaf1400d5c13b	Wed Nov 27 01:31:30 2024 -0800	git lfs
+ed8ca6857f007c3dbf5562464994467daebb65ca	Wed Nov 27 12:26:41 2024 -0800	save rename
+e7d5890de0ca2e8dce999557869790856a88c892	Wed Nov 27 18:00:05 2024 -0800	pedantic clippy
+c15d5dabeb497f65b4f7776dc0a8e26e0d84b2f1	Wed Nov 27 22:55:38 2024 -0800	macro fix
+82b004c59b5084c899c84417fc1defe320fd2ec7	Thu Nov 28 00:47:18 2024 -0800	re-export
+66b59dfd3919126fcfc2a84b1684d52cd98acb49	Thu Nov 28 01:44:04 2024 -0800	reduced visibility where possible
+a308c36f2e28e6a7f4b942fbc4645e9d711ef21c	Thu Nov 28 03:04:56 2024 -0800	cleaning up
+f6caff7ee381e3a90fc9de8067cf3a55a5b98f46	Thu Nov 28 03:09:08 2024 -0800	removing file
+e1fdcd7a29c194b0d247a16669be1ae528a40745	Thu Nov 28 03:18:08 2024 -0800	visibility
+927bbe5011772e4c5b2fab84df2ad25681d5d20e	Thu Nov 28 03:23:36 2024 -0800	visibility
+cbaa8f819f9383073e743d7a799f22fdb45dd562	Thu Nov 28 10:43:56 2024 -0800	fixing stuff
+1aa2357de6b4747962c9b7e41448f5d873476323	Fri Nov 29 11:14:33 2024 -0800	parse2
+2384d66e1d290f5d7a85ad85b8f4254a9043bc25	Fri Nov 29 22:59:05 2024 -0800	cleaning up
+9202996d0ae2557bd8c68985d9a360e3a8e3a787	Sat Nov 30 00:08:26 2024 -0800	update wasm-bindgen
+7385b4af03d5d87de49458eb21f49b634937f666	Sat Nov 30 01:12:30 2024 -0800	fixing warnings
+45cf557cb3d0f0b172dbc74ca639d55ccffee9f9	Sat Nov 30 11:41:25 2024 -0800	wasm-bindgen versioning
+b2519173e254cd99651d67ba2d2f47659103d79f	Sat Nov 30 17:26:26 2024 -0800	wasm canvas extra detection
+934dd6bd09828d024e6ac13fb77c9c66e01af101	Sat Nov 30 18:07:03 2024 -0800	wasm testing itch io --publish
+fe844a9a31edfbc19d5e5d8edd9975d946cb58ce	Sat Nov 30 20:12:40 2024 -0800	saving current work
+e4f223bc45ec0cafec5c5e82b0f285306ee0f7e2	Sat Nov 30 20:18:56 2024 -0800	saving current work
+c29cfaf4f673d156afd48663ff7d9086f7ddeee9	Sat Nov 30 22:11:25 2024 -0800	fixing artifact name
+40a572e55a9ac79cc20b4666d8c16c1001f72359	Sun Dec 1 00:32:34 2024 -0800	saving progress for now
+95ca90ba653b34b43eff81b8210d76c4d929579a	Sun Dec 1 01:01:43 2024 -0800	wasm relative paths
+d400d922f4fa1cff38d5a45c61b453c4da62b7f8	Sun Dec 1 01:26:30 2024 -0800	saving progress for now
+6b538380ff2a16a73913d2ae189f0bf25273d1de	Sun Dec 1 04:02:43 2024 -0800	#[unsafe(no_mangle)]
+714ddfee717a8bd659f8fec56ecaa3f02989977e	Sun Dec 1 16:52:42 2024 -0800	fixing mirroring
+fa419004c9ca68931296e0a585c2f3560881aaa4	Sun Dec 1 17:00:32 2024 -0800	lfs locking
+4dadc359f459957c89f89872bd511ed7717d5434	Sun Dec 1 21:57:48 2024 -0800	fixing shallow clone mirroring
+b71185a46f416a3f420a78d5748766b77e31f653	Sun Dec 1 23:58:42 2024 -0800	testing fallback --publish
+32ed0c246aeef075cbad104379f44f11affc5df9	Mon Dec 2 00:15:59 2024 -0800	testing fallback again --publish
+06ce950d975e7cd10363c199501cb63fef475960	Mon Dec 2 00:40:24 2024 -0800	fixing about line
+bcb7e8bb61252b6045152c6864906733e54355df	Mon Dec 2 01:21:15 2024 -0800	env
+5f0323bf59ada83b81f673fdfdbb6fecfa3aa608	Mon Dec 2 14:21:05 2024 -0800	working on platform implementation separation
+5fa69670cf5273c7198652717e79c33a86451479	Mon Dec 2 17:10:00 2024 -0800	working on platform implementation separation
+bd0549f19bf4e6a05e4e3817c1c6f17c2c6c282c	Mon Dec 2 19:46:54 2024 -0800	docs stuff
+886053107d7e12a93a47b31fe1b3e886f2149957	Mon Dec 2 21:11:07 2024 -0800	macros stuff
+4514d697f1b9e37ca1dc9315a76593946cb10d74	Mon Dec 2 22:17:05 2024 -0800	removed as many clones as possible
+4934336c6f42bbe4ad7c6b845510b53644b28142	Mon Dec 2 23:00:13 2024 -0800	edit license list
+cda48ffb2edecb618de8011e06659f1540af2108	Tue Dec 3 02:33:00 2024 -0800	saving current work
+18fb8afa3b7e8c192cbbdf8a80bcb0097ad1378f	Tue Dec 3 14:02:07 2024 -0800	common crate
+c8e8fe068c7625cb6180a1fd52f969646c06e7ad	Tue Dec 3 14:34:45 2024 -0800	saving current work
+7cd7bb4f8c3e9d7e10e3fce01aa4e209ad74403b	Tue Dec 3 21:20:29 2024 -0800	serde
+af30b20b132bbbad34fc194b3a5e7b63da23480c	Thu Dec 5 00:07:49 2024 -0800	updating butler url
+8fb0e5a3a5f82c7ef61bebd4d172add24579f4b5	Thu Dec 5 09:49:53 2024 -0800	updating fallback butler url
+e08e137ee53606fd9c3133addbd8624561bf6845	Thu Dec 5 10:07:14 2024 -0800	testing itch.io address change --publish
+4f40a8f28bb60913469e1c3e1a95d18124022b45	Fri Dec 6 10:17:02 2024 -0800	Update Crowdin configuration file
+cf6d69b05d86c2ce6a9e665f5ba4ef903ea7fdc9	Sat Dec 7 17:22:48 2024 -0800	saving translation experimental code
+1724279effae0e06b1376a48a5d8db06f63f033c	Sun Dec 8 01:50:05 2024 -0800	removing translation code
+77364e0addc4926fcb95ac23bf8fb71b83239dff	Sun Dec 8 03:37:47 2024 -0800	saving current work on asset loading and locale management
+200148ae2d482542132cde29c80df7291df69ded	Sun Dec 8 20:08:41 2024 -0800	added note about generative ai ban
+d4c80ef8fa8607cb87ef58ad54f6cf4c3f000c62	Sun Dec 8 22:57:02 2024 -0800	cfg assets
+43a4608f86b751309fdf317863632d9252fd636c	Mon Dec 9 09:24:16 2024 -0800	clippy
+ce82964197a2c6720804053594303f953198bf4b	Mon Dec 9 22:54:41 2024 -0800	adding proper pr template
+42d54620682fb0ed854f280926182cd6d04b69cf	Tue Dec 10 12:37:19 2024 -0800	restricting access to secrets
+25011965701b579d4519ed389ac90a68b46bd8a3	Tue Dec 10 13:54:49 2024 -0800	testing further restrictions
+266d8a2c92205ea5b48040e6a1140e9f54082a22	Tue Dec 10 14:12:53 2024 -0800	fixing android release key path
+542c45ea18c30fdbb0e4d389b46e522f69a52dda	Tue Dec 10 15:33:43 2024 -0800	gems install github pages --norun
+8f53dc3a00171208913156f032890859a6dcc803	Tue Dec 10 15:39:59 2024 -0800	added ability to override norun --norun
+3ded6be59599f638aa20445e7b925e3e60b459be	Tue Dec 10 17:31:56 2024 -0800	fixed bundle apt package --norun
+15537ad036018e3530b4d6b6f465630caa0eb476	Tue Dec 10 18:09:22 2024 -0800	saving current work on ruby gems jekyll building
+c3615be47938163198a682a2788ab4d411faece2	Tue Dec 10 18:21:55 2024 -0800	testing ruby remote build
+4f5d1304ec01614398cc7d4f2f38530aaf025010	Tue Dec 10 19:55:49 2024 -0800	testing ruby build
+236d2d5573ca34f1bd8f2c4df8e3d297cf5bd329	Tue Dec 10 19:58:26 2024 -0800	clean
+70e7b76d068c4f728eab211bfa91fdd74766e04b	Tue Dec 10 20:01:03 2024 -0800	fixing lib
+740356483b015382c72e6609f0c5742d23d5e01a	Tue Dec 10 20:06:08 2024 -0800	fixing ci build --norun
+602fe2454ae6c31e0e5182b3f510b4e47d07112e	Tue Dec 10 20:24:21 2024 -0800	faraday
+482931a43381055526f96e1479b9432a56299b59	Tue Dec 10 20:28:20 2024 -0800	favicon
+51ee5fb291b77fe8a6d387d9a1a8c33476145f6a	Tue Dec 10 20:33:29 2024 -0800	html 5 check
+4b2bfa34b9e29c0daacd84eea4f5edcd2fc11314	Tue Dec 10 20:36:07 2024 -0800	html validator link
+fcb115f17683b1d1be51143fb2342eff7b88ec86	Tue Dec 10 20:41:10 2024 -0800	fixing build
+c7f3c4f15d626b4695a443ea2165b5dd4fc58814	Tue Dec 10 20:52:35 2024 -0800	attempting to fix jekyll build
+5871382f74a2e9b212f7d865badbc7fc074567e0	Tue Dec 10 21:20:21 2024 -0800	attempting to fix jekyll build again
+0a67c7a715eb1a14aad3bb02f2ad8cbe463ce34b	Tue Dec 10 23:14:43 2024 -0800	build scripts
+7db29fe740859e01520f733332cf1fb901695736	Tue Dec 10 23:18:12 2024 -0800	added reinstall flag
+e82a55fa123ae859ea03ca5e9d176f5235b33af5	Tue Dec 10 23:21:40 2024 -0800	fixed search and replace toolchain
+3da4e2a91105c909722eda470fda6ef8d28e4144	Tue Dec 10 23:30:22 2024 -0800	switched from curl to wget
+87a71bfde4d4ed7c0f9b1dbe2b30a241ef159d61	Tue Dec 10 23:32:09 2024 -0800	added butler to PATH
+c35f53063f1d5efe2f43775786eb64f412b93ab7	Tue Dec 10 23:49:46 2024 -0800	switched from wget to curl
+15153ed02a3635942118385812787fb982fba149	Tue Dec 10 23:55:51 2024 -0800	added redirect flag
+28803c63e373b064646b5293c437776358790a8c	Wed Dec 11 00:02:52 2024 -0800	fixed extraction
+2b094c7c8e72f24c817d5f9bcddfd63ecb42a1d4	Wed Dec 11 00:21:01 2024 -0800	add future compatibility reporting
+7abd64284a8f85f9afef7397cce008c68663b738	Wed Dec 11 00:24:07 2024 -0800	autofix
+e1f3244ceef6ae434bbb7d547e9cfbef514d13b8	Wed Dec 11 00:28:46 2024 -0800	fixing build all script
+ac00ead2eb3ea8970e32613ddd3122b23c8d857a	Wed Dec 11 01:24:43 2024 -0800	adding ability to switch profiles on examples
+e7086cee0e7c58046e5a91daf6721d5583af3cae	Wed Dec 11 01:31:18 2024 -0800	fixing android build path
+a9d9ced55f705b058058872db3ffcdab9457f34b	Wed Dec 11 01:48:16 2024 -0800	removing timing from android build.gradle
+a44e2a97b2ffc1e99a5768669b6cedc0694457a6	Wed Dec 11 02:54:52 2024 -0800	appimage
+21f83de807f9b594078e04984f43cfe773e94c4a	Wed Dec 11 03:22:16 2024 -0800	appimage
+c8648c4daf07761ab3da1a98ea389e9b880d3b70	Wed Dec 11 03:36:30 2024 -0800	saving current progress for the night
+4d9cbbe7d1971c1204424e3e0f994723cb910188	Wed Dec 11 03:40:03 2024 -0800	fix uninstall
+706933c618a3a077cbab2e79bd42b5b917e775a9	Wed Dec 11 12:42:14 2024 -0800	pedantic AppImage generation
+9afb22119fbfdd0eec3b94360720a6ced508facf	Wed Dec 11 12:44:51 2024 -0800	display AppDir directory
+2336831f09c944fd0fecb2e98cb86b59437de773	Thu Dec 12 10:26:25 2024 -0800	updating appimagetool
+3fb414a10d08a145f2fa64723293dcb520392d83	Thu Dec 12 10:42:21 2024 -0800	adding appimage runtime to fetch early
+35741a0ab5c6302bd1c886bdb5c7f958f0dd50a9	Thu Dec 12 11:04:55 2024 -0800	fixed sed
+3f874c6e5438c50145d4432942897c3883c7f7e6	Thu Dec 12 12:38:07 2024 -0800	reverted sed
+8d7ec3bb7acb3a62e1902b46176fba5c1b97ad70	Fri Dec 13 01:30:18 2024 -0800	added more files to git lfs
+9cb054047e44934a329137d948c03ac115c3db4d	Sat Dec 14 10:07:19 2024 -0800	added icns in preparation for complete history cleanup
